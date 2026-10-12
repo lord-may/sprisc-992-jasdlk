@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.860901,30.462653],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-12T17:39:30.987-05:00","outageName":"T31541","outagePoint":{"lat":30.4626529462009,"lng":-92.86090057689353},"outageRecID":"2026-10-12-0361","outageStartTime":"2026-10-12T16:18:08-05:00","outageWorkStatus":"","streetsAffected":["CHARLIE KUNTZ RD","CHARLIE KUNTZ RD HSE","CHARLIE KUNTZ RD SHOP"],"verified":true},"type":"Feature"}
+
 ]}
