@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.649238,31.243141],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1791837900000,"id":"622471","nbrOut":1,"planned":false,"timeOff":1791830043443},"type":"Feature"},
 {"geometry":{"coordinates":[-94.514617,30.785813],"type":"Point"},"properties":{"comment":"Crew Assigned","estimateTime":1791842400000,"id":"622475","nbrOut":1,"planned":false,"timeOff":1791834718918},"type":"Feature"}
 ]}
