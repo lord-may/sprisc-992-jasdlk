@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.995215,30.506311],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-12T12:55:06.897-05:00","outageName":"D53302","outagePoint":{"lat":30.506311025315878,"lng":-92.99521523763218},"outageRecID":"2026-10-12-0358","outageStartTime":"2026-10-12T12:53:39-05:00","outageWorkStatus":"","streetsAffected":["BRANDY LN HSE","GEETER PARKER RD","GEETER PARKER RD SHOP","JESSIE ARDOIN RD","JESSIE ARDOIN RD HSE"],"verified":false},"type":"Feature"}
 ]}
