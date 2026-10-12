@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-105.517712,32.849473],"type":"Point"},"properties":{"cause":"Lightning","id":"486170","nbrOut":1,"planned":false,"timeOff":1789689448000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.549369,32.854506],"type":"Point"},"properties":{"cause":"Lightning","id":"486173","nbrOut":1,"planned":false,"timeOff":1789689447000},"type":"Feature"},
 {"geometry":{"coordinates":[-105.528357,32.85068],"type":"Point"},"properties":{"cause":"Lightning","id":"486176","nbrOut":1,"planned":false,"timeOff":1789689476000},"type":"Feature"}
 ]}
