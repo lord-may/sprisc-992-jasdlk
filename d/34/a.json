@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-105.517712,32.849473],"type":"Point"},"properties":{"cause":"Lightning","id":"486170","nbrOut":1,"planned":false,"timeOff":1789689448000},"type":"Feature"},
-{"geometry":{"coordinates":[-105.549369,32.854506],"type":"Point"},"properties":{"cause":"Lightning","id":"486173","nbrOut":1,"planned":false,"timeOff":1789689447000},"type":"Feature"},
-{"geometry":{"coordinates":[-105.528357,32.85068],"type":"Point"},"properties":{"cause":"Lightning","id":"486176","nbrOut":1,"planned":false,"timeOff":1789689476000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-105.719213,32.638147],[-105.714991,32.63817],[-105.71456,32.638548],[-105.712665,32.64553],[-105.716186,32.647716],[-105.726615,32.648473],[-105.728969,32.647209],[-105.723849,32.640666],[-105.719213,32.638147]]],"type":"Polygon"},{"coordinates":[-105.719977,32.64376],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause unknown              ","id":"486253","nbrOut":49,"planned":false,"timeOff":1789700065000},"type":"Feature"}
 ]}

@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-99.162904,30.838207],"type":"Point"},"properties":{"cause":"Caused by Consumer/Vehicles/Equipment Damage","comment":"The crew is enroute to the location.","id":"417082","nbrOut":1,"planned":true,"timeOff":1791819206000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.848997,30.712216],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417165","nbrOut":1,"planned":true,"timeOff":1791811524000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.456694,30.669134],"type":"Point"},"properties":{"cause":"No known cause","id":"417168","nbrOut":1,"planned":true,"timeOff":1791812592397},"type":"Feature"}
+{"geometry":{"coordinates":[-98.848997,30.712216],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417165","nbrOut":1,"planned":true,"timeOff":1791811524000},"type":"Feature"}
 ]}

@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-97.653178,34.983948],"type":"Point"},"properties":{"cause":"VEHICLES/MACHINERY            ","crewAssigned":false,"id":"567781","nbrOut":1,"planned":false,"timeOff":1791636840000},"type":"Feature"},
-{"geometry":{"coordinates":[-97.193977,34.591624],"type":"Point"},"properties":{"crewAssigned":true,"id":"567927","nbrOut":1,"planned":false,"timeOff":1791812617869},"type":"Feature"},
 {"geometry":{"coordinates":[-97.26904,34.672782],"type":"Point"},"properties":{"crewAssigned":true,"id":"567928","nbrOut":1,"planned":false,"timeOff":1791815421000},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.054066,31.321963],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-12T11:46:23-05:00","outageName":"T52831","outagePoint":{"lat":31.321963132938897,"lng":-96.05406605587024},"outageRecID":"2026-10-12-0225","outageStartTime":"2026-10-12T11:41:01-05:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

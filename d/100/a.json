@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.342186,31.05043],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-12T11:41:44.043-05:00","outageName":"T39337","outagePoint":{"lat":31.050430232345413,"lng":-93.34218570529319},"outageRecID":"2026-10-12-0353","outageStartTime":"2026-10-12T11:41:06-05:00","outageWorkStatus":"","streetsAffected":["WILSON LOOP","WILSON LOOP SHOP IN BK"],"verified":false},"type":"Feature"}
+
 ]}
