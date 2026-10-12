@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.209809,30.340421],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-12T15:14:01.113-05:00","outageName":"T40880","outagePoint":{"lat":30.340421498255473,"lng":-93.20980900235698},"outageRecID":"2026-10-12-0359","outageStartTime":"2026-10-12T15:13:23-05:00","outageWorkStatus":"","streetsAffected":["GIST LN HSE"],"verified":false},"type":"Feature"}
+
 ]}
