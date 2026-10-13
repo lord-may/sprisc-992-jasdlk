@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.242472,36.02463],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T08:30:50.037-05:00","outageName":"D0318084FU01","outagePoint":{"lat":36.02462965505318,"lng":-91.24247150499681},"outageRecID":"2026-10-13-0122","outageStartTime":"2026-10-13T07:56:24-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
