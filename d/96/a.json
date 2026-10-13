@@ -1,11 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.073674,36.474003],"type":"Point"},"properties":{"id":"467881","nbrOut":3},"type":"Feature"},
-{"geometry":{"coordinates":[-94.964197,36.605361],"type":"Point"},"properties":{"id":"467883","nbrOut":1},"type":"Feature"},
-{"geometry":{"coordinates":[-94.981588,36.612485],"type":"Point"},"properties":{"id":"467884","nbrOut":2},"type":"Feature"},
-{"geometry":{"coordinates":[-94.968733,36.598127],"type":"Point"},"properties":{"id":"467887","nbrOut":2},"type":"Feature"},
-{"geometry":{"coordinates":[-94.981597,36.612853],"type":"Point"},"properties":{"id":"467889","nbrOut":8},"type":"Feature"},
-{"geometry":{"coordinates":[-94.993679,36.61211],"type":"Point"},"properties":{"id":"467890","nbrOut":1},"type":"Feature"},
-{"geometry":{"coordinates":[-94.963514,36.606781],"type":"Point"},"properties":{"id":"467891","nbrOut":1},"type":"Feature"},
-{"geometry":{"coordinates":[-94.952779,36.591903],"type":"Point"},"properties":{"id":"467892","nbrOut":1},"type":"Feature"},
-{"geometry":{"coordinates":[-94.970521,36.591153],"type":"Point"},"properties":{"id":"467893","nbrOut":1},"type":"Feature"}
+{"geometry":{"coordinates":[-94.969649,36.583861],"type":"Point"},"properties":{"comment":"We are currently experiencing a large outage around the Cleora area.From Ketchum to Bernice all around the Grand Lake area.","id":"467894","nbrOut":104},"type":"Feature"}
 ]}
