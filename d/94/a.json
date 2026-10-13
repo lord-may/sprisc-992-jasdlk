@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.8892,30.693408],"type":"Point"},"properties":{"cause":"PUBLIC VEHICLES / MACHINERY  ","crewAssigned":true,"id":"1341417","nbrOut":36,"planned":false,"timeOff":1791920986751},"type":"Feature"},
 {"geometry":{"coordinates":[-90.019285,30.549892],"type":"Point"},"properties":{"crewAssigned":true,"id":"1341422","nbrOut":1,"planned":false,"timeOff":1791930865662},"type":"Feature"}
 ]}

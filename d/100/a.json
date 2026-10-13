@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.211095,30.327983],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T18:02:02.71-05:00","outageName":"T82222","outagePoint":{"lat":30.32798311763362,"lng":-93.2110948282086},"outageRecID":"2026-10-13-0422","outageStartTime":"2026-10-13T17:59:40-05:00","outageWorkStatus":"","streetsAffected":["DEBRA LN HSE","DEBRA LN SHOP"],"verified":false},"type":"Feature"}
+
 ]}

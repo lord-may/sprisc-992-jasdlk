@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-108.022395,36.901764],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":8,"customersOutNow":8,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T14:26:00.677-07:00","outageName":"11F252","outagePoint":{"lat":36.9017637507193,"lng":-108.02239502495392},"outageRecID":"2026-10-13-0130","outageStartTime":"2026-10-13T14:16:52-07:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
