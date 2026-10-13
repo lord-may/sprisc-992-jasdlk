@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.82224,34.042675],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":7,"customersOutNow":7,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-13T16:56:22.107-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T12:57:12.923-05:00","outageName":"","outagePoint":{"lat":34.04267546152576,"lng":-91.822239572397},"outageRecID":"2026-10-13-0215","outageStartTime":"2026-10-13T12:52:54-05:00","outageWorkStatus":"","streetsAffected":["ANCHOR DR","ANCHOR DR."],"verified":false},"type":"Feature"}
+
 ]}
