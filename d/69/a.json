@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.533602,34.606727],"type":"Point"},"properties":{"cause":"110 Scheduled Maintenance (no equipment failure)","code":"110","crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-13T10:00:00-07:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-13T04:46:44.03-07:00","outageName":"2026-10-13-0584","outagePoint":{"lat":34.606727451408545,"lng":-92.53360201482687},"outageRecID":"2026-10-13-0584","outageStartTime":"2026-10-13T04:44:44-07:00","outageWorkStatus":"","streetsAffected":["FRONTAGE ROAD","INTERSTATE 30","INTERSTATE 30 N"],"verified":true},"type":"Feature"}
 ]}
