@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.299322,34.517611],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-13T19:00:00-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T15:03:39.417-07:00","outageName":"2026-10-13-0624","outagePoint":{"lat":34.5176111972627,"lng":-91.2993220851771},"outageRecID":"2026-10-13-0624","outageStartTime":"2026-10-13T14:52:06-07:00","outageWorkStatus":"","streetsAffected":["MARSH LN"],"verified":true},"type":"Feature"}
+
 ]}
