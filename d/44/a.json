@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-96.775263,29.779414],[-96.7729,29.789682],[-96.776054,29.793487],[-96.778165,29.791826],[-96.778344,29.790189],[-96.778722,29.78265],[-96.775263,29.779414]]],"type":"Polygon"},{"coordinates":[-96.776107,29.786829],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Fayette Electric crews are taking a clearance in the Holman area to change out a pole. A section of Seydler Rd will be without power for about 3 hours starting at 10:00am. We apologize for the inconvenience and appreciate your cooperation in this matter. For questions please call our office at 979-968-3181.","crewAssigned":true,"id":"228101","nbrOut":9,"planned":false,"timeOff":1791903960000},"type":"Feature"}
+
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.267738,30.318953],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T11:53:41.09-05:00","outageName":"T19269","outagePoint":{"lat":30.31895252020833,"lng":-93.2677377687776},"outageRecID":"2026-10-13-0400","outageStartTime":"2026-10-13T11:50:26-05:00","outageWorkStatus":"","streetsAffected":["LORRAINE DRIVE HSE","LORRAINE ST"],"verified":false},"type":"Feature"}
 ]}
