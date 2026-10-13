@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.372389,32.924582],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-13T19:56:07.093-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T16:56:07.21-05:00","outageName":"FDR3302","outagePoint":{"lat":32.92458237958462,"lng":-96.37238875126727},"outageRecID":"2026-10-13-0440","outageStartTime":"2026-10-13T16:55:41-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
