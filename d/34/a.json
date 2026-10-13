@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-105.687512,32.624288],"type":"Point"},"properties":{"cause":"OCEC Construction (Scheduled)","estimateTime":1791921600000,"id":"486882","nbrOut":1,"planned":true,"timeOff":1791907200000},"type":"Feature"},
-{"geometry":{"coordinates":[-105.687467,32.624598],"type":"Point"},"properties":{"cause":"OCEC Construction (Scheduled)","estimateTime":1791921600000,"id":"486883","nbrOut":1,"planned":true,"timeOff":1791907200000},"type":"Feature"}
+
 ]}
