@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.690878,35.809296],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-12T18:00:52.827-05:00","outageName":"UG307282","outagePoint":{"lat":35.809295898194854,"lng":-90.69087787253474},"outageRecID":"2026-10-12-0079","outageStartTime":"2026-10-12T17:53:47-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
