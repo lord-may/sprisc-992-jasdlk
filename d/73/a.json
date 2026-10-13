@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.405431,35.115559],"type":"Point"},"properties":{"cause":"Equipment Replacement","code":"131","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-13T17:45:00-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T17:15:16.44-05:00","outageName":"22007 - M101","outagePoint":{"lat":35.11555907935731,"lng":-92.40543101780497},"outageRecID":"2026-10-13-0064","outageStartTime":"2026-10-13T12:52:26-05:00","outageWorkStatus":"","streetsAffected":["CEDAR HILL LP"],"verified":true},"type":"Feature"}
+
 ]}
