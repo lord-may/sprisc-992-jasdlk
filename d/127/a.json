@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.386124,34.486059],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":13,"customersOutNow":13,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T11:06:38.02-05:00","outageName":"UGP10436","outagePoint":{"lat":34.486058783642235,"lng":-98.3861243933174},"outageRecID":"2026-10-13-0105","outageStartTime":"2026-10-13T11:06:20-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"},
-{"geometry":{"coordinates":[-98.38438,34.486045],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":15,"customersOutNow":15,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T16:24:42.3-05:00","outageName":"OCD55","outagePoint":{"lat":34.48604472659247,"lng":-98.38437966245516},"outageRecID":"2026-10-13-0106","outageStartTime":"2026-10-13T16:08:39-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
