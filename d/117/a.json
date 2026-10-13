@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.532504,30.295841],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T08:54:10.697-05:00","outageName":"152444","outagePoint":{"lat":30.29584062923001,"lng":-95.5325040761797},"outageRecID":"2026-10-13-0227","outageStartTime":"2026-10-13T08:01:00-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}

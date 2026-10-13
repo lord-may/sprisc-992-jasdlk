@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.954291,29.901907],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T10:26:29.417-05:00","outageName":"","outagePoint":{"lat":29.90190683508434,"lng":-97.95429079494765},"outageRecID":"2026-10-13-0046","outageStartTime":"2026-10-13T10:25:45-05:00","outageWorkStatus":"","streetsAffected":["SAGEWOOD TRL"],"verified":false},"type":"Feature"}
 ]}
