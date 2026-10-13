@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-89.992318,30.603149],"type":"Point"},"properties":{"crewAssigned":true,"id":"1341390","nbrOut":1,"planned":false,"timeOff":1791903638127},"type":"Feature"},
-{"geometry":{"coordinates":[-90.084027,30.5665],"type":"Point"},"properties":{"crewAssigned":true,"id":"1341391","nbrOut":3,"planned":false,"timeOff":1791903709657},"type":"Feature"},
-{"geometry":{"coordinates":[-90.010446,30.480629],"type":"Point"},"properties":{"crewAssigned":true,"id":"1341397","nbrOut":40,"planned":false,"timeOff":1791903867330},"type":"Feature"},
-{"geometry":{"coordinates":[-90.302407,30.792581],"type":"Point"},"properties":{"cause":"OTHER, FAULTY EQUIPMENT       ","crewAssigned":true,"id":"1341398","nbrOut":4,"planned":false,"timeOff":1791905299313},"type":"Feature"}
+{"geometry":{"coordinates":[-90.010446,30.480629],"type":"Point"},"properties":{"crewAssigned":true,"id":"1341397","nbrOut":40,"planned":false,"timeOff":1791903867330},"type":"Feature"}
 ]}

@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.199581,36.12259],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"","AssignedTo":"","CaseNumber":"261013-P0002","CaseStatus":"Predicted","Cause":"","CutomersAffected":13,"ElementName":"","EndTime":"/Date(-62135575200000)/","OutageTime":"10/13/2026 10:14:15 AM","PoleNumber":"S-25858","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-97.19958091257814,"Y":36.12259039056861,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
-{"geometry":{"coordinates":[-97.059202,36.119257],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"","AssignedTo":"","CaseNumber":"261013-P0005","CaseStatus":"Predicted","Cause":"","CutomersAffected":4,"ElementName":"","EndTime":"/Date(-62135575200000)/","OutageTime":"10/13/2026 10:24:18 AM","PoleNumber":"S-26624","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-97.05920206536429,"Y":36.11925711586405,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
