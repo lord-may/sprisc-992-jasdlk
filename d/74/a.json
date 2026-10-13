@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.503316,30.896779],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T14:06:56.97-05:00","outageName":"T48184","outagePoint":{"lat":30.896778786844216,"lng":-96.5033156990249},"outageRecID":"2026-10-13-0232","outageStartTime":"2026-10-13T14:03:44-05:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
