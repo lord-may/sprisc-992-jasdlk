@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.256064,33.897786],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-13T11:59:03.047-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T08:00:37.5-05:00","outageName":"","outagePoint":{"lat":33.897785563226364,"lng":-91.25606382907634},"outageRecID":"2026-10-13-0200","outageStartTime":"2026-10-13T07:58:05-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["HIGHWAY 1 N"],"verified":false},"type":"Feature"}
 ]}
