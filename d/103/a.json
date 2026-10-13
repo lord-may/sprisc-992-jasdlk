@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.920337,29.87845],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T05:55:32.333-05:00","outageName":"","outagePoint":{"lat":29.87845045973548,"lng":-97.92033685984221},"outageRecID":"2026-10-13-0045","outageStartTime":"2026-10-13T05:51:41-05:00","outageWorkStatus":"","streetsAffected":["BARBARA DR"],"verified":false},"type":"Feature"}
 ]}
