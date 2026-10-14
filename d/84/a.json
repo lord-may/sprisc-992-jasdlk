@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-89.94804,30.02631],"type":"Point"},"properties":{"cause":"Other - Scheduled Interruption/An emergency repair","description":"Reliability maintenance and upgrades are underway in your area. We apologize for the inconvenience as we work to improve our electrical service to you.","etrTime":1791982800000,"id":355328,"identifier":"2287185237","lastUpdatedTime":1791977056000,"latitude":30.02631,"longitude":-89.94804,"numPeople":48,"startTime":1791976798000,"status":"First Responder has arrived","title":"Outage"},"type":"Feature"}
 ]}
