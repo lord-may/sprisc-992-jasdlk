@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.815566,28.92115],"type":"Point"},"properties":{"comment":"active power fail, and mtr is only talking at 47%.","crewAssigned":true,"id":"334592","nbrOut":1,"planned":false,"timeOff":1791996215366},"type":"Feature"},
-{"geometry":{"coordinates":[-98.682557,28.472153],"type":"Point"},"properties":{"comment":"KEC crew working at location.","crewAssigned":true,"id":"334593","nbrOut":1,"planned":false,"timeOff":1791994936000},"type":"Feature"}
+
 ]}
