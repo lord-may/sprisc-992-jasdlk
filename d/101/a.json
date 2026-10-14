@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.278161,34.804485],"type":"Point"},"properties":{"cause":"Cause unknown","code":"999","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-14T16:41:53-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T12:48:51-05:00","outageName":"","outagePoint":{"lat":34.804485432188585,"lng":-92.27816066928096},"outageRecID":"2026-10-14-0153","outageStartTime":"2026-10-14T12:41:53-05:00","outageWorkStatus":"Repair in Progress","statusMessage":null,"streetsAffected":["NELSON DR"],"verified":true},"type":"Feature"}
 ]}
