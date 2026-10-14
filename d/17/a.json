@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.848997,30.712216],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417165","nbrOut":1,"planned":true,"timeOff":1791982800000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.192594,30.167876],"type":"Point"},"properties":{"cause":"Caused by Consumer/Vehicles/Equipment Damage","id":"417236","nbrOut":1,"planned":true,"timeOff":1792004291000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.120082,30.926119],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417237","nbrOut":1,"planned":true,"timeOff":1792004601000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.930294,30.196506],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417239","nbrOut":1,"planned":true,"timeOff":1792006348000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.848997,30.712216],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417165","nbrOut":1,"planned":true,"timeOff":1791982800000},"type":"Feature"}
 ]}

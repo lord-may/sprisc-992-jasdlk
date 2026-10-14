@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.725676,28.897692],"type":"Point"},"properties":{"comment":"KEC Contractor working on location","crewAssigned":true,"estimateTime":1792010400000,"id":"334595","nbrOut":2,"planned":false,"timeOff":1792003080000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.635629,29.043627],"type":"Point"},"properties":{"comment":"KEC Contractor working on location","crewAssigned":true,"estimateTime":1792014000000,"id":"334598","nbrOut":2,"planned":false,"timeOff":1792006959000},"type":"Feature"}
 ]}
