@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.208197,30.752167],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417213","nbrOut":1,"planned":false,"timeOff":1791980942000},"type":"Feature"}
+{"geometry":{"coordinates":[-99.208197,30.752167],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417213","nbrOut":1,"planned":true,"timeOff":1791980942000},"type":"Feature"},
+{"geometry":{"coordinates":[-99.246888,30.092256],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"417214","lifeCycleStatus":"Crew Enroute","nbrOut":1,"planned":false,"timeOff":1791981158000},"type":"Feature"}
 ]}
