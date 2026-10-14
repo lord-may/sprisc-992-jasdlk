@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.446812,31.353008],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":9,"customersOutNow":9,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-14T12:11:34.367-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T08:18:41.337-05:00","outageName":"1C-105P","outagePoint":{"lat":31.3530082068105,"lng":-95.44681211745302},"outageRecID":"2026-10-14-0244","outageStartTime":"2026-10-14T08:11:27-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
