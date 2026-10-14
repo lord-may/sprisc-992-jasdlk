@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-90.05203,30.44605],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["St. Tammany (3)"]},{"property":"feeder","value":"4374C"},{"property":"predictedDevice","value":"4037464932"},{"property":"substation","value":"Hunt Dr"}],"cause":"","etrTime":1792024200000,"id":2233755,"identifier":"INC 8105410413","lastUpdatedTime":1792016708000,"latitude":30.44605,"longitude":-90.05203,"numPeople":3,"startTime":1792016427000,"status":"","title":"Outage"},"type":"Feature"}
 ]}
