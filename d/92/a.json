@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-105.120398,35.596414],"type":"Point"},"properties":{"incident":{"affected_count":1,"etr":"","incident_category":"Power Outage","incident_department":"Power","polygon_coords":[],"sk_id":"incident-power-poweroutage-533ff560-dbe3-4ea3-93e0-5a6abbc9efba","start_time":1791990425,"status":"New","title":"Resident Reported Power Outage"},"map":{"center":{"lat":35.596414,"lng":-105.120398},"radius":200,"type":"circle"}},"type":"Feature"}
+{"geometry":{"coordinates":[-105.120398,35.596414],"type":"Point"},"properties":{"incident":{"affected_count":1,"etr":"","incident_category":"Power Outage","incident_department":"Power","polygon_coords":[],"sk_id":"incident-power-poweroutage-533ff560-dbe3-4ea3-93e0-5a6abbc9efba","start_time":1791990425,"status":"In Progress","title":"Resident Reported Power Outage"},"map":{"center":{"lat":35.596414,"lng":-105.120398},"radius":200,"type":"circle"}},"type":"Feature"}
 ]}
