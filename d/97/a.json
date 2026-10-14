@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.789966,29.503116],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":103,"customersOutNow":103,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-13T20:52:45.787-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T19:00:18.25-05:00","outageName":"OH65567685004","outagePoint":{"lat":29.503115698071078,"lng":-97.78996619535206},"outageRecID":"2026-10-13-0906","outageStartTime":"2026-10-13T18:48:47-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}

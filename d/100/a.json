@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.373639,30.743408],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-13T18:52:43.013-05:00","outageName":"OH024_1282","outagePoint":{"lat":30.743407920735137,"lng":-93.37363881154118},"outageRecID":"2026-10-13-0426","outageStartTime":"2026-10-13T18:42:59-05:00","outageWorkStatus":"","streetsAffected":["PONDEROSA RD MH","PONDEROSA RD RV"],"verified":true},"type":"Feature"}
+
 ]}
