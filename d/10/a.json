@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.13975,31.36459],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Rapides (1)"]},{"property":"feeder","value":"5444A"},{"property":"predictedDevice","value":"1124025451"},{"property":"substation","value":"Deville"}],"cause":"","etrTime":1791966600000,"id":2233350,"identifier":"INC 8105410283","lastUpdatedTime":1791959710000,"latitude":31.36459,"longitude":-92.13975,"numPeople":1,"startTime":1791959366000,"status":"","title":"Outage"},"type":"Feature"}
 ]}
