@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.222213,34.811366],"type":"Point"},"properties":{"cause":"Cause unknown","code":"999","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-14T15:35:34-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T11:49:02.703-05:00","outageName":"","outagePoint":{"lat":34.81136581689226,"lng":-92.22221346846902},"outageRecID":"2026-10-14-0152","outageStartTime":"2026-10-14T11:27:42-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["COULTER RD"],"verified":true},"type":"Feature"}
+
 ]}
