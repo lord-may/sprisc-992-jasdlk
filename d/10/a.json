@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.66642,31.53688],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Grant (5)"]},{"property":"feeder","value":"5762"},{"property":"predictedDevice","value":"Temporary switch on ACL:158942910452662"},{"property":"substation","value":"Sherwood"}],"cause":"","etrTime":1791986400000,"id":2233378,"identifier":"INC 8105410290","lastUpdatedTime":1791979429000,"latitude":31.53688,"longitude":-92.66642,"numPeople":5,"startTime":1791978842000,"status":"","title":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-93.65072,32.23587],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["DeSoto (2)"]},{"property":"feeder","value":"5310"},{"property":"predictedDevice","value":"6442457258"},{"property":"substation","value":"Mansfield"}],"cause":"","etrTime":1791987300000,"id":2233384,"identifier":"INC 8105410291","lastUpdatedTime":1791980030000,"latitude":32.23587,"longitude":-93.65072,"numPeople":2,"startTime":1791979417000,"status":"","title":"Outage"},"type":"Feature"}
 ]}
