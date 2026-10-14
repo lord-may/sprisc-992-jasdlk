@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.625381,31.319114],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-14T13:52:23.99-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T09:57:34.213-05:00","outageName":"3R-STORAGE T","outagePoint":{"lat":31.319113665754486,"lng":-95.6253810246856},"outageRecID":"2026-10-14-0246","outageStartTime":"2026-10-14T09:51:54-05:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
