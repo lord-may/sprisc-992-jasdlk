@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.188767,29.780521],"type":"Point"},"properties":{"crewAssigned":false,"id":"228103","nbrOut":1,"planned":false,"timeOff":1791984251087},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-97.189234,29.779009],[-97.188767,29.780521],[-97.189656,29.780521],[-97.189234,29.779009]]],"type":"Polygon"},{"coordinates":[-97.189216,29.780015],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Fayette Electric is aware of a power outage southeast of Cistern off St Hwy 95.","crewAssigned":true,"id":"228104","nbrOut":3,"planned":false,"timeOff":1791984251087},"type":"Feature"}
 ]}
