@@ -1,6 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-98.307492,29.038185],"type":"Point"},"properties":{"comment":"KEC Contractor working on location","crewAssigned":true,"estimateTime":1791993600000,"id":"334585","nbrOut":3,"planned":false,"timeOff":1791982504000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.622154,28.923807],"type":"Point"},"properties":{"comment":"KEC Contractor working on location","crewAssigned":true,"id":"334586","nbrOut":1,"planned":true,"timeOff":1791985644291},"type":"Feature"},
+{"geometry":{"coordinates":[-98.622154,28.923807],"type":"Point"},"properties":{"comment":"KEC Contractor working on location","crewAssigned":true,"estimateTime":1791996600000,"id":"334586","nbrOut":1,"planned":false,"timeOff":1791989333000},"type":"Feature"},
 {"geometry":{"coordinates":[-97.825834,28.911911],"type":"Point"},"properties":{"comment":"KEC crew working at location.","crewAssigned":true,"id":"334587","nbrOut":1,"planned":false,"timeOff":1791985692000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.63447,29.043769],"type":"Point"},"properties":{"comment":"KEC Contractor working on location","crewAssigned":true,"estimateTime":1791993000000,"id":"334590","nbrOut":8,"planned":false,"timeOff":1791985858000},"type":"Feature"}
 ]}
