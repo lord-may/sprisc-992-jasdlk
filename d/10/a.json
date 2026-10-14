@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.06502,30.36078],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["St. Tammany (11)"]},{"property":"feeder","value":"4077C"},{"property":"predictedDevice","value":"3999361822"},{"property":"substation","value":"Penn St."}],"cause":"","etrTime":1792024200000,"id":2233761,"identifier":"INC 8105410416","lastUpdatedTime":1792017229000,"latitude":30.36078,"longitude":-90.06502,"numPeople":11,"startTime":1792016726000,"status":"","title":"Outage"},"type":"Feature"}
+
 ]}
