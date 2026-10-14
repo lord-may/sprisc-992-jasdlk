@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.843384,33.939854],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-14T22:17:59.457-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T18:20:02.53-05:00","outageName":"","outagePoint":{"lat":33.93985419900207,"lng":-91.84338429930324},"outageRecID":"2026-10-14-0231","outageStartTime":"2026-10-14T18:17:58-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["LINCOLN AVE.","S LINCOLN AVE"],"verified":false},"type":"Feature"}
 ]}
