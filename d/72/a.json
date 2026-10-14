@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.797423,33.844023],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-14T12:46:29-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T09:49:30.167-05:00","outageName":"","outagePoint":{"lat":33.84402283352778,"lng":-91.79742278851933},"outageRecID":"2026-10-14-0224","outageStartTime":"2026-10-14T08:46:29-05:00","outageWorkStatus":"","streetsAffected":["LANCASTER RD."],"verified":false},"type":"Feature"}
+
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-108.239271,36.731699],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T07:13:46.983-07:00","outageName":"TAA076969","outagePoint":{"lat":36.7316987868001,"lng":-108.23927133467491},"outageRecID":"2026-10-14-0140","outageStartTime":"2026-10-14T07:09:13-07:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
