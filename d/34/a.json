@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-105.671189,33.424764],[-105.670192,33.425282],[-105.670498,33.425806],[-105.671189,33.424764]]],"type":"Polygon"},{"coordinates":[-105.670632,33.425289],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"OCEC Maintenance (scheduled)","estimateTime":1792016953000,"id":"486891","nbrOut":3,"planned":false,"timeOff":1792006153854},"type":"Feature"},
-{"geometry":{"coordinates":[-105.580765,33.545209],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"486893","nbrOut":1,"planned":false,"timeOff":1792011794501},"type":"Feature"}
+
 ]}
