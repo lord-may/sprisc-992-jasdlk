@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-98.976647,28.864286],"type":"Point"},"properties":{"crewAssigned":true,"id":"874041","nbrOut":35,"planned":false,"timeOff":1792024742000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.761757,29.142409],"type":"Point"},"properties":{"crewAssigned":true,"id":"874045","nbrOut":2,"planned":false,"timeOff":1792027825000},"type":"Feature"}
+{"geometry":{"coordinates":[-99.761757,29.142409],"type":"Point"},"properties":{"crewAssigned":true,"id":"874045","nbrOut":2,"planned":false,"timeOff":1792027825000},"type":"Feature"},
+{"geometry":{"coordinates":[-99.763302,29.141797],"type":"Point"},"properties":{"cause":"De-Energize for Safety","crewAssigned":true,"id":"874046","nbrOut":1,"planned":false,"timeOff":1792030742000},"type":"Feature"}
 ]}
