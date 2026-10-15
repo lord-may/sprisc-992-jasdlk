@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.914874,36.147528],"type":"Point"},"properties":{"comment":"We are aware of outages in your area.  Crews are working as quickly as possible to restore power.","crewAssigned":true,"id":"331004","nbrOut":775,"planned":false,"timeOff":1792091433609},"type":"Feature"}
+
 ]}
