@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-90.656705,35.670806],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":7,"customersOutNow":7,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T09:38:24.53-05:00","outageName":"H0815151FU01","outagePoint":{"lat":35.670806197897036,"lng":-90.6567045791577},"outageRecID":"2026-10-15-0139","outageStartTime":"2026-10-15T09:24:02-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

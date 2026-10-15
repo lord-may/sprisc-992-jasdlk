@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.318184,34.08287],"type":"Point"},"properties":{"cause":"490 Maintenance, other","code":"490","crewAssigned":true,"customersOutInitially":11,"customersOutNow":11,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-15T13:29:49.36-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T09:30:33.347-05:00","outageName":"","outagePoint":{"lat":34.08287033333434,"lng":-92.31818412065496},"outageRecID":"2026-10-15-0237","outageStartTime":"2026-10-15T09:29:47-05:00","outageWorkStatus":"Repair in Progress","streetsAffected":["GRANT 22","GRANT 22 RD.","GRANT 221 RD.","GRANT 24","GRANT 24 RD.","GRANT 242"],"verified":true},"type":"Feature"}
 ]}
