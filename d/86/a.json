@@ -1,10 +1,11 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-97.276496,34.724215],"type":"Point"},"properties":{"cause":"THUNDERSTORM DOWNBURST WINDS","crewAssigned":false,"id":"568217","nbrOut":1,"planned":true,"timeOff":1792035507000},"type":"Feature"},
 {"geometry":{"coordinates":[-97.758649,34.871742],"type":"Point"},"properties":{"crewAssigned":true,"id":"568385","nbrOut":1,"planned":true,"timeOff":1792052737000},"type":"Feature"},
-{"geometry":{"coordinates":[-97.651318,34.649943],"type":"Point"},"properties":{"crewAssigned":true,"id":"568398","nbrOut":1,"planned":false,"timeOff":1792062480000},"type":"Feature"},
 {"geometry":{"coordinates":[-97.527108,34.782353],"type":"Point"},"properties":{"crewAssigned":true,"id":"568401","nbrOut":1,"planned":false,"timeOff":1792063140000},"type":"Feature"},
 {"geometry":{"coordinates":[-97.472661,34.661995],"type":"Point"},"properties":{"crewAssigned":false,"id":"568407","nbrOut":1,"planned":false,"timeOff":1792067969182},"type":"Feature"},
 {"geometry":{"coordinates":[-97.565295,35.005591],"type":"Point"},"properties":{"crewAssigned":true,"id":"568409","nbrOut":1,"planned":false,"timeOff":1792069402721},"type":"Feature"},
 {"geometry":{"coordinates":[-97.6187,34.992],"type":"Point"},"properties":{"crewAssigned":true,"id":"568410","nbrOut":1,"planned":false,"timeOff":1792069428163},"type":"Feature"},
-{"geometry":{"coordinates":[-97.729364,34.876068],"type":"Point"},"properties":{"crewAssigned":false,"id":"568413","nbrOut":1,"planned":false,"timeOff":1792072130179},"type":"Feature"}
+{"geometry":{"coordinates":[-97.729364,34.876068],"type":"Point"},"properties":{"crewAssigned":false,"id":"568413","nbrOut":1,"planned":false,"timeOff":1792072130179},"type":"Feature"},
+{"geometry":{"coordinates":[-97.264602,34.556852],"type":"Point"},"properties":{"crewAssigned":false,"id":"568414","nbrOut":1,"planned":false,"timeOff":1792073241449},"type":"Feature"},
+{"geometry":{"coordinates":[-97.572248,34.809729],"type":"Point"},"properties":{"crewAssigned":true,"id":"568415","nbrOut":1,"planned":false,"timeOff":1792073373553},"type":"Feature"}
 ]}

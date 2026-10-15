@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.520098,36.491863],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Truck 47","CaseNumber":"261013-P0002","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T-69873","EndTime":"/Date(-62135575200000)/","OutageTime":"10/13/2026 6:11:00 PM","PoleNumber":"69873","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-99.52009828756304,"Y":36.491862936583075,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
