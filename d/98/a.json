@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.169387,32.828612],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-15T11:20:49-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T08:23:25.29-05:00","outageName":"FDR5505 - structure fire","outagePoint":{"lat":32.82861203657524,"lng":-96.16938704878955},"outageRecID":"2026-10-15-0482","outageStartTime":"2026-10-15T08:20:49-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
