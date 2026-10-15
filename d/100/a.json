@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.563737,30.781678],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-14T19:04:20.467-05:00","outageName":"T19627","outagePoint":{"lat":30.78167786005833,"lng":-93.56373659193342},"outageRecID":"2026-10-14-0465","outageStartTime":"2026-10-14T18:59:11-05:00","outageWorkStatus":"","streetsAffected":["SAND LAKE RD MH"],"verified":true},"type":"Feature"}
 ]}
