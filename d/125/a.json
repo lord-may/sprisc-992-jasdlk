@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-99.411281,31.811238],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T10:50:30.067-05:00","outageName":"TR_8376","outagePoint":{"lat":31.811238328793813,"lng":-99.41128131204549},"outageRecID":"2026-10-15-0081","outageStartTime":"2026-10-14T08:15:54.87-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
