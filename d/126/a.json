@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.09317,36.269323],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":136,"customersOutNow":136,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T14:41:52.833-05:00","outageName":"13 08 ESE","outagePoint":{"lat":36.26932303930496,"lng":-97.0931703692016},"outageRecID":"2026-10-15-0128","outageStartTime":"2026-10-15T14:41:51-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
