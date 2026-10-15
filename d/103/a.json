@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.91769,29.901558],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T10:26:53.207-05:00","outageName":"","outagePoint":{"lat":29.90155807229322,"lng":-97.91769018618646},"outageRecID":"2026-10-15-0053","outageStartTime":"2026-10-15T10:22:57-05:00","outageWorkStatus":"","streetsAffected":["POST RD 316"],"verified":false},"type":"Feature"}
+
 ]}

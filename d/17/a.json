@@ -1,9 +1,10 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-98.848997,30.712216],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417165","nbrOut":1,"planned":true,"timeOff":1792069200000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.460143,30.772924],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417242","nbrOut":1,"planned":true,"timeOff":1792069838000},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-99.092413,30.616254],[-99.082226,30.624919],[-99.092575,30.618758],[-99.092413,30.616254]]],"type":"Polygon"},{"coordinates":[-99.089072,30.61998],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause to be determined","id":"417245","nbrOut":4,"planned":true,"timeOff":1792071025000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.88183,30.474451],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417247","nbrOut":1,"planned":true,"timeOff":1792071710000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.722478,30.135383],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417248","nbrOut":1,"planned":true,"timeOff":1792072011000},"type":"Feature"},
 {"geometry":{"coordinates":[-99.003642,30.426251],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"417250","lifeCycleStatus":"Issue Identified","nbrOut":1,"planned":false,"timeOff":1792076602000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.93219,30.204969],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417251","nbrOut":1,"planned":true,"timeOff":1792077338331},"type":"Feature"}
+{"geometry":{"coordinates":[-98.93219,30.204969],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417251","nbrOut":1,"planned":true,"timeOff":1792077338331},"type":"Feature"},
+{"geometry":{"coordinates":[-98.93201,30.197329],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417252","nbrOut":2,"planned":true,"timeOff":1792078082675},"type":"Feature"},
+{"geometry":{"coordinates":[-99.259374,30.264303],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417253","nbrOut":1,"planned":false,"timeOff":1792078360000},"type":"Feature"}
 ]}
