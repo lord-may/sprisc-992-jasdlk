@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.091305,32.374587],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"486895","nbrOut":1,"planned":false,"timeOff":1792045680000},"type":"Feature"}
+{"geometry":{"coordinates":[-106.091305,32.374587],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"486895","nbrOut":1,"planned":false,"timeOff":1792045680000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-106.084388,32.37096],[-106.084217,32.371036],[-106.070787,32.383159],[-106.058354,32.394811],[-106.091305,32.374587],[-106.092032,32.372766],[-106.092068,32.371279],[-106.084388,32.37096]]],"type":"Polygon"},{"coordinates":[-106.07889,32.379457],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause unknown              ","comment":"Crew is in area replacing broken pole in area. ETR is 7:00AM.","id":"486897","nbrOut":10,"planned":false,"timeOff":1792062545000},"type":"Feature"}
 ]}
