@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.227298,34.901318],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":25,"customersOutNow":25,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T04:38:39.5-07:00","outageName":"2026-10-15-0654","outagePoint":{"lat":34.90131811988648,"lng":-92.2272983827186},"outageRecID":"2026-10-15-0656","outageStartTime":"2026-10-15T00:49:07-07:00","outageWorkStatus":"","streetsAffected":["BATESVILLE PIKE","NORTHVIEW DR","NORTHVIEW RD","STONE MOUNTAIN DR"],"verified":false},"type":"Feature"}
 ]}
