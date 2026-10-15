@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.895339,33.566943],"type":"Point"},"properties":{"cause":"730 Fire","code":"730","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-15T18:11:50.73-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T14:12:38.477-05:00","outageName":"","outagePoint":{"lat":33.56694275632788,"lng":-91.89533870273397},"outageRecID":"2026-10-15-0239","outageStartTime":"2026-10-15T14:11:48-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["SARAH LN"],"verified":false},"type":"Feature"}
 ]}
