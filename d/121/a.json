@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.473774,31.412186],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-15T13:52:41.853-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T09:55:34.12-05:00","outageName":"1C-120P9P2 T","outagePoint":{"lat":31.412186188227146,"lng":-95.47377407942831},"outageRecID":"2026-10-15-0251","outageStartTime":"2026-10-15T09:52:20-05:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
