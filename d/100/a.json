@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.035269,30.751763],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T08:19:03.787-05:00","outageName":"T87314","outagePoint":{"lat":30.751762833314693,"lng":-93.03526903333585},"outageRecID":"2026-10-15-0473","outageStartTime":"2026-10-15T08:07:34-05:00","outageWorkStatus":"","streetsAffected":["EBBIE PERKINS RD RV"],"verified":false},"type":"Feature"}
+
 ]}
