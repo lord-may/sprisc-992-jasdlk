@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-97.084661,29.917464],[-97.073405,29.931423],[-97.069677,29.936242],[-97.082756,29.944711],[-97.087113,29.933401],[-97.087284,29.93228],[-97.084661,29.917464]]],"type":"Polygon"},{"coordinates":[-97.080286,29.932537],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Fayette Electric is aware of a power outage West of West Point on the South side of Hwy 71. A crew is on site.","crewAssigned":true,"id":"228114","nbrOut":13,"planned":false,"timeOff":1792054380641},"type":"Feature"}
+
 ]}
