@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.84766,30.5371],"type":"Point"},"properties":{"cause":{"EN-US":"Scheduled outage","es-US":"Apagón programado","orig":"PLAN- Planned Interruptions"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"On-site","es-US":"En sitio","orig":"On-Site"},"cust_a":{"val":1},"etr":"2026-10-15T08:00:00Z","etr_confidence":null,"inc_id":"J.26.10.1846","n_out":1,"start_time":"2026-10-15T03:35:10.623Z","title":"Area Outage"},"type":"Feature"}
 ]}
