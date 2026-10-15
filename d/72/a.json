@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.048186,34.013784],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-15T15:03:20.577-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T11:12:07.13-05:00","outageName":"","outagePoint":{"lat":34.013783919976255,"lng":-92.04818568282082},"outageRecID":"2026-10-15-0238","outageStartTime":"2026-10-15T11:03:15-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["HILL HARPER RD"],"verified":false},"type":"Feature"}
 ]}
