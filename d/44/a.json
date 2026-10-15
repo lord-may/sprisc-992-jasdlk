@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-96.576142,29.96301],[-96.568318,29.965111],[-96.564357,29.967625],[-96.557628,29.973998],[-96.56547,29.980893],[-96.573492,29.983172],[-96.577382,29.980488],[-96.583509,29.974706],[-96.586266,29.97031],[-96.585503,29.967921],[-96.576142,29.96301]]],"type":"Polygon"},{"coordinates":[-96.572531,29.972831],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Fayette Electric is aware of a power outage east and northeast of Willow Springs.","crewAssigned":false,"id":"228156","nbrOut":29,"planned":false,"timeOff":1792100961489},"type":"Feature"}
 ]}
