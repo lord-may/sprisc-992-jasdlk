@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-99.40149,30.43424],[-99.37448,30.46089],[-99.38628,30.4756],[-99.41537,30.48488],[-99.42864,30.46439],[-99.40149,30.43424]]],"type":"Polygon"},{"coordinates":[-99.40231,30.46183],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Assessing","es-US":"Evaluando","orig":"_default"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"En-route ","es-US":"En camino","orig":"En-Route"},"cust_a":{"val":20},"etr":"2026-10-16T09:45:00Z","etr_confidence":null,"inc_id":"J.26.10.1960","n_out":1,"start_time":"2026-10-16T06:33:25.100Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
