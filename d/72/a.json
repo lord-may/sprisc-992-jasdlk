@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.616212,33.781602],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":21,"customersOutNow":21,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-16T16:13:44.48-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-16T12:20:21.063-05:00","outageName":"","outagePoint":{"lat":33.781601980564105,"lng":-91.61621205901949},"outageRecID":"2026-10-16-0253","outageStartTime":"2026-10-16T12:13:31-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["BURKE LN","BURKE LN.","HIGHWAY 293","HIGHWAY 293 S.","HWY 293","HWY 293 N","HWY 293 S","KEN LN","KEN LN.","ST. HWY 293"],"verified":false},"type":"Feature"}
 ]}
