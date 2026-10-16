@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-96.755671,29.6863],[-96.750604,29.691645],[-96.750757,29.693245],[-96.754647,29.69955],[-96.754754,29.699597],[-96.757315,29.691216],[-96.757027,29.688945],[-96.755671,29.6863]]],"type":"Polygon"},{"coordinates":[-96.75426,29.692543],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Fayette Electric is aware of a power outage East of Weimar. The crew is making repairs to the line.","crewAssigned":true,"id":"228159","nbrOut":15,"planned":false,"timeOff":1792151098505},"type":"Feature"}
+
 ]}
