@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.031404,31.375892],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":7,"customersOutNow":7,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-16T03:54:35.373-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-16T00:44:10.773-05:00","outageName":"23C-14P1 HSE","outagePoint":{"lat":31.375891930279316,"lng":-96.03140373604172},"outageRecID":"2026-10-15-0262","outageStartTime":"2026-10-15T23:54:06-05:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
