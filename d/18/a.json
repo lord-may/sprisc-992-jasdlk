@@ -1,11 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-99.045126,29.864683],"type":"Point"},"properties":{"crewAssigned":true,"id":"441311","nbrOut":1,"planned":false,"timeOff":1792160932648},"type":"Feature"},
-{"geometry":{"coordinates":[-98.753281,29.874281],"type":"Point"},"properties":{"crewAssigned":true,"id":"441313","nbrOut":1,"planned":false,"timeOff":1792161334469},"type":"Feature"},
 {"geometry":{"coordinates":[-98.916972,29.943637],"type":"Point"},"properties":{"crewAssigned":false,"id":"441316","nbrOut":1,"planned":false,"timeOff":1792162086028},"type":"Feature"},
 {"geometry":{"coordinates":[-98.980214,29.888238],"type":"Point"},"properties":{"crewAssigned":false,"id":"441319","nbrOut":1,"planned":false,"timeOff":1792162103693},"type":"Feature"},
-{"geometry":{"coordinates":[-99.828996,29.753634],"type":"Point"},"properties":{"comment":"We are aware of the outage at your location. A crew has been dispatched. Sorry for this inconvenience.","crewAssigned":true,"id":"441323","nbrOut":19,"planned":false,"timeOff":1792162499291},"type":"Feature"},
 {"geometry":{"coordinates":[-98.916874,29.9444],"type":"Point"},"properties":{"crewAssigned":false,"id":"441325","nbrOut":2,"planned":false,"timeOff":1792162542251},"type":"Feature"},
-{"geometry":{"coordinates":[-98.812022,29.83118],"type":"Point"},"properties":{"crewAssigned":false,"id":"441357","nbrOut":2,"planned":false,"timeOff":1792165494567},"type":"Feature"},
+{"geometry":{"coordinates":[-98.812022,29.83118],"type":"Point"},"properties":{"crewAssigned":true,"id":"441357","nbrOut":2,"planned":false,"timeOff":1792165494567},"type":"Feature"},
 {"geometry":{"coordinates":[-99.534843,29.624152],"type":"Point"},"properties":{"crewAssigned":false,"id":"441363","nbrOut":2,"planned":false,"timeOff":1792166640716},"type":"Feature"},
 {"geometry":{"coordinates":[-99.527476,29.627291],"type":"Point"},"properties":{"comment":"We are aware of the outage at your location. A crew has been dispatched. Sorry for this inconvenience.","crewAssigned":true,"id":"441368","nbrOut":84,"planned":false,"timeOff":1792163834689},"type":"Feature"}
 ]}
