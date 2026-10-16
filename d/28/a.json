@@ -1,3 +1,11 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-94.794226,31.946958],[-94.794936,31.949138],[-94.796697,31.953558],[-94.794226,31.946958]]],"type":"Polygon"},{"coordinates":[-94.795286,31.949885],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Change Cause Code","id":"726598","nbrOut":3},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-94.794226,31.946958],[-94.794936,31.949138],[-94.796697,31.953558],[-94.794226,31.946958]]],"type":"Polygon"},{"coordinates":[-94.795286,31.949885],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Change Cause Code","id":"726598","nbrOut":3},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-94.742187,32.002258],[-94.730329,32.011955],[-94.739501,32.017195],[-94.783303,32.030722],[-94.797559,32.011902],[-94.797604,32.011711],[-94.755257,32.003515],[-94.748277,32.002486],[-94.742187,32.002258]]],"type":"Polygon"},{"coordinates":[-94.765004,32.014926],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Change Cause Code","id":"726614","nbrOut":34},"type":"Feature"},
+{"geometry":{"coordinates":[-94.796957,32.013296],"type":"Point"},"properties":{"cause":"Change Cause Code","id":"726615","nbrOut":2},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-94.744469,32.016792],[-94.740453,32.018894],[-94.737273,32.021019],[-94.74437,32.034948],[-94.759767,32.036585],[-94.759866,32.036585],[-94.75841,32.02635],[-94.744469,32.016792]]],"type":"Polygon"},{"coordinates":[-94.748843,32.027485],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Change Cause Code","id":"726619","nbrOut":22},"type":"Feature"},
+{"geometry":{"coordinates":[-94.77529,32.018338],"type":"Point"},"properties":{"cause":"Change Cause Code","id":"726620","nbrOut":1},"type":"Feature"},
+{"geometry":{"coordinates":[-94.772029,32.010485],"type":"Point"},"properties":{"cause":"Change Cause Code","id":"726621","nbrOut":1},"type":"Feature"},
+{"geometry":{"coordinates":[-94.778012,32.012519],"type":"Point"},"properties":{"cause":"Change Cause Code","id":"726622","nbrOut":1},"type":"Feature"},
+{"geometry":{"coordinates":[-94.772927,32.012564],"type":"Point"},"properties":{"cause":"Change Cause Code","id":"726623","nbrOut":1},"type":"Feature"},
+{"geometry":{"coordinates":[-94.777257,32.012846],"type":"Point"},"properties":{"cause":"Change Cause Code","id":"726624","nbrOut":1},"type":"Feature"}
 ]}
