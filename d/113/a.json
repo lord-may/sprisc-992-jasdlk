@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.464519,34.016224],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"RABON, JACKSON","CaseNumber":"261016-P0034","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T-243378252058","EndTime":"/Date(-62135575200000)/","OutageTime":"10/16/2026 3:32:35 PM","PoleNumber":"243378252058","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-96.46451895702651,"Y":34.016223756995004,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
-{"geometry":{"coordinates":[-96.007137,34.303817],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"","AssignedTo":"","CaseNumber":"261016-X0037","CaseStatus":"Calls Bundle","Cause":"","CutomersAffected":1,"ElementName":"","EndTime":"/Date(-62135575200000)/","OutageTime":"10/16/2026 4:14:11 PM","PoleNumber":"257030359120","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-96.00713733749126,"Y":34.30381670963164,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
