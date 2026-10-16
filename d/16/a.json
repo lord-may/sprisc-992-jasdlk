@@ -1,11 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-94.733383,30.464323],"type":"Point"},"properties":{"estimateTime":1792173600000,"id":"622734","nbrOut":1,"planned":false,"timeOff":1792165779000},"type":"Feature"},
 {"geometry":{"coordinates":[-94.732332,30.463139],"type":"Point"},"properties":{"estimateTime":1792173600000,"id":"622735","nbrOut":1,"planned":false,"timeOff":1792165779000},"type":"Feature"},
-{"geometry":{"coordinates":[-94.738046,30.457455],"type":"Point"},"properties":{"comment":"Crew on site","estimateTime":1792173600000,"id":"622736","nbrOut":39,"planned":false,"timeOff":1792165764000},"type":"Feature"},
 {"geometry":{"coordinates":[-95.050534,30.580886],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1792173600000,"id":"622738","nbrOut":4,"planned":false,"timeOff":1792166146312},"type":"Feature"},
 {"geometry":{"coordinates":[-94.734982,30.464145],"type":"Point"},"properties":{"estimateTime":1792173600000,"id":"622739","nbrOut":1,"planned":false,"timeOff":1792165779000},"type":"Feature"},
 {"geometry":{"coordinates":[-95.309365,30.759254],"type":"Point"},"properties":{"comment":"Crew Assigned","estimateTime":1792175400000,"id":"622744","nbrOut":1,"planned":false,"timeOff":1792167677274},"type":"Feature"},
 {"geometry":{"coordinates":[-95.445801,30.694837],"type":"Point"},"properties":{"comment":"Crew Assigned","estimateTime":1792177200000,"id":"622751","nbrOut":7,"planned":false,"timeOff":1792169405000},"type":"Feature"},
-{"geometry":{"coordinates":[-95.32196,30.373061],"type":"Point"},"properties":{"comment":"Crew Assigned","estimateTime":1792178100000,"id":"622754","nbrOut":1,"planned":false,"timeOff":1792170774205},"type":"Feature"},
-{"geometry":{"coordinates":[-95.210479,30.877744],"type":"Point"},"properties":{"estimateTime":1792179000000,"id":"622755","nbrOut":1,"planned":false,"timeOff":1792171387642},"type":"Feature"}
+{"geometry":{"coordinates":[-95.210479,30.877744],"type":"Point"},"properties":{"comment":"Crew Assigned","estimateTime":1792179000000,"id":"622755","nbrOut":1,"planned":false,"timeOff":1792171387642},"type":"Feature"}
 ]}
