@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-99.505277,32.299843],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-16T07:24:15.127-05:00","outageName":"XFMR6759739424","outagePoint":{"lat":32.29984272021906,"lng":-99.50527674233923},"outageRecID":"2026-10-16-0123","outageStartTime":"2026-10-16T07:23:00-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["MOBILE HOME"],"verified":false},"type":"Feature"}
 ]}
