@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.5688,34.301911],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":17,"customersOutNow":17,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-16T12:00:00-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-16T10:48:42.323-07:00","outageName":"2026-10-16-0697","outagePoint":{"lat":34.30191085776764,"lng":-91.5687996705991},"outageRecID":"2026-10-16-0697","outageStartTime":"2026-10-16T07:37:52-07:00","outageWorkStatus":"","streetsAffected":["690A LODGES CORNER RD","CORNER ROAD","INMAN LANE","INMAN LN","LODGE CORNER ROAD","LODGES CORNER R","LODGES CORNER RD","LODGES CORNER ROAD IRRIGATION","LODGES CORNER WELL"],"verified":true},"type":"Feature"}
+
 ]}
