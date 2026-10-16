@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.289407,31.410646],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":17,"customersOutNow":17,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-16T01:03:41.433-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-15T21:44:11.077-05:00","outageName":"1D-8P24P4P3","outagePoint":{"lat":31.410645626346213,"lng":-95.28940733698319},"outageRecID":"2026-10-15-0260","outageStartTime":"2026-10-15T21:03:20-05:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
