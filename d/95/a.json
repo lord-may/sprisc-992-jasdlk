@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-94.840804,32.791268],[-94.838316,32.791601],[-94.799652,32.848605],[-94.789456,32.891589],[-94.854063,32.928889],[-94.931722,32.94286],[-94.933142,32.941654],[-94.950749,32.859645],[-94.950102,32.857902],[-94.949608,32.857502],[-94.876081,32.804098],[-94.840804,32.791268]]],"type":"Polygon"},{"coordinates":[-94.871733,32.871408],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"We believe a tree has fallen on transmission lines and has caused the loss of power to the Cox substation. Crews are in route to check on the situation. Thank you for your patience.","crewAssigned":true,"id":"649728","nbrOut":1044,"planned":false,"timeOff":1792156905443},"type":"Feature"},
 {"geometry":{"coordinates":[-94.903309,32.689572],"type":"Point"},"properties":{"crewAssigned":true,"id":"649730","nbrOut":1,"planned":false,"timeOff":1792159347900},"type":"Feature"},
 {"geometry":{"coordinates":[-94.288232,32.826988],"type":"Point"},"properties":{"crewAssigned":true,"id":"649734","nbrOut":2,"planned":false,"timeOff":1792159678119},"type":"Feature"}
 ]}
