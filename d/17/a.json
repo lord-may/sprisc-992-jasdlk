@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.159095,30.640433],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417268","nbrOut":1,"planned":false,"timeOff":1792117320000},"type":"Feature"}
+{"geometry":{"coordinates":[-99.159095,30.640433],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417268","lifeCycleStatus":"Crew Enroute","nbrOut":1,"planned":false,"timeOff":1792117320000},"type":"Feature"}
 ]}
