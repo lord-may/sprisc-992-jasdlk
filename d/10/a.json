@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.75003,29.92829],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Iberia (2)"]},{"property":"feeder","value":"3032D"},{"property":"predictedDevice","value":"8680345898"},{"property":"substation","value":"Darnall Rd."}],"cause":"","etrTime":1792195826000,"id":2234724,"identifier":"INC 8105410751","lastUpdatedTime":1792192985000,"latitude":29.92829,"longitude":-91.75003,"numPeople":2,"startTime":1792191310000,"status":"","title":"Outage"},"type":"Feature"}
+
 ]}
