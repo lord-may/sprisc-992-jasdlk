@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-97.78208,30.22109],[-97.78199,30.22151],[-97.78249,30.22171],[-97.78256,30.22155],[-97.78262,30.22141],[-97.78266,30.22126],[-97.78208,30.22109]]],"type":"Polygon"},{"coordinates":[-97.78231,30.22139],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Electrical equipment failure","ES-ES":"Falla del equipo eléctrico","es-US":"Falla del equipo eléctrico","orig":"Equipment"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"One or more crews have been assigned. ","ES-ES":"Uno o más equipos se ha asignado. ","es-US":"Uno o más equipos están trabajando en reparaciones. ","orig":"Onsite"},"cust_a":{"val":7},"etr":"ETR-EXP","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-16T19:25:51Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
