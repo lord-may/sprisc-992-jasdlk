@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.486532,34.648513],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-17T05:39:48.647-07:00","outageName":"2026-10-17-0719","outagePoint":{"lat":34.64851251608441,"lng":-92.4865324537844},"outageRecID":"2026-10-17-0719","outageStartTime":"2026-10-17T05:37:43-07:00","outageWorkStatus":"","streetsAffected":["OAKBROOK RD"],"verified":false},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-106.74373,34.76224],"type":"Point"},"properties":{"cause":{"EN-US":"Being Investigated: We’re working to identify the cause of the outage.","es-US":"Bajo Investigación: Estamos trabajando para identificar la causa de la interrupción del servicio eléctrico.","orig":"Investigating"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Outage is pending crew assignment","es-US":"Sigue pendiente la asignación de un equipo de trabajo para atender la interrupción del servicio","orig":"Pending Dispatch"},"cust_a":{"mask":5,"val":4},"etr":"2026-10-17T15:30:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-17T12:26Z","title":"Area Outage"},"type":"Feature"}
 ]}
