@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.618618,31.33621],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-17T09:38:01.887-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-17T05:47:22.29-05:00","outageName":"3K- TIE LINE","outagePoint":{"lat":31.336210287257646,"lng":-95.61861756244656},"outageRecID":"2026-10-17-0357","outageStartTime":"2026-10-17T05:36:24-05:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
