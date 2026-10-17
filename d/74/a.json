@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.213744,31.078677],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-17T10:41:51.38-05:00","outageName":"T15600","outagePoint":{"lat":31.078677398319595,"lng":-96.21374402259087},"outageRecID":"2026-10-17-0413","outageStartTime":"2026-10-17T10:32:14-05:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
