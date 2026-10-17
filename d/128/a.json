@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.389935,36.264398],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Truck 64","CaseNumber":"261017-P0001","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T-8280","EndTime":"/Date(-62135575200000)/","OutageTime":"10/17/2026 2:32:00 AM","PoleNumber":"8280","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-99.38993540112662,"Y":36.264398334200905,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
