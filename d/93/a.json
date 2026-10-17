@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.68317,30.04078],"type":"Point"},"properties":{"cause":{"EN-US":"Assessing","es-US":"Evaluando","orig":"EQUP-Equipment Failure"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"On-site","es-US":"En sitio","orig":"On-Site"},"cust_a":{"val":2},"etr":"2026-10-17T21:30:00Z","etr_confidence":null,"inc_id":"J.26.10.2134","n_out":1,"start_time":"2026-10-17T19:28:08Z","title":"Area Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-97.68317,30.04078],"type":"Point"},"properties":{"cause":{"EN-US":"Assessing","es-US":"Evaluando","orig":"EQUP-Equipment Failure"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"On-site","es-US":"En sitio","orig":"On-Site"},"cust_a":{"val":2},"etr":"2026-10-17T22:30:00Z","etr_confidence":null,"inc_id":"J.26.10.2134","n_out":1,"start_time":"2026-10-17T19:28:08Z","title":"Area Outage"},"type":"Feature"}
 ]}
