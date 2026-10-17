@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.3897,36.19801],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":30,"customersOutNow":30,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-17T09:00:57.08-05:00","outageName":"B1014020FU01","outagePoint":{"lat":36.19801008057536,"lng":-90.38969976750776},"outageRecID":"2026-10-17-0159","outageStartTime":"2026-10-17T08:03:18-05:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}

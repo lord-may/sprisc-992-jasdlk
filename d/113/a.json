@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.275421,33.803478],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"RABON, JACKSON","CaseNumber":"261017-P0013","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T-249240175574","EndTime":"/Date(-62135575200000)/","OutageTime":"10/17/2026 8:28:00 AM","PoleNumber":"249240175574","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-96.27542140922372,"Y":33.80347821946678,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
