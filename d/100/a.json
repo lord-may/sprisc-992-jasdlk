@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.294315,30.34322],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-17T16:27:12.743-05:00","outageName":"T65400","outagePoint":{"lat":30.343220077234513,"lng":-93.2943153181863},"outageRecID":"2026-10-17-0578","outageStartTime":"2026-10-17T16:26:30-05:00","outageWorkStatus":"","streetsAffected":["DUNN FERRY RD","DUNN FERRY RD SHOP","DUNN FERRY RD TRA"],"verified":false},"type":"Feature"}
+
 ]}
