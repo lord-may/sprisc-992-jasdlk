@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.533683,31.168043],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-17T12:07:40.46-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-17T08:20:31.07-05:00","outageName":"4-130P1 TR H","outagePoint":{"lat":31.16804298173811,"lng":-95.53368341925146},"outageRecID":"2026-10-17-0358","outageStartTime":"2026-10-17T08:07:09-05:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
