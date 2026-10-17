@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.470808,34.0206],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"TOM, KONNER","CaseNumber":"261017-P0016","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T-243186253622","EndTime":"/Date(-62135575200000)/","OutageTime":"10/17/2026 10:54:12 AM","PoleNumber":"243186253622","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-96.47080841749661,"Y":34.02059998498109,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
+{"geometry":{"coordinates":[-96.464519,34.016224],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"TOM, KONNER","CaseNumber":"261017-P0017","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T-243378252058","EndTime":"/Date(-62135575200000)/","OutageTime":"10/17/2026 11:01:16 AM","PoleNumber":"243378252058","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-96.46451895702651,"Y":34.016223756995004,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
