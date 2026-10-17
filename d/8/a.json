@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.78256,30.22155],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Investigación en curso","es-US":"Investigación en curso","orig":"No Selection"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"One or more crews have been assigned. ","ES-ES":"Uno o más equipos se ha asignado. ","es-US":"Uno o más equipos están trabajando en reparaciones. ","orig":"Onsite"},"cust_a":{"val":1},"etr":"ETR-EXP","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-17T13:22Z","title":"Area Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-97.752,30.36818],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Investigación en curso","es-US":"Investigación en curso","orig":"No Selection"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Pending","ES-ES":"Pendiente","es-US":"Pendiente","orig":"N/A"},"cust_a":{"val":1},"etr":"2026-10-17T18:52:50Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-17T16:37:47Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
