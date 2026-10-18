@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.672318,30.637323],"type":"Point"},"properties":{"cause":"Unknown Cause","code":"59","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-17T22:01:58-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-17T20:07:17.17-05:00","outageName":"SER0216253","outagePoint":{"lat":30.637323049999505,"lng":-97.67231793},"outageRecID":"2026-10-17-0067","outageStartTime":"2026-10-17T20:01:58-05:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
