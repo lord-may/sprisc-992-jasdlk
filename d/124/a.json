@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.505948,33.534086],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"CaseNumber":"261018-P0001","CaseStatus":"Predicted","Cause":"","CutomersAffected":136,"ElementName":"BKR-2-1","EndTime":"/Date(-62135575200000)/","OutageTime":"10/18/2026 8:58:00 AM","PoleNumber":"1921794013","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-92.50594765741076,"Y":33.53408599896732,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
