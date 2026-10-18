@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.282847,34.769233],"type":"Point"},"properties":{"cause":"Cause unknown","code":"999","crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-18T12:33:12-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-18T08:50:30.153-05:00","outageName":"","outagePoint":{"lat":34.76923285798735,"lng":-92.28284686236233},"outageRecID":"2026-10-18-0192","outageStartTime":"2026-10-18T08:33:10-05:00","outageWorkStatus":"Crew in Route","statusMessage":null,"streetsAffected":["W 15TH ST","W 16TH ST"],"verified":true},"type":"Feature"}
+
 ]}
