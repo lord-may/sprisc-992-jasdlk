@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.130059,33.579378],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-17T23:18:10.543-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-17T19:18:23.95-05:00","outageName":"","outagePoint":{"lat":33.5793776303042,"lng":-92.13005870902393},"outageRecID":"2026-10-17-0274","outageStartTime":"2026-10-17T19:18:03-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["BRADLEY RD 27 N."],"verified":false},"type":"Feature"}
 ]}
