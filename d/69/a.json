@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.767384,34.965571],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-18T14:09:08.693-07:00","outageName":"2026-10-18-0766","outagePoint":{"lat":34.965571023588836,"lng":-92.76738384983778},"outageRecID":"2026-10-18-0766","outageStartTime":"2026-10-18T14:09:04-07:00","outageWorkStatus":"","streetsAffected":["MIMOSA CIRCLE"],"verified":false},"type":"Feature"}
 ]}
