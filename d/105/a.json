@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.162229,32.186558],"type":"Point"},"properties":{"cause":"600 Small animal/bird","code":"600","crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-18T16:10:48.51-05:00","outageName":"F226298","outagePoint":{"lat":32.186557646481106,"lng":-99.16222850550527},"outageRecID":"2026-10-18-0165","outageStartTime":"2026-10-18T14:20:00-05:00","outageWorkStatus":"Repair in Progress","statusMessage":null,"streetsAffected":["CR 434","FM 880 S","HUNTING CAMP & WP","PAIGE HOUSE"],"verified":true},"type":"Feature"}
+
 ]}
