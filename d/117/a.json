@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.856953,30.672966],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-18T14:47:40.763-05:00","outageName":"072401","outagePoint":{"lat":30.672966004837075,"lng":-95.85695299157744},"outageRecID":"2026-10-18-0322","outageStartTime":"2026-10-18T14:44:00-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
