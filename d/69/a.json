@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.036646,35.517146],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-17T17:43:18.13-07:00","outageName":"2026-10-17-0733","outagePoint":{"lat":35.51714596633087,"lng":-92.0366461392834},"outageRecID":"2026-10-17-0733","outageStartTime":"2026-10-17T17:35:41-07:00","outageWorkStatus":"","streetsAffected":["LIFT STATION G"],"verified":false},"type":"Feature"}
+
 ]}
