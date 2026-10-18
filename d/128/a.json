@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-99.632268,36.830763],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Truck 64","CaseNumber":"261018-P0005","CaseStatus":"Predicted","Cause":"","CutomersAffected":56,"ElementName":"FUS-DEV12690-1","EndTime":"/Date(-62135575200000)/","OutageTime":"10/18/2026 8:03:00 AM","PoleNumber":"12690","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-99.63226807275055,"Y":36.83076289676811,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
+{"geometry":{"coordinates":[-99.634184,36.832347],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Truck 64","CaseNumber":"261018-P0006","CaseStatus":"Predicted","Cause":"","CutomersAffected":5,"ElementName":"T-12474","EndTime":"/Date(-62135575200000)/","OutageTime":"10/18/2026 8:06:01 AM","PoleNumber":"12474","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-99.6341840940535,"Y":36.83234668829562,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.009939,35.444037],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-18T09:00:00-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-18T06:03:55.037-07:00","outageName":"2026-10-18-0738","outagePoint":{"lat":35.444037358878234,"lng":-92.0099392197637},"outageRecID":"2026-10-18-0738","outageStartTime":"2026-10-18T05:59:23-07:00","outageWorkStatus":"","streetsAffected":["BLAKEY CIR"],"verified":true},"type":"Feature"}
 ]}
