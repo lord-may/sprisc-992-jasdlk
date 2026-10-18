@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-105.67286,32.627829],[-105.661586,32.628093],[-105.661586,32.628101],[-105.661164,32.629886],[-105.676373,32.638465],[-105.675223,32.628411],[-105.67286,32.627829]]],"type":"Polygon"},{"coordinates":[-105.670192,32.631596],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause unknown              ","comment":"Crew is removing tree from line. ETR is unknown at this time.","id":"487363","nbrOut":18,"planned":false,"timeOff":1792289579000},"type":"Feature"}
 ]}
