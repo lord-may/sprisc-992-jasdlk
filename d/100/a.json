@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.290111,30.318388],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":67,"customersOutNow":67,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-18T14:31:18.587-05:00","outageName":"D31311","outagePoint":{"lat":30.31838764133074,"lng":-93.29011092753046},"outageRecID":"2026-10-18-0612","outageStartTime":"2026-10-18T14:05:38-05:00","outageWorkStatus":"","streetsAffected":["CYPRESS LAKE","CYPRESS LAKE AND HOLLY","CYPRESS LAKE DR","CYPRESS LAKE DR #19","CYPRESS LAKE DR HSE","CYPRESS LAKE IN LAW HSE","CYPRESS LAKE RD HSE","CYPRESS LAKE ST","HOLLY LN","HOLLY LN HSE","J BRUCE RD","J BRUCE RD HSE","SWEET BAY DR","SWEET BAY DR HSE","SWEET GUM LN","SWEET GUM LN HSE","SWEETBAY DR HSE"],"verified":false},"type":"Feature"}
+
 ]}
