@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.774268,36.969532],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Truck 64","CaseNumber":"261018-P0002","CaseStatus":"Predicted","Cause":"","CutomersAffected":56,"ElementName":"REC-","EndTime":"/Date(-62135575200000)/","OutageTime":"10/18/2026 3:25:00 AM","PoleNumber":"DEV123751-2","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-99.77426788920967,"Y":36.96953173225002,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
