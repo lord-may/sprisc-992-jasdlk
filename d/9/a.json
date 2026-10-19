@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.49698,29.62706],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation ","ES-ES":"Bajo investigación"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"val":13},"etr":"2026-10-19T23:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}
