@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.614022,31.451629],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-19T07:43:49.117-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T05:02:52.063-05:00","outageName":"6-68","outagePoint":{"lat":31.451628938894835,"lng":-95.61402222374122},"outageRecID":"2026-10-19-0371","outageStartTime":"2026-10-19T03:43:31-05:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
