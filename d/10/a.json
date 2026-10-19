@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.79157,30.01932],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Iberia (5)"]},{"property":"feeder","value":"3793C"},{"property":"predictedDevice","value":"8550149216"},{"property":"substation","value":"North New Iberia"}],"cause":"","etrTime":1792410300000,"id":2235651,"identifier":"INC 8105411147","lastUpdatedTime":1792402680000,"latitude":30.01932,"longitude":-91.79157,"numPeople":5,"startTime":1792388346000,"status":"","title":"Outage"},"type":"Feature"}
+
 ]}
