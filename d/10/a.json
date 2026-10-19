@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.11912,30.46073],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["St. Tammany (1)"]},{"property":"feeder","value":"4009C"},{"property":"predictedDevice","value":"3825865437"},{"property":"substation","value":"Eighth Avenue"}],"cause":"","etrTime":1792343906000,"id":2235522,"identifier":"INC 8105411081","lastUpdatedTime":1792341784000,"latitude":30.46073,"longitude":-90.11912,"numPeople":1,"startTime":1792337611000,"status":"","title":"Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-90.08932,30.49775],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["St. Tammany (3)"]},{"property":"feeder","value":"4025A"},{"property":"predictedDevice","value":"3923466788"},{"property":"substation","value":"Covington"}],"cause":"","etrTime":1792364806000,"id":2235605,"identifier":"INC 8105411127","lastUpdatedTime":1792361880000,"latitude":30.49775,"longitude":-90.08932,"numPeople":3,"startTime":1792359026000,"status":"","title":"Outage"},"type":"Feature"}
+
 ]}
