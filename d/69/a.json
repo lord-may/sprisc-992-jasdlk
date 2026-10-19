@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.903291,34.668578],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T05:39:48.093-07:00","outageName":"2026-10-19-0776","outagePoint":{"lat":34.66857835897296,"lng":-92.9032905848806},"outageRecID":"2026-10-19-0776","outageStartTime":"2026-10-19T05:39:23-07:00","outageWorkStatus":"","streetsAffected":["ESCUADRON LN"],"verified":false},"type":"Feature"}
 ]}
