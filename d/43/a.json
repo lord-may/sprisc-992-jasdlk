@@ -115,7 +115,6 @@
 {"geometry":{"coordinates":[-103.802164,30.436499],"type":"Point"},"properties":{"id":"700241","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-103.743908,29.847029],"type":"Point"},"properties":{"id":"700246","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-103.338543,29.835637],"type":"Point"},"properties":{"id":"700247","nbrOut":1},"type":"Feature"},
-{"geometry":{"coordinates":[-103.784754,30.052344],"type":"Point"},"properties":{"id":"700256","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-100.578101,29.815359],"type":"Point"},"properties":{"id":"700267","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-103.7537,30.0898],"type":"Point"},"properties":{"id":"700271","nbrOut":3},"type":"Feature"},
 {"geometry":{"coordinates":[-104.353783,29.826816],"type":"Point"},"properties":{"id":"700273","nbrOut":1},"type":"Feature"},
@@ -148,7 +147,6 @@
 {"geometry":{"coordinates":[-104.601341,30.420186],"type":"Point"},"properties":{"id":"700579","nbrOut":4},"type":"Feature"},
 {"geometry":{"coordinates":[-104.417348,30.403809],"type":"Point"},"properties":{"id":"700584","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-104.81894,31.111923],"type":"Point"},"properties":{"id":"700589","nbrOut":1},"type":"Feature"},
-{"geometry":{"coordinates":[-100.534129,29.259616],"type":"Point"},"properties":{"id":"700590","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-101.620479,29.87749],"type":"Point"},"properties":{"id":"700591","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-99.891375,28.532206],"type":"Point"},"properties":{"id":"700593","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-104.019646,30.037422],"type":"Point"},"properties":{"id":"700594","nbrOut":1},"type":"Feature"},
@@ -183,5 +181,5 @@
 {"geometry":{"coordinates":[-104.26079,29.872777],"type":"Point"},"properties":{"id":"700702","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-103.468197,30.520722],"type":"Point"},"properties":{"id":"700704","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-102.965347,30.984297],"type":"Point"},"properties":{"id":"700705","nbrOut":1},"type":"Feature"},
-{"geometry":{"coordinates":[-103.740252,30.792913],"type":"Point"},"properties":{"id":"700707","nbrOut":2},"type":"Feature"}
+{"geometry":{"coordinates":[-100.213735,28.891629],"type":"Point"},"properties":{"id":"700708","nbrOut":189},"type":"Feature"}
 ]}
