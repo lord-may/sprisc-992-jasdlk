@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.910042,29.881946],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T14:01:56.89-05:00","outageName":"","outagePoint":{"lat":29.881946496961728,"lng":-97.91004156773087},"outageRecID":"2026-10-19-0088","outageStartTime":"2026-10-19T13:56:07-05:00","outageWorkStatus":"","streetsAffected":["RIVER RD 634"],"verified":false},"type":"Feature"}
+
 ]}
