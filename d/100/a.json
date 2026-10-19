@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.36616,30.910319],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-18T22:52:59.653-05:00","outageName":"T60945","outagePoint":{"lat":30.910318955713258,"lng":-93.36615953028567},"outageRecID":"2026-10-18-0617","outageStartTime":"2026-10-18T22:52:14-05:00","outageWorkStatus":"","streetsAffected":["LEWIS RD"],"verified":false},"type":"Feature"}
 ]}

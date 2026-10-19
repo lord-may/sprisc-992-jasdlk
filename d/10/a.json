@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.2523,31.37944],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Rapides (2)"]},{"property":"feeder","value":"5716"},{"property":"predictedDevice","value":"0770525916"},{"property":"substation","value":"Shady Oaks"}],"cause":"","etrTime":1792388700000,"id":2235648,"identifier":"INC 8105411143","lastUpdatedTime":1792381740000,"latitude":31.37944,"longitude":-92.2523,"numPeople":2,"startTime":1792381217000,"status":"","title":"Outage"},"type":"Feature"}
 ]}
