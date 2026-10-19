@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.001436,29.460925],"type":"Point"},"properties":{"cause":"Maintenance","code":"110","crewAssigned":false,"customersOutInitially":79,"customersOutNow":79,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-19T12:00:07-05:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-19T08:59:55.407-05:00","outageName":"RCL72575073001","outagePoint":{"lat":29.46092487853481,"lng":-97.0014363509646},"outageRecID":"2026-10-19-1441","outageStartTime":"2026-10-19T08:58:07-05:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
