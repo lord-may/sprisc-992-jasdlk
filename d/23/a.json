@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.929998,26.434243],"type":"Point"},"properties":{"cause":"Bird","crewAssigned":true,"id":"874295","nbrOut":5,"planned":false,"timeOff":1792368965000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.826764,29.170376],"type":"Point"},"properties":{"crewAssigned":false,"id":"874296","nbrOut":1,"planned":false,"timeOff":1792378318140},"type":"Feature"}
+
 ]}
