@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.377408,36.071786],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T03:13:23.04-05:00","outageName":"33 02 07 transformer","outagePoint":{"lat":36.07178624466357,"lng":-97.3774077465314},"outageRecID":"2026-10-19-0156","outageStartTime":"2026-10-19T03:06:20-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
