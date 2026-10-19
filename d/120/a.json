@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-105.933732,36.000085],"type":"Point"},"properties":{"Actions":null,"ClosingDispatcher":null,"CostEstimate":null,"CrewDispatched":false,"CrewResponsible":null,"CustomerResponsible":null,"CustomersAffected":null,"CustomersOutInitially":null,"CustomersOutNow":1,"CustomersRestored":0,"CustomersServed":null,"Dispatcher":null,"District":null,"EstimatedTime":null,"Feeder":null,"MapLocation":null,"Notes":null,"OutageEndTime":null,"OutageLocation":{"X":-105.93373177194857,"Y":36.00008487191744},"OutageName":"TR.2072","OutagePolygon":[],"OutageRecID":"2026-10-19-0209","OutageStartTime":"2026-10-19T16:17:57-06:00","OutageStatus":null,"OutagedPhase":null,"PriorityCustomers":null,"Status":null,"Substation":null,"SuspectedCause":null,"TroubledElement":null,"UplineElement":null,"Verified":false,"VerifiedCause":null},"type":"Feature"}
+
 ]}
