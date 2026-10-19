@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.227294,34.799057],"type":"Point"},"properties":{"cause":"Cause unknown","code":"999","crewAssigned":true,"customersOutInitially":49,"customersOutNow":49,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-19T12:39:25-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T08:42:19-05:00","outageName":"","outagePoint":{"lat":34.79905653149966,"lng":-92.22729420400002},"outageRecID":"2026-10-19-0201","outageStartTime":"2026-10-19T08:39:25-05:00","outageWorkStatus":"Crew in Route","statusMessage":null,"streetsAffected":["BUNKER HILL DR","CORNWALLIS DR","FOX HILL RD","MONTICELLO DR","MOUNT VERNON DR","MOUNT VERNON DR #A","ROYAL OAK DR"],"verified":true},"type":"Feature"}
+
 ]}
