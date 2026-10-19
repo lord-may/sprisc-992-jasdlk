@@ -3,5 +3,5 @@
 {"geometry":{"coordinates":[-98.452867,30.652705],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417398","nbrOut":1,"planned":true,"timeOff":1792414306000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.463979,30.665116],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417403","nbrOut":1,"planned":true,"timeOff":1792419083210},"type":"Feature"},
 {"geometry":{"coordinates":[-98.919694,30.61722],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417404","nbrOut":1,"planned":true,"timeOff":1792419631000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.350814,30.097525],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417405","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1792420119000},"type":"Feature"}
+{"geometry":{"coordinates":[-99.350814,30.097525],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417405","lifeCycleStatus":"Crew On-Site","nbrOut":1,"planned":false,"timeOff":1792420119000},"type":"Feature"}
 ]}
