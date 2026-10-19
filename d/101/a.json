@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.256665,34.811384],"type":"Point"},"properties":{"cause":"Cause unknown","code":"999","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-19T13:27:15-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T09:38:14-05:00","outageName":"","outagePoint":{"lat":34.81138410383993,"lng":-92.25666453995095},"outageRecID":"2026-10-19-0202","outageStartTime":"2026-10-19T09:27:15-05:00","outageWorkStatus":"Crew in Route","statusMessage":null,"streetsAffected":["EASTRIDGE DR"],"verified":true},"type":"Feature"}
 ]}
