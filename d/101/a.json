@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.207325,34.841327],"type":"Point"},"properties":{"cause":"Cause unknown","code":"999","crewAssigned":true,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-19T11:50:44.55-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T07:51:40.26-05:00","outageName":"","outagePoint":{"lat":34.841326978030814,"lng":-92.2073252631582},"outageRecID":"2026-10-19-0199","outageStartTime":"2026-10-19T07:42:48-05:00","outageWorkStatus":"Crew in Route","statusMessage":null,"streetsAffected":["JESSICA DR","MARKHAVEN DR","WHITEWOOD DR"],"verified":true},"type":"Feature"}
 ]}
