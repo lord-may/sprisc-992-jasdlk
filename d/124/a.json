@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.644406,33.654566],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"CaseNumber":"261018-P0015","CaseStatus":"Predicted","Cause":"","CutomersAffected":2,"ElementName":"T-1915728801","EndTime":"/Date(-62135575200000)/","OutageTime":"10/18/2026 7:46:00 PM","PoleNumber":"1915728801","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-92.64440564974056,"Y":33.65456574685867,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
