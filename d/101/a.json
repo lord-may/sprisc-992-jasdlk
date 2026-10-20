@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.241375,34.813197],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-20T21:20:03-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T17:26:45.843-05:00","outageName":"","outagePoint":{"lat":34.81319680100973,"lng":-92.24137546462391},"outageRecID":"2026-10-20-0216","outageStartTime":"2026-10-20T17:20:03-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["NAVAJO TRL"],"verified":false},"type":"Feature"}
+
 ]}
