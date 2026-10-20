@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.554324,31.684894],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":15,"customersOutNow":15,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-20T17:14:27.94-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T13:18:59.937-05:00","outageName":"7-189P1","outagePoint":{"lat":31.684894046450978,"lng":-95.55432424409955},"outageRecID":"2026-10-20-0376","outageStartTime":"2026-10-20T13:14:26-05:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
