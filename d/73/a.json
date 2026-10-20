@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.398806,35.118964],"type":"Point"},"properties":{"cause":"Scheduled","code":"135","crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-20T16:15:00-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T13:10:59.583-05:00","outageName":"XFMR142886 - M101","outagePoint":{"lat":35.11896420371299,"lng":-92.39880605809157},"outageRecID":"2026-10-20-0094","outageStartTime":"2026-10-20T13:07:56-05:00","outageWorkStatus":"","streetsAffected":["THOUSAND OAKS CIR"],"verified":true},"type":"Feature"}
+
 ]}
