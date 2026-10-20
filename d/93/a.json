@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.35524,29.98879],"type":"Point"},"properties":{"cause":{"EN-US":"Assessing","es-US":"Evaluando","orig":"_default"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"En-route ","es-US":"En camino","orig":"En-Route"},"cust_a":{"val":1},"etr":"2026-10-20T03:00:00Z","etr_confidence":null,"inc_id":"J.26.10.2268","n_out":1,"start_time":"2026-10-20T00:52:05Z","title":"Area Outage"},"type":"Feature"}
 ]}
