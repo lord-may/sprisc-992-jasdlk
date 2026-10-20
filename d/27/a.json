@@ -1,5 +1,7 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-98.541432,29.027589],"type":"Point"},"properties":{"comment":"KEC Contractor working on location","crewAssigned":true,"id":"334642","nbrOut":1,"planned":true,"timeOff":1792503406153},"type":"Feature"},
 {"geometry":{"coordinates":[-97.72136,28.752702],"type":"Point"},"properties":{"comment":"KEC Contractor working on location","crewAssigned":true,"id":"334643","nbrOut":1,"planned":false,"timeOff":1792503509000},"type":"Feature"},
-{"geometry":{"coordinates":[-97.721647,28.752182],"type":"Point"},"properties":{"comment":"Augustin and Jerry w/Sendero taking temp outage on a couple meters located off HWY 239 to change out poles @MAP#771407018 for WO#392169. EST 3HRS OUT    Augustin CB# 210.290.3631   Jerry CB#830.317.6700","crewAssigned":true,"id":"334644","nbrOut":1,"planned":false,"timeOff":1792503503000},"type":"Feature"}
+{"geometry":{"coordinates":[-97.721647,28.752182],"type":"Point"},"properties":{"comment":"Augustin and Jerry w/Sendero taking temp outage on a couple meters located off HWY 239 to change out poles @MAP#771407018 for WO#392169. EST 3HRS OUT    Augustin CB# 210.290.3631   Jerry CB#830.317.6700","crewAssigned":true,"id":"334644","nbrOut":1,"planned":false,"timeOff":1792503503000},"type":"Feature"},
+{"geometry":{"coordinates":[-98.355355,29.040682],"type":"Point"},"properties":{"crewAssigned":true,"id":"334647","nbrOut":4,"planned":false,"timeOff":1792504688303},"type":"Feature"},
+{"geometry":{"coordinates":[-97.616481,28.753418],"type":"Point"},"properties":{"comment":"active power fail","crewAssigned":true,"id":"334668","nbrOut":358,"planned":false,"timeOff":1792505129000},"type":"Feature"}
 ]}

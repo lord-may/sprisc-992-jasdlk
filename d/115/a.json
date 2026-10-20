@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.268293,30.56366],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":11,"customersOutNow":11,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T09:05:10.963-05:00","outageName":"5103","outagePoint":{"lat":30.5636603865307,"lng":-96.26829265135565},"outageRecID":"2026-10-20-0126","outageStartTime":"2026-10-20T09:02:50-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

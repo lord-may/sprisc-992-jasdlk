@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.495204,35.683716],"type":"Point"},"properties":{"comment":"Crew notified of outage at 7:44 am.","crewAssigned":false,"id":"379205","nbrOut":6,"planned":false,"timeOff":1792499965362},"type":"Feature"}
+{"geometry":{"coordinates":[-92.495204,35.683716],"type":"Point"},"properties":{"comment":"Crew notified of outage at 7:44 am.","crewAssigned":true,"id":"379205","nbrOut":6,"planned":false,"timeOff":1792499965362},"type":"Feature"}
 ]}

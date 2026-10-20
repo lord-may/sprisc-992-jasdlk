@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.154801,29.182235],"type":"Point"},"properties":{"cause":"Planned","crewAssigned":true,"id":"874331","nbrOut":1,"planned":true,"timeOff":1792502822000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.842857,29.5396],"type":"Point"},"properties":{"cause":"Planned","crewAssigned":true,"id":"874333","nbrOut":2,"planned":true,"timeOff":1792503095000},"type":"Feature"}
+{"geometry":{"coordinates":[-99.842857,29.5396],"type":"Point"},"properties":{"cause":"Planned","crewAssigned":true,"id":"874333","nbrOut":2,"planned":true,"timeOff":1792503095000},"type":"Feature"},
+{"geometry":{"coordinates":[-99.208637,28.659886],"type":"Point"},"properties":{"cause":"Planned","comment":"Your power will be out until approximately 12:00, while MEC upgrades our equipment to accommodate projected growth.  We apologize for any inconvenience.","crewAssigned":false,"estimateTime":1792515600000,"id":"874336","nbrOut":130,"planned":true,"timeOff":1792504927000},"type":"Feature"}
 ]}
