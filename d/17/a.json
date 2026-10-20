@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.706973,30.733699],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"417428","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1792532236645},"type":"Feature"}
+{"geometry":{"coordinates":[-98.706973,30.733699],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"417428","lifeCycleStatus":"Crew On-Site","nbrOut":1,"planned":false,"timeOff":1792532236645},"type":"Feature"}
 ]}

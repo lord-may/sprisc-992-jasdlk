@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.390394,34.575259],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-20T19:00:00-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T15:01:14.59-07:00","outageName":"2026-10-20-0871","outagePoint":{"lat":34.57525948952564,"lng":-92.39039398063133},"outageRecID":"2026-10-20-0871","outageStartTime":"2026-10-20T14:57:44-07:00","outageWorkStatus":"","streetsAffected":["MCPHERSON CREEK RD"],"verified":true},"type":"Feature"}
 ]}
