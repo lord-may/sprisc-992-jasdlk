@@ -1,10 +1,10 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-98.848997,30.712216],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417165","nbrOut":1,"planned":true,"timeOff":1792501200000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.108215,30.425701],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417414","nbrOut":1,"planned":true,"timeOff":1792502506000},"type":"Feature"},
 {"geometry":{"coordinates":[-99.198226,30.055213],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417416","nbrOut":1,"planned":true,"timeOff":1792504374000},"type":"Feature"},
 {"geometry":{"coordinates":[-99.183053,30.743235],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417417","nbrOut":2,"planned":true,"timeOff":1792504643177},"type":"Feature"},
 {"geometry":{"coordinates":[-98.645178,30.558092],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"417418","lifeCycleStatus":"Crew Enroute","nbrOut":1,"planned":false,"timeOff":1792506145380},"type":"Feature"},
 {"geometry":{"coordinates":[-98.779225,30.290269],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417419","nbrOut":1,"planned":false,"timeOff":1792507968000},"type":"Feature"},
 {"geometry":{"coordinates":[-99.241417,30.329223],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417420","nbrOut":1,"planned":true,"timeOff":1792508007951},"type":"Feature"},
-{"geometry":{"coordinates":[-98.925623,30.124669],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417421","nbrOut":1,"planned":true,"timeOff":1792508112264},"type":"Feature"}
+{"geometry":{"coordinates":[-98.925623,30.124669],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417421","nbrOut":1,"planned":true,"timeOff":1792508112264},"type":"Feature"},
+{"geometry":{"coordinates":[-99.118761,30.412238],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417422","nbrOut":1,"planned":true,"timeOff":1792508773191},"type":"Feature"}
 ]}
