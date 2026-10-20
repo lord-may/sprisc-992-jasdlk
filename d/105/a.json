@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.853757,32.54793],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":18,"customersOutNow":18,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T09:47:15.457-05:00","outageName":"F25","outagePoint":{"lat":32.547929868591154,"lng":-99.8537568301143},"outageRecID":"2026-10-20-0184","outageStartTime":"2026-10-20T09:17:01-05:00","outageWorkStatus":"Crew in Route","statusMessage":null,"streetsAffected":["4988B CR 410","CR 410","CR 410/HM/SYL","PR 426","PR 426/SHOP","PR 427","PR 427/RESIDENT","PR 457"],"verified":true},"type":"Feature"}
+
 ]}

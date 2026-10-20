@@ -7,6 +7,8 @@
 {"geometry":{"coordinates":[-94.985657,30.467792],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1792517400000,"id":"623105","nbrOut":2,"planned":false,"timeOff":1792509426474},"type":"Feature"},
 {"geometry":{"coordinates":[-94.886528,30.12411],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1792517400000,"id":"623106","nbrOut":2,"planned":false,"timeOff":1792509457337},"type":"Feature"},
 {"geometry":{"coordinates":[-95.136359,30.591179],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1792517400000,"id":"623107","nbrOut":1,"planned":false,"timeOff":1792509457469},"type":"Feature"},
-{"geometry":{"coordinates":[-95.071976,30.807079],"type":"Point"},"properties":{"comment":"Crew Assigned","estimateTime":1792517400000,"id":"623111","nbrOut":45,"planned":false,"timeOff":1792509365000},"type":"Feature"},
-{"geometry":{"coordinates":[-94.814932,30.79397],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1792517400000,"id":"623112","nbrOut":1,"planned":false,"timeOff":1792509746327},"type":"Feature"}
+{"geometry":{"coordinates":[-95.071976,30.807079],"type":"Point"},"properties":{"comment":"Crew on site","estimateTime":1792517400000,"id":"623111","nbrOut":45,"planned":false,"timeOff":1792509365000},"type":"Feature"},
+{"geometry":{"coordinates":[-94.814932,30.79397],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1792517400000,"id":"623112","nbrOut":1,"planned":false,"timeOff":1792509746327},"type":"Feature"},
+{"geometry":{"coordinates":[-94.858492,30.10804],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1792518300000,"id":"623113","nbrOut":3,"planned":false,"timeOff":1792510390715},"type":"Feature"},
+{"geometry":{"coordinates":[-94.859022,30.107799],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1792518300000,"id":"623114","nbrOut":3,"planned":false,"timeOff":1792510429190},"type":"Feature"}
 ]}
