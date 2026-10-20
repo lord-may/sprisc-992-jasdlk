@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.706108,31.188241],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-20T19:56:03.073-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T16:01:29.15-05:00","outageName":"3-297P1","outagePoint":{"lat":31.18824138945555,"lng":-95.70610772417953},"outageRecID":"2026-10-20-0378","outageStartTime":"2026-10-20T15:55:33-05:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
