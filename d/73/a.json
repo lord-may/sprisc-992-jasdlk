@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.44829,35.052315],"type":"Point"},"properties":{"cause":"Scheduled","code":"135","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T21:23:47.777-05:00","outageName":"XFMR2306 - D201","outagePoint":{"lat":35.05231483418349,"lng":-92.44828994720913},"outageRecID":"2026-10-19-0088","outageStartTime":"2026-10-19T21:20:19-05:00","outageWorkStatus":"","streetsAffected":["GREENWOOD CIR","GREENWOOD CIR (MIL APT)"],"verified":true},"type":"Feature"}
 ]}
