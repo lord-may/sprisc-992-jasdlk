@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.114246,29.427595],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":11,"customersOutNow":11,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-20T11:13:57.24-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T09:16:08.96-05:00","outageName":"F63575152001","outagePoint":{"lat":29.427595399127874,"lng":-98.11424612861921},"outageRecID":"2026-10-20-1504","outageStartTime":"2026-10-20T09:09:42-05:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
