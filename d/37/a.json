@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-106.086481,34.782464],"type":"Point"},"properties":{"comment":"Crews are actively making repairs and we appreciate our members patience and support while restoration efforts continue.","crewAssigned":true,"id":"371074","nbrOut":421,"planned":false,"timeOff":1792469762522},"type":"Feature"},
-{"geometry":{"coordinates":[-105.198289,34.596342],"type":"Point"},"properties":{"crewAssigned":true,"id":"371075","nbrOut":1,"planned":false,"timeOff":1792475859705},"type":"Feature"},
-{"geometry":{"coordinates":[-105.186018,34.606886],"type":"Point"},"properties":{"crewAssigned":true,"id":"371076","nbrOut":1,"planned":false,"timeOff":1792479888083},"type":"Feature"}
+{"geometry":{"coordinates":[-105.186018,34.606886],"type":"Point"},"properties":{"crewAssigned":true,"id":"371076","nbrOut":1,"planned":false,"timeOff":1792479888083},"type":"Feature"},
+{"geometry":{"coordinates":[-104.657674,33.78532],"type":"Point"},"properties":{"crewAssigned":true,"id":"371077","nbrOut":1,"planned":false,"timeOff":1792480507715},"type":"Feature"},
+{"geometry":{"coordinates":[-105.199403,34.596053],"type":"Point"},"properties":{"crewAssigned":true,"id":"371078","nbrOut":7,"planned":false,"timeOff":1792475859705},"type":"Feature"}
 ]}
