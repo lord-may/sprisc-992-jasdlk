@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.251063,30.793109],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T07:43:29.317-05:00","outageName":"T32010","outagePoint":{"lat":30.79310855812828,"lng":-93.25106341035936},"outageRecID":"2026-10-20-0668","outageStartTime":"2026-10-20T07:42:53-05:00","outageWorkStatus":"","streetsAffected":["LANDER LOOP","TANGLEWOOD LOOP HSE"],"verified":false},"type":"Feature"}
 ]}
