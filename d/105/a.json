@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.472034,32.406806],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":30,"customersOutNow":30,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-19T18:36:02.24-05:00","outageName":"F17896","outagePoint":{"lat":32.406806469328316,"lng":-99.47203356481658},"outageRecID":"2026-10-19-0182","outageStartTime":"2026-10-19T17:48:00-05:00","outageWorkStatus":"Crew in Route","statusMessage":null,"streetsAffected":["CR 276","CR 276 (SOLAR)","CR 276/MH & SL","CR 523","CR 523/HOUSE","CR 525","CR 525 / MODULAR HOME","CR 525/TRLR","CR 527","EAST WATER PUMP/SL","GAS HOUSE RD/HSE","GASHOUSE RD/SHOP","METER ON POLE","MOBILE HOME","PR 5272","PR 5274","S ACCESS"],"verified":false},"type":"Feature"}
+
 ]}
