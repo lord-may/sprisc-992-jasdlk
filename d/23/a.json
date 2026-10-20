@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-99.208637,28.659886],"type":"Point"},"properties":{"cause":"Planned","comment":"Your power will be out until approximately 12:00, while MEC upgrades our equipment to accommodate projected growth.  We apologize for any inconvenience.","crewAssigned":false,"estimateTime":1792515600000,"id":"874336","nbrOut":130,"planned":true,"timeOff":1792504927000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.694864,26.517998],"type":"Point"},"properties":{"cause":"Planned","crewAssigned":true,"id":"874338","nbrOut":1,"planned":true,"timeOff":1792506130000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.694864,26.517998],"type":"Point"},"properties":{"cause":"Planned","crewAssigned":true,"id":"874338","nbrOut":1,"planned":true,"timeOff":1792506130000},"type":"Feature"},
+{"geometry":{"coordinates":[-98.817816,29.136948],"type":"Point"},"properties":{"cause":"Planned","crewAssigned":true,"id":"874344","nbrOut":1,"planned":true,"timeOff":1792511601000},"type":"Feature"}
 ]}

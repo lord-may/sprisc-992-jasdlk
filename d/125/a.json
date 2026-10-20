@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.621523,31.880506],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":8,"customersOutNow":8,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T09:49:00.327-05:00","outageName":"OCD42090202","outagePoint":{"lat":31.880505500056877,"lng":-99.62152299999875},"outageRecID":"2026-10-20-0137","outageStartTime":"2026-10-20T09:03:28-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
