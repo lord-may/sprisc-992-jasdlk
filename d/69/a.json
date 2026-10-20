@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.276988,34.584433],"type":"Point"},"properties":{"cause":"110 Scheduled Maintenance (no equipment failure)","code":"110","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-20T19:00:00-07:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-20T16:00:19.233-07:00","outageName":"2026-10-20-0874","outagePoint":{"lat":34.58443307237181,"lng":-92.27698773445834},"outageRecID":"2026-10-20-0874","outageStartTime":"2026-10-20T15:57:22-07:00","outageWorkStatus":"","streetsAffected":["W BINGHAM RD"],"verified":true},"type":"Feature"}
+
 ]}
