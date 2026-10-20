@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.450051,30.99828],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T17:27:01-05:00","outageName":"T48208","outagePoint":{"lat":30.9982802218381,"lng":-96.45005086302518},"outageRecID":"2026-10-20-0461","outageStartTime":"2026-10-20T16:41:42-05:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
