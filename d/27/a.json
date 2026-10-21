@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.424678,28.450435],"type":"Point"},"properties":{"comment":"KEC crew working at location.","crewAssigned":true,"id":"334698","nbrOut":1,"planned":false,"timeOff":1792592299000},"type":"Feature"}
 ]}
