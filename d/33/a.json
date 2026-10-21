@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.578226,35.649021],"type":"Point"},"properties":{"comment":"DISPATCHED CREW","crewAssigned":true,"id":"379260","nbrOut":5,"planned":false,"timeOff":1792587386293},"type":"Feature"},
 {"geometry":{"coordinates":[-92.303764,35.589542],"type":"Point"},"properties":{"comment":"LOUD BOOM REPORTED AT 359 HWY 330 S","crewAssigned":true,"id":"379278","nbrOut":296,"planned":false,"timeOff":1792587625163},"type":"Feature"},
-{"geometry":{"coordinates":[-92.303764,35.589542],"type":"Point"},"properties":{"comment":"DISPATCHED CREW","crewAssigned":true,"id":"379281","nbrOut":71,"planned":false,"timeOff":1792587813955},"type":"Feature"}
+{"geometry":{"coordinates":[-92.303764,35.589542],"type":"Point"},"properties":{"comment":"DISPATCHED CREW","crewAssigned":true,"id":"379281","nbrOut":71,"planned":false,"timeOff":1792587813955},"type":"Feature"},
+{"geometry":{"coordinates":[-92.443093,35.557649],"type":"Point"},"properties":{"crewAssigned":false,"id":"379284","nbrOut":17,"planned":false,"timeOff":1792590690340},"type":"Feature"}
 ]}
