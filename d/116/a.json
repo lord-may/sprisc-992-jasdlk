@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-108.243556,36.618381],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-20T13:28:43.33-07:00","outageName":"16036 LOW VOLTAGE","outagePoint":{"lat":36.618381463260995,"lng":-108.24355612008195},"outageRecID":"2026-10-20-0210","outageStartTime":"2026-10-20T13:26:27-07:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
