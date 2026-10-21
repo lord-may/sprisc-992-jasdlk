@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.030435,31.455925],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-21T12:09:07.34-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T08:12:17.227-05:00","outageName":"1B-350P1","outagePoint":{"lat":31.455925214698,"lng":-95.03043494739197},"outageRecID":"2026-10-21-0384","outageStartTime":"2026-10-21T08:05:52-05:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

@@ -1,8 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.578226,35.649021],"type":"Point"},"properties":{"comment":"DISPATCHED CREW","crewAssigned":true,"id":"379260","nbrOut":5,"planned":false,"timeOff":1792587386293},"type":"Feature"},
-{"geometry":{"coordinates":[-92.310313,35.599411],"type":"Point"},"properties":{"crewAssigned":false,"id":"379271","nbrOut":1,"planned":false,"timeOff":1792587813955},"type":"Feature"},
-{"geometry":{"coordinates":[-92.311804,35.600068],"type":"Point"},"properties":{"crewAssigned":false,"id":"379274","nbrOut":1,"planned":false,"timeOff":1792587865609},"type":"Feature"},
-{"geometry":{"coordinates":[-92.25053,35.626016],"type":"Point"},"properties":{"crewAssigned":false,"id":"379276","nbrOut":1,"planned":false,"timeOff":1792588154660},"type":"Feature"},
-{"geometry":{"coordinates":[-92.303764,35.589542],"type":"Point"},"properties":{"crewAssigned":false,"id":"379278","nbrOut":296,"planned":false,"timeOff":1792587625163},"type":"Feature"},
-{"geometry":{"coordinates":[-92.309441,35.626184],"type":"Point"},"properties":{"crewAssigned":false,"id":"379279","nbrOut":1,"planned":false,"timeOff":1792588339241},"type":"Feature"}
+{"geometry":{"coordinates":[-92.303764,35.589542],"type":"Point"},"properties":{"comment":"LOUD BOOM REPORTED AT 359 HWY 330 S","crewAssigned":true,"id":"379278","nbrOut":296,"planned":false,"timeOff":1792587625163},"type":"Feature"},
+{"geometry":{"coordinates":[-92.303764,35.589542],"type":"Point"},"properties":{"comment":"DISPATCHED CREW","crewAssigned":true,"id":"379281","nbrOut":71,"planned":false,"timeOff":1792587813955},"type":"Feature"}
 ]}

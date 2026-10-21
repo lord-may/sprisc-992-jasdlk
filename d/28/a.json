@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.380274,32.22197],"type":"Point"},"properties":{"cause":"RCEC Personnel","id":"727199","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-94.371255,32.081747],"type":"Point"},"properties":{"cause":"Equipment Chg Out","id":"727200","nbrOut":1},"type":"Feature"}
 ]}
