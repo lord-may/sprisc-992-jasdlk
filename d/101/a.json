@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.263984,34.81424],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-21T13:57:45-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T09:57:55.063-05:00","outageName":"","outagePoint":{"lat":34.814240470317394,"lng":-92.26398409225659},"outageRecID":"2026-10-21-0228","outageStartTime":"2026-10-21T09:57:45-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["TIMBERLINE DR"],"verified":false},"type":"Feature"}
+
 ]}
