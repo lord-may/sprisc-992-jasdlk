@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-98.424678,28.450435],"type":"Point"},"properties":{"comment":"KEC crew working at location.","crewAssigned":true,"id":"334698","nbrOut":1,"planned":false,"timeOff":1792592299000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.426034,28.454716],"type":"Point"},"properties":{"comment":"Next available KEC crew to be enroute.","crewAssigned":true,"id":"334699","nbrOut":1,"planned":false,"timeOff":1792593987000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.550217,28.505843],"type":"Point"},"properties":{"comment":"Next available KEC crew to be enroute.","crewAssigned":true,"id":"334703","nbrOut":8,"planned":false,"timeOff":1792595968000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.584659,28.513026],"type":"Point"},"properties":{"comment":"KEC Contractor working on location ","crewAssigned":true,"estimateTime":1792607400000,"id":"334703","nbrOut":9,"planned":false,"timeOff":1792595968000},"type":"Feature"}
 ]}
