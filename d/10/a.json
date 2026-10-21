@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-89.84008,30.29084],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["St. Tammany (6)"]},{"property":"feeder","value":"4218D"},{"property":"predictedDevice","value":"4712959359"},{"property":"substation","value":"Bonfouca"}],"cause":"","etrTime":1792564200000,"id":2236724,"identifier":"INC 8105411562","lastUpdatedTime":1792557228000,"latitude":30.29084,"longitude":-89.84008,"numPeople":6,"startTime":1792556657000,"status":"","title":"Outage"},"type":"Feature"}
 ]}
