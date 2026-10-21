@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.47057,31.38888],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Rapides (1)"]},{"property":"feeder","value":"5062C"},{"property":"predictedDevice","value":"0092226264"},{"property":"substation","value":"Kings Walk"}],"cause":"","etrTime":1792550643000,"id":2236698,"identifier":"INC 8105411556","lastUpdatedTime":1792544027000,"latitude":31.38888,"longitude":-92.47057,"numPeople":1,"startTime":1792540927000,"status":"","title":"Outage"},"type":"Feature"}
+
 ]}
