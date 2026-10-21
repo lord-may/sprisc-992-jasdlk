@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.650994,34.638975],"type":"Point"},"properties":{"cause":"110 Scheduled Maintenance (no equipment failure)","code":"110","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-21T09:00:00-07:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-21T05:30:22.647-07:00","outageName":"2026-10-21-0876","outagePoint":{"lat":34.63897549635737,"lng":-91.65099427117293},"outageRecID":"2026-10-21-0876","outageStartTime":"2026-10-21T05:27:10-07:00","outageWorkStatus":"","streetsAffected":["ELTON PARKER RD"],"verified":true},"type":"Feature"}
 ]}
