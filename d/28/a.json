@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"geometries":[{"coordinates":[[[-94.481092,32.094465],[-94.480705,32.094625],[-94.480301,32.095469],[-94.481092,32.094465]]],"type":"Polygon"},{"coordinates":[-94.480696,32.094853],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Transformer (OH)","id":"727207","nbrOut":3},"type":"Feature"},
-{"geometry":{"coordinates":[-94.397378,32.07839],"type":"Point"},"properties":{"cause":"Equipment Chg Out","id":"727210","nbrOut":1},"type":"Feature"}
+{"geometry":{"coordinates":[-94.397378,32.07839],"type":"Point"},"properties":{"cause":"Equipment Chg Out","id":"727210","nbrOut":1},"type":"Feature"},
+{"geometry":{"coordinates":[-94.623699,32.194189],"type":"Point"},"properties":{"cause":"Change Cause Code","id":"727211","nbrOut":1},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.788536,34.50723],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"JJ","CaseNumber":"261021-P0001","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T-51404","EndTime":"/Date(-62135571600000)/","OutageTime":"10/21/2026 8:49:00 AM","PoleNumber":"51404","RestorationTime":null,"StartTime":"/Date(-62135571600000)/","X":-106.78853552250813,"Y":34.50722996888563,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
