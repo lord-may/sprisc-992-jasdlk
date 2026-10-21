@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.92951,29.881173],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T13:46:18.167-05:00","outageName":"","outagePoint":{"lat":29.88117263557317,"lng":-97.9295097091652},"outageRecID":"2026-10-21-0097","outageStartTime":"2026-10-21T13:42:27-05:00","outageWorkStatus":"","streetsAffected":["FIELD ST"],"verified":false},"type":"Feature"}
+
 ]}
