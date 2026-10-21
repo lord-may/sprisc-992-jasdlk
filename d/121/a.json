@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.519405,31.33138],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":8,"customersOutNow":8,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-21T08:15:34.653-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T04:20:14.44-05:00","outageName":"3-45P TAN SH","outagePoint":{"lat":31.33138025659832,"lng":-95.51940491563704},"outageRecID":"2026-10-21-0383","outageStartTime":"2026-10-21T04:15:00-05:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
