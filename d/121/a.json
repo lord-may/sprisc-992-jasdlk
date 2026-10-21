@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.446973,31.519478],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-21T22:07:14.373-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T18:13:51.793-05:00","outageName":"9A-31P1","outagePoint":{"lat":31.519478200042215,"lng":-95.44697319096728},"outageRecID":"2026-10-21-0395","outageStartTime":"2026-10-21T18:07:09-05:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
