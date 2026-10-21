@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.658751,30.663417],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1784,"customersOutNow":1784,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-21T08:17:33.477-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T06:28:13.677-05:00","outageName":"GB-10","outagePoint":{"lat":30.663416581106766,"lng":-97.65875141562955},"outageRecID":"2026-10-21-0084","outageStartTime":"2026-10-21T06:17:33-05:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
