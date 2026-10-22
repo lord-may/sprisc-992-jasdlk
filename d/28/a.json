@@ -1,6 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-94.336328,32.065541],[-94.319485,32.075749],[-94.32933,32.101413],[-94.341089,32.128575],[-94.344727,32.128187],[-94.363367,32.095812],[-94.364176,32.093536],[-94.342949,32.067482],[-94.336328,32.065541]]],"type":"Polygon"},{"coordinates":[-94.341736,32.093772],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Conversion","id":"727285","nbrOut":134},"type":"Feature"},
-{"geometry":{"coordinates":[-94.698592,32.011582],"type":"Point"},"properties":{"cause":"RCEC Personnel","id":"727288","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-94.707638,32.411444],"type":"Point"},"properties":{"cause":"Change Cause Code","id":"727291","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-94.788414,32.379457],"type":"Point"},"properties":{"cause":"Change Cause Code","id":"727292","nbrOut":1},"type":"Feature"}
 ]}
