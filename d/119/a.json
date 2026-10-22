@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.750274,35.905769],"type":"Point"},"properties":{"cause":"470 Borrower crew cuts tree","code":"470","crewAssigned":false,"customersOutInitially":5,"customersOutNow":0,"customersRestored":5,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":"2026-10-22T15:41:54-05:00","outageModifiedTime":"2026-10-22T15:41:57.34-05:00","outageName":"E0727028FU02","outagePoint":{"lat":35.90576855309031,"lng":-90.75027350208383},"outageRecID":"2026-10-22-0197","outageStartTime":"2026-10-22T14:58:27-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
