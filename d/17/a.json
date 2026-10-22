@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.055816,30.038783],"type":"Point"},"properties":{"cause":"Consumers Problem","id":"417476","nbrOut":1,"planned":true,"timeOff":1792692488000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.726009,30.475658],"type":"Point"},"properties":{"cause":"Age / Decay / Deterioration","id":"417477","nbrOut":1,"planned":true,"timeOff":1792697140000},"type":"Feature"}
 ]}

@@ -1,9 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-95.457066,30.580221],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1792683000000,"id":"623233","nbrOut":1,"planned":false,"timeOff":1792675139770},"type":"Feature"},
-{"geometry":{"coordinates":[-94.821499,31.01472],"type":"Point"},"properties":{"comment":"Crew Assigned","estimateTime":1792702800000,"id":"623286","nbrOut":1,"planned":false,"timeOff":1792695011914},"type":"Feature"},
+{"geometry":{"coordinates":[-94.821499,31.01472],"type":"Point"},"properties":{"comment":"Crew on site","estimateTime":1792698420000,"id":"623286","nbrOut":1,"planned":false,"timeOff":1792695011914},"type":"Feature"},
 {"geometry":{"coordinates":[-94.918463,30.589818],"type":"Point"},"properties":{"comment":"Crew on site","estimateTime":1792702800000,"id":"623288","nbrOut":1,"planned":false,"timeOff":1792695590586},"type":"Feature"},
 {"geometry":{"coordinates":[-94.658715,30.573222],"type":"Point"},"properties":{"comment":"Crew Assigned","estimateTime":1792703700000,"id":"623289","nbrOut":1,"planned":false,"timeOff":1792696339652},"type":"Feature"},
-{"geometry":{"coordinates":[-95.396196,30.391016],"type":"Point"},"properties":{"comment":"Crew Assigned","estimateTime":1792704600000,"id":"623290","nbrOut":1,"planned":false,"timeOff":1792696606270},"type":"Feature"},
+{"geometry":{"coordinates":[-95.396196,30.391016],"type":"Point"},"properties":{"comment":"Crew on site","estimateTime":1792704600000,"id":"623290","nbrOut":1,"planned":false,"timeOff":1792696606270},"type":"Feature"},
 {"geometry":{"coordinates":[-94.804,30.910228],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1792704600000,"id":"623291","nbrOut":1,"planned":false,"timeOff":1792696691349},"type":"Feature"},
 {"geometry":{"coordinates":[-94.870457,30.121841],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1792704600000,"id":"623293","nbrOut":2,"planned":false,"timeOff":1792696796000},"type":"Feature"}
 ]}
