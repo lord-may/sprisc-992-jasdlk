@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-89.83449,30.33473],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["St. Tammany (1)"]},{"property":"feeder","value":"4394C"},{"property":"predictedDevice","value":"4728760946"},{"property":"substation","value":"Airport Rd"}],"cause":"","etrTime":1792666800000,"id":2237152,"identifier":"INC 8105411807","lastUpdatedTime":1792659515000,"latitude":30.33473,"longitude":-89.83449,"numPeople":1,"startTime":1792658963000,"status":"","title":"Outage"},"type":"Feature"}
 ]}
