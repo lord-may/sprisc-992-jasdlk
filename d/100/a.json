@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.29451,30.868732],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T15:15:10.67-05:00","outageName":"3569230002","outagePoint":{"lat":30.868732101982793,"lng":-93.29450958385065},"outageRecID":"2026-10-22-0787","outageStartTime":"2026-10-22T15:15:05-05:00","outageWorkStatus":"","streetsAffected":["CHEROKEE ST"],"verified":true},"type":"Feature"}
 ]}
