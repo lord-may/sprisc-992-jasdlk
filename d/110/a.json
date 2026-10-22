@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.001633,33.687095],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"CaseNumber":"261022-O0008","CaseStatus":"CauseFound","Cause":"","CutomersAffected":2,"ElementName":"TF-4634","EndTime":"/Date(-62135575200000)/","OutageTime":"10/22/2026 3:04:00 PM","PoleNumber":"81161","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-97.00163329631377,"Y":33.6870947322334,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
