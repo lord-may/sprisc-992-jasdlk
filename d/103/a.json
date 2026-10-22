@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.936133,29.892798],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T19:41:31.973-05:00","outageName":"","outagePoint":{"lat":29.892797505594906,"lng":-97.93613333887598},"outageRecID":"2026-10-21-0098","outageStartTime":"2026-10-21T19:36:13-05:00","outageWorkStatus":"","streetsAffected":["PEQUES ST 202"],"verified":false},"type":"Feature"}
 ]}

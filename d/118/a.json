@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.702116,30.682098],"type":"Point"},"properties":{"cause":"Animal/Bird","code":"53","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-21T21:35:36-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-21T19:42:24.613-05:00","outageName":"SER0116057","outagePoint":{"lat":30.68209835054696,"lng":-97.70211577816194},"outageRecID":"2026-10-21-0110","outageStartTime":"2026-10-21T19:35:36-05:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
