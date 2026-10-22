@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.476973,35.099414],"type":"Point"},"properties":{"cause":"Unknown","code":"999","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-22T12:15:00-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T10:10:20.287-05:00","outageName":"XFMR1618 - T104","outagePoint":{"lat":35.09941434043138,"lng":-92.47697271300787},"outageRecID":"2026-10-22-0107","outageStartTime":"2026-10-22T10:06:35-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["NORTHWOOD DR"],"verified":true},"type":"Feature"}
 ]}
