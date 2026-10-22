@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.848997,30.712216],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417165","nbrOut":1,"planned":true,"timeOff":1792674000000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.94615,30.771658],"type":"Point"},"properties":{"cause":"AMI Self-report","comment":"If you are experiencing an outage please call 1-800-900-2832 and ask to speak with a dispatcher.  We need to confirm details or your outage prior to dispatching a crew.","id":"417472","nbrOut":1,"planned":false,"timeOff":1792677923000},"type":"Feature"},
+{"geometry":{"coordinates":[-98.94615,30.771658],"type":"Point"},"properties":{"cause":"AMI Self-report","comment":"If you are experiencing an outage please call 1-800-900-2832 and ask to speak with a dispatcher.  We need to confirm details or your outage prior to dispatching a crew.","id":"417472","lifeCycleStatus":"Issue Identified","nbrOut":1,"planned":false,"timeOff":1792677923000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.776835,30.113402],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417473","nbrOut":1,"planned":true,"timeOff":1792678734200},"type":"Feature"},
-{"geometry":{"coordinates":[-99.567344,30.153864],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417474","nbrOut":1,"planned":true,"timeOff":1792681217000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.280458,30.105756],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417475","nbrOut":1,"planned":true,"timeOff":1792688833000},"type":"Feature"}
+{"geometry":{"coordinates":[-99.567344,30.153864],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417474","nbrOut":1,"planned":true,"timeOff":1792681217000},"type":"Feature"}
 ]}
