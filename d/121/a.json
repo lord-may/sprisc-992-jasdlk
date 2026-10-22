@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.872219,31.428244],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-22T15:33:27.29-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T11:33:27.327-05:00","outageName":"23F4-7P26P9P","outagePoint":{"lat":31.42824389287077,"lng":-95.87221927388408},"outageRecID":"2026-10-22-0399","outageStartTime":"2026-10-22T11:33:23-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
