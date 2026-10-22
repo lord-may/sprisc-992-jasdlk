@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.205384,34.751519],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-22T22:17:34-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T18:23:50.653-05:00","outageName":"","outagePoint":{"lat":34.75151892201198,"lng":-92.20538355997887},"outageRecID":"2026-10-22-0262","outageStartTime":"2026-10-22T18:17:34-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["HEALY ST"],"verified":false},"type":"Feature"}
+
 ]}
