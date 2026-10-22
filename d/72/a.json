@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.090975,33.65891],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-22T21:02:01.267-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T17:02:57.76-05:00","outageName":"","outagePoint":{"lat":33.65891010378775,"lng":-92.09097528552844},"outageRecID":"2026-10-22-0343","outageStartTime":"2026-10-22T16:57:59-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["ST. HWY 8"],"verified":false},"type":"Feature"}
+
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.646865,34.726845],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T15:30:32.72-07:00","outageName":"2026-10-22-0938","outagePoint":{"lat":34.726844829027065,"lng":-92.64686527977992},"outageRecID":"2026-10-22-0938","outageStartTime":"2026-10-22T15:27:57-07:00","outageWorkStatus":"","streetsAffected":["EAGLE NEST"],"verified":false},"type":"Feature"}
 ]}
