@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-96.550621,29.962208],[-96.529349,29.979757],[-96.526268,30.000437],[-96.534137,30.002989],[-96.542932,29.998648],[-96.550621,29.962208]]],"type":"Polygon"},{"coordinates":[-96.537955,29.985499],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Fayette Electric is aware of outage near Industry","crewAssigned":true,"id":"228205","nbrOut":31,"planned":false,"timeOff":1792623668606},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-96.536832,29.979928],[-96.532691,29.982013],[-96.526268,30.000437],[-96.534137,30.002989],[-96.542932,29.998648],[-96.541548,29.994174],[-96.536832,29.979928]]],"type":"Polygon"},{"coordinates":[-96.534766,29.993194],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"id":"228207","nbrOut":25,"planned":false,"timeOff":1792637956219},"type":"Feature"}
 ]}
