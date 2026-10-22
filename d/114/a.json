@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-90.615443,35.868867],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":469,"customersOutNow":469,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T00:12:41.69-05:00","outageName":"OCD971","outagePoint":{"lat":35.86886741942562,"lng":-90.61544251985859},"outageRecID":"2026-10-22-0163","outageStartTime":"2026-10-22T00:07:55-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
