@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.72105,30.22664],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Investigación en curso","es-US":"Investigación en curso","orig":"No Selection"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"One or more crews have been assigned. ","ES-ES":"Uno o más equipos se ha asignado. ","es-US":"Una o más tripulaciones están en camino.  ","orig":"En Route"},"cust_a":{"val":8},"etr":"2026-10-22T04:37:47Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-22T02:22:45Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
