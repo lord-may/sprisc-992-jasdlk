@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.83653,32.17319],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["DeSoto (1)"]},{"property":"feeder","value":"1400"},{"property":"predictedDevice","value":"5865055054"},{"property":"substation","value":"Water St"}],"cause":"","etrTime":1792671300000,"id":2237158,"identifier":"INC 8105411810","lastUpdatedTime":1792664412000,"latitude":32.17319,"longitude":-93.83653,"numPeople":1,"startTime":1792664021000,"status":"","title":"Outage"},"type":"Feature"}
 ]}
