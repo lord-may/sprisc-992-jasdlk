@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.722666,32.382671],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T17:33:06.937-05:00","outageName":"XFMR5892049398","outagePoint":{"lat":32.38267116723452,"lng":-99.72266608278196},"outageRecID":"2026-10-22-0191","outageStartTime":"2026-10-22T17:33:00-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["CINDERELLA","SUGARBERRY"],"verified":false},"type":"Feature"}
+
 ]}
