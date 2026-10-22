@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.73526,30.09697],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Iberia (2)"]},{"property":"feeder","value":"3683A"},{"property":"predictedDevice","value":"8729252028"},{"property":"substation","value":"Coteau Holmes"}],"cause":"","etrTime":1792656900000,"id":2237149,"identifier":"INC 8105411803","lastUpdatedTime":1792649915000,"latitude":30.09697,"longitude":-91.73526,"numPeople":2,"startTime":1792649207000,"status":"","title":"Outage"},"type":"Feature"}
+
 ]}
