@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.978155,34.894739],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-22T16:00:00-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T12:14:54.41-07:00","outageName":"2026-10-22-0937","outagePoint":{"lat":34.89473930720068,"lng":-91.97815530244951},"outageRecID":"2026-10-22-0937","outageStartTime":"2026-10-22T12:10:07-07:00","outageWorkStatus":"","streetsAffected":["FORBUS RD"],"verified":true},"type":"Feature"}
 ]}

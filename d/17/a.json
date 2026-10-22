@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-99.567344,30.153864],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417474","nbrOut":1,"planned":true,"timeOff":1792681217000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.055816,30.038783],"type":"Point"},"properties":{"cause":"Consumers Problem","id":"417476","nbrOut":1,"planned":true,"timeOff":1792692488000},"type":"Feature"}
+{"geometry":{"coordinates":[-99.055816,30.038783],"type":"Point"},"properties":{"cause":"Consumers Problem","id":"417476","nbrOut":1,"planned":true,"timeOff":1792692488000},"type":"Feature"},
+{"geometry":{"coordinates":[-98.726161,30.475744],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417477","nbrOut":1,"planned":false,"timeOff":1792697140000},"type":"Feature"}
 ]}
