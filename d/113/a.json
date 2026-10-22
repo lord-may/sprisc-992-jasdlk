@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.164399,34.011093],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"False","AssignedTo":"","CaseNumber":"261022-O0003","CaseStatus":"CauseUnknown","Cause":"","CutomersAffected":25,"ElementName":"PC-226123","EndTime":"/Date(-62135575200000)/","OutageTime":"10/22/2026 9:02:00 AM","PoleNumber":"","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-96.16439854782766,"Y":34.01109287862628,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
