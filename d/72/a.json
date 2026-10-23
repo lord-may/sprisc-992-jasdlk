@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.121784,33.591464],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-22T22:59:12.31-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-22T19:01:22.293-05:00","outageName":"","outagePoint":{"lat":33.59146430863669,"lng":-92.12178374562498},"outageRecID":"2026-10-22-0346","outageStartTime":"2026-10-22T18:58:52-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["BRADLEY 26 RD"],"verified":false},"type":"Feature"}
+
 ]}
