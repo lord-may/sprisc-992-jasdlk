@@ -1,5 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-94.77741,30.148155],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1792767600000,"id":"623368","nbrOut":1,"planned":false,"timeOff":1792760161515},"type":"Feature"},
 {"geometry":{"coordinates":[-95.054172,30.782132],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1792767600000,"id":"623369","nbrOut":1,"planned":false,"timeOff":1792760145000},"type":"Feature"},
-{"geometry":{"coordinates":[-95.439468,30.582866],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1792767600000,"id":"623370","nbrOut":1,"planned":false,"timeOff":1792760069000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-94.8699,30.121538],[-94.869739,30.121592],[-94.870835,30.121732],[-94.8699,30.121538]]],"type":"Polygon"},{"coordinates":[-94.870161,30.121623],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Construction crew on site.","estimateTime":1792768500000,"id":"623371","nbrOut":3,"planned":false,"timeOff":1792761252584},"type":"Feature"},
+{"geometry":{"coordinates":[-95.44572,30.590723],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1792769400000,"id":"623372","nbrOut":1,"planned":false,"timeOff":1792761072000},"type":"Feature"},
+{"geometry":{"coordinates":[-95.439468,30.582866],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1792769400000,"id":"623373","nbrOut":1,"planned":false,"timeOff":1792761472000},"type":"Feature"},
+{"geometry":{"coordinates":[-94.704476,30.713529],"type":"Point"},"properties":{"estimateTime":1792769400000,"id":"623374","nbrOut":1,"planned":false,"timeOff":1792761612000},"type":"Feature"}
 ]}
