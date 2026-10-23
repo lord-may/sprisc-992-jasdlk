@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.787215,32.772649],"type":"Point"},"properties":{"cause":"Material or equipment fault/failure","code":"300","crewAssigned":true,"customersOutInitially":4,"customersOutNow":0,"customersRestored":4,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":"2026-10-23T09:37:23-05:00","outageModifiedTime":"2026-10-23T09:37:25.897-05:00","outageName":"05310","outagePoint":{"lat":32.772649212900596,"lng":-97.78721505662804},"outageRecID":"2026-10-23-0084","outageStartTime":"2026-10-23T08:55:41-05:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
