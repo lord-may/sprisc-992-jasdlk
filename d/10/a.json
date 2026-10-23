@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.83804,30.48335],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Allen (5)"]},{"property":"feeder","value":"5826B"},{"property":"predictedDevice","value":"5260566370"},{"property":"substation","value":"Kinder"}],"cause":"","etrTime":1792762200000,"id":2237521,"identifier":"INC 8105411952","lastUpdatedTime":1792755310000,"latitude":30.48335,"longitude":-92.83804,"numPeople":5,"startTime":1792754849000,"status":"","title":"Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-92.06354,30.51466],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["St. Landry (20)"]},{"property":"feeder","value":"7485C"},{"property":"predictedDevice","value":"7700367270"},{"property":"substation","value":"South Park"}],"cause":"","etrTime":1792764000000,"id":2237524,"identifier":"INC 8105411953","lastUpdatedTime":1792757111000,"latitude":30.51466,"longitude":-92.06354,"numPeople":20,"startTime":1792756792000,"status":"","title":"Outage"},"type":"Feature"}
+
 ]}
