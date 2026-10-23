@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.344648,34.208225],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-23T11:39:45.05-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-23T07:39:45.073-05:00","outageName":"","outagePoint":{"lat":34.2082251967576,"lng":-92.34464750590477},"outageRecID":"2026-10-23-0347","outageStartTime":"2026-10-23T07:39:40-05:00","outageWorkStatus":"","streetsAffected":["GRANT 3559"],"verified":false},"type":"Feature"}
 ]}
