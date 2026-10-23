@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.202237,30.956885],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":22,"customersOutNow":22,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-23T17:56:57.33-05:00","outageName":"D46393","outagePoint":{"lat":30.956885329114854,"lng":-93.20223688455891},"outageRecID":"2026-10-23-0813","outageStartTime":"2026-10-23T17:29:02-05:00","outageWorkStatus":"","streetsAffected":["PROVIDENCE RD","PROVIDENCE RD CHURCH","PROVIDENCE RD FLWSP HL","PROVIDENCE RD HSE","PROVIDENCE RD SHED","PROVIDENCE RD TRA"],"verified":true},"type":"Feature"}
+
 ]}
