@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.266129,34.816385],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-23T17:47:13-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-23T13:53:07.08-05:00","outageName":"","outagePoint":{"lat":34.81638537966907,"lng":-92.26612911516013},"outageRecID":"2026-10-23-0269","outageStartTime":"2026-10-23T13:47:13-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["REMOUNT RD"],"verified":false},"type":"Feature"}
+
 ]}
