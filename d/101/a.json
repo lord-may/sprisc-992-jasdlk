@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.25509,34.826155],"type":"Point"},"properties":{"cause":"Maintenance","code":"110","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-23T23:44:33-05:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-23T08:45:11-05:00","outageName":"","outagePoint":{"lat":34.826155397286655,"lng":-92.25508984753705},"outageRecID":"2026-10-23-0265","outageStartTime":"2026-10-23T08:36:50-05:00","outageWorkStatus":"Repair in Progress","statusMessage":null,"streetsAffected":["SPRIGGS RD","SPRIGGS RD 1/2"],"verified":true},"type":"Feature"}
 ]}

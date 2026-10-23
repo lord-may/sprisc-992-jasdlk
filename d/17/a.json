@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-98.848997,30.712216],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417165","nbrOut":1,"planned":true,"timeOff":1792760400000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.726009,30.475658],"type":"Point"},"properties":{"cause":"Age / Decay / Deterioration","id":"417477","nbrOut":1,"planned":true,"timeOff":1792760400000},"type":"Feature"},
 {"geometry":{"coordinates":[-99.377215,30.672557],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417481","nbrOut":1,"planned":true,"timeOff":1792761024290},"type":"Feature"},
-{"geometry":{"coordinates":[-99.377206,30.673963],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417482","nbrOut":1,"planned":true,"timeOff":1792761040620},"type":"Feature"}
+{"geometry":{"coordinates":[-99.377206,30.673963],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417482","nbrOut":1,"planned":true,"timeOff":1792761040620},"type":"Feature"},
+{"geometry":{"coordinates":[-98.939107,30.126348],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417484","nbrOut":1,"planned":true,"timeOff":1792762200000},"type":"Feature"}
 ]}
