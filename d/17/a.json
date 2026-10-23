@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-99.377206,30.673963],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417482","nbrOut":1,"planned":true,"timeOff":1792761040620},"type":"Feature"},
 {"geometry":{"coordinates":[-99.185191,30.039708],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417490","nbrOut":1,"planned":true,"timeOff":1792772342994},"type":"Feature"},
-{"geometry":{"coordinates":[-98.679152,30.359179],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417491","nbrOut":1,"planned":false,"timeOff":1792774569000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.679152,30.359179],"type":"Point"},"properties":{"cause":"AMI Self-report","comment":"If you are experiencing an outage please call 1-800-900-2832 and ask to speak with a dispatcher.  We need to confirm details or your outage prior to dispatching a crew.","id":"417491","nbrOut":1,"planned":false,"timeOff":1792774569000},"type":"Feature"}
 ]}
