@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.460956,34.745305],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-23T13:03:09.91-05:00","outageName":"08-51-8-23-K","outagePoint":{"lat":34.745304755626464,"lng":-98.46095606563384},"outageRecID":"2026-10-23-0236","outageStartTime":"2026-10-23T13:02:56-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
