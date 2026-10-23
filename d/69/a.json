@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.194746,34.868051],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-23T18:00:00-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-23T15:15:10.143-07:00","outageName":"2026-10-23-0968","outagePoint":{"lat":34.868050993857985,"lng":-92.19474574712038},"outageRecID":"2026-10-23-0968","outageStartTime":"2026-10-23T15:00:13-07:00","outageWorkStatus":"","streetsAffected":["JACKSONVILLE CUT OFF RD"],"verified":false},"type":"Feature"}
+
 ]}
