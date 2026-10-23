@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.237939,36.213482],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-23T13:50:21.167-05:00","outageName":"47644","outagePoint":{"lat":36.21348175109112,"lng":-91.23793901060603},"outageRecID":"2026-10-23-0205","outageStartTime":"2026-10-23T13:50:03-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
