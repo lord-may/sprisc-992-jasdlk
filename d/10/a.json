@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.49049,29.84193],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["St. Mary (3)"]},{"property":"feeder","value":"3676D"},{"property":"predictedDevice","value":"9503242700"},{"property":"substation","value":"Turbine Plant (Franklin)"}],"cause":"","etrTime":1792731600000,"id":2237272,"identifier":"INC 8105411862","lastUpdatedTime":1792723809000,"latitude":29.84193,"longitude":-91.49049,"numPeople":3,"startTime":1792677918000,"status":"","title":"Outage"},"type":"Feature"}
+
 ]}
