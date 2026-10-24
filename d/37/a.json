@@ -1,8 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-106.201267,35.02767],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792813500000,"id":"371158","nbrOut":1,"planned":false,"timeOff":1792805604652},"type":"Feature"},
-{"geometry":{"coordinates":[-105.195397,34.59839],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792814400000,"id":"371159","nbrOut":1,"planned":false,"timeOff":1792806963294},"type":"Feature"},
-{"geometry":{"coordinates":[-105.201559,34.598227],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1792815300000,"id":"371160","nbrOut":1,"planned":false,"timeOff":1792807386905},"type":"Feature"},
+{"geometry":{"coordinates":[-105.195397,34.59839],"type":"Point"},"properties":{"crewAssigned":true,"id":"371159","nbrOut":1,"planned":false,"timeOff":1792806963294},"type":"Feature"},
+{"geometry":{"coordinates":[-105.201559,34.598227],"type":"Point"},"properties":{"crewAssigned":true,"id":"371160","nbrOut":1,"planned":false,"timeOff":1792807386905},"type":"Feature"},
 {"geometry":{"coordinates":[-105.200616,34.599144],"type":"Point"},"properties":{"crewAssigned":true,"id":"371161","nbrOut":1,"planned":false,"timeOff":1792807498580},"type":"Feature"},
-{"geometry":{"coordinates":[-105.191498,34.594929],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1792815300000,"id":"371162","nbrOut":1,"planned":false,"timeOff":1792807826658},"type":"Feature"},
-{"geometry":{"coordinates":[-105.18989,34.595181],"type":"Point"},"properties":{"crewAssigned":true,"id":"371163","nbrOut":1,"planned":false,"timeOff":1792807846449},"type":"Feature"}
+{"geometry":{"coordinates":[-105.191498,34.594929],"type":"Point"},"properties":{"crewAssigned":true,"id":"371162","nbrOut":1,"planned":false,"timeOff":1792807826658},"type":"Feature"},
+{"geometry":{"coordinates":[-105.18989,34.595181],"type":"Point"},"properties":{"crewAssigned":true,"id":"371163","nbrOut":1,"planned":false,"timeOff":1792807846449},"type":"Feature"},
+{"geometry":{"coordinates":[-105.161045,34.604786],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1792816200000,"id":"371164","nbrOut":1,"planned":false,"timeOff":1792808786629},"type":"Feature"}
 ]}
