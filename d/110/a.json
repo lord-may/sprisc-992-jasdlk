@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.639321,33.751824],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"CaseNumber":"261024-P0103","CaseStatus":"Predicted","Cause":"","CutomersAffected":53,"ElementName":"RC-263","EndTime":"/Date(-62135575200000)/","OutageTime":"10/24/2026 11:59:47 AM","PoleNumber":"SOUTH STARKEY RD","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-97.63932070172389,"Y":33.75182370137744,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
+{"geometry":{"coordinates":[-97.046605,33.576203],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"CaseNumber":"261024-X0101","CaseStatus":"Calls Bundle","Cause":"","CutomersAffected":1,"ElementName":"","EndTime":"/Date(-62135575200000)/","OutageTime":"10/24/2026 11:55:47 AM","PoleNumber":"60272","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-97.04660473615641,"Y":33.576203141081876,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
