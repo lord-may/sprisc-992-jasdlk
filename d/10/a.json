@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.72358,31.28695],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Rapides (1)"]},{"property":"feeder","value":"6459C"},{"property":"predictedDevice","value":"9301522568"},{"property":"substation","value":"Gardner"}],"cause":"","etrTime":1792892700000,"id":2237999,"identifier":"INC 8105412112","lastUpdatedTime":1792885415000,"latitude":31.28695,"longitude":-92.72358,"numPeople":1,"startTime":1792884938000,"status":"","title":"Outage"},"type":"Feature"}
+
 ]}
