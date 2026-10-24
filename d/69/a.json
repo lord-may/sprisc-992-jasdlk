@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.582486,34.712681],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T15:05:25.76-07:00","outageName":"2026-10-24-0994","outagePoint":{"lat":34.71268128801597,"lng":-92.58248637470564},"outageRecID":"2026-10-24-0994","outageStartTime":"2026-10-24T14:35:22-07:00","outageWorkStatus":"","streetsAffected":["W LAWSON RD"],"verified":true},"type":"Feature"}
+
 ]}
