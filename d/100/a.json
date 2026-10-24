@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.399433,31.083122],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T08:28:17.253-05:00","outageName":"T14495","outagePoint":{"lat":31.083122029053595,"lng":-93.39943273541247},"outageRecID":"2026-10-24-0815","outageStartTime":"2026-10-24T08:28:11-05:00","outageWorkStatus":"","streetsAffected":["WISBY RD"],"verified":false},"type":"Feature"}
 ]}
