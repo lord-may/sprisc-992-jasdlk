@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.922461,34.011989],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":18,"customersOutNow":18,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-23T22:13:17.263-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-23T18:56:42.563-05:00","outageName":"","outagePoint":{"lat":34.01198939337171,"lng":-91.92246077259},"outageRecID":"2026-10-23-0358","outageStartTime":"2026-10-23T18:13:15-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["ANGLER RD."],"verified":false},"type":"Feature"}
+
 ]}
