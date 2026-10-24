@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.397517,35.085061],"type":"Point"},"properties":{"cause":"Unknown","code":"999","crewAssigned":true,"customersOutInitially":29,"customersOutNow":29,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-24T14:45:00-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T12:49:24.26-05:00","outageName":"FUS11810 - M101","outagePoint":{"lat":35.08506111832598,"lng":-92.3975166661408},"outageRecID":"2026-10-24-0126","outageStartTime":"2026-10-24T12:45:47-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["EVENING DR","GINGER DR","HALLOUS RD","JAMESTOWN DR","JONATHAN DR","SHADE TREE DR"],"verified":true},"type":"Feature"}
 ]}
