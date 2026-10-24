@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-98.44337,29.50348],[-98.44346,29.50384],[-98.44378,29.50392],[-98.44357,29.50349],[-98.44337,29.50348]]],"type":"Polygon"},{"coordinates":[-98.44355,29.5037],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"CPS Equipment Failure","ES-ES":"Falla del equipo de CPS","orig":"22"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"mask":5,"val":4},"etr":"2026-10-24T03:53:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
+
 ]}
