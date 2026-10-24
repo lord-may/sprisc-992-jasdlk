@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.205199,34.758174],"type":"Point"},"properties":{"cause":"Ground Critter","code":"610","crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-24T13:05:08.483-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T10:42:35.73-05:00","outageName":"","outagePoint":{"lat":34.7581743804045,"lng":-92.20519865720807},"outageRecID":"2026-10-24-0276","outageStartTime":"2026-10-24T08:57:28-05:00","outageWorkStatus":"Repair in Progress","statusMessage":null,"streetsAffected":["MILLS ST","POWER LINE DR"],"verified":true},"type":"Feature"}
+
 ]}
