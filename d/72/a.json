@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.846848,33.85213],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-24T20:21:58.413-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T16:22:43.523-05:00","outageName":"","outagePoint":{"lat":33.85212998014062,"lng":-91.8468478946589},"outageRecID":"2026-10-24-0370","outageStartTime":"2026-10-24T16:21:55-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["LUCKY LANE","LUCKY LN."],"verified":false},"type":"Feature"}
+
 ]}
