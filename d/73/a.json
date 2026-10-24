@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.472815,35.101316],"type":"Point"},"properties":{"cause":"Unknown","code":"999","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-24T09:30:00-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T07:19:42.78-05:00","outageName":"18297 - T101","outagePoint":{"lat":35.10131628829549,"lng":-92.4728154954891},"outageRecID":"2026-10-24-0124","outageStartTime":"2026-10-24T07:10:56-05:00","outageWorkStatus":"","streetsAffected":["JOHN ED CIR"],"verified":true},"type":"Feature"}
 ]}
