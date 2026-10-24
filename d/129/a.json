@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.600194,32.853726],"type":"Point"},"properties":{"ACTUAL_STATUS":0,"CONFIRMED":0,"CRITICAL":1,"CRITICAL_CUSTOMER_COUNT":2,"CUSTOMER_COUNT":58,"DEVICE_FCID":145,"DEVICE_OID":12939,"DEVICE_OPERATION":0,"EXPECTED_STATUS":2,"INCIDENT_ID":206931,"ORIGINATION":2,"X":2551847.81506495,"Y":6998804.20077471,"state":"abnormal"},"type":"Feature"}
 ]}
