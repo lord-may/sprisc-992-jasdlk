@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.48346,32.802973],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-24T17:21:58-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T14:22:13.57-05:00","outageName":"FDR8806","outagePoint":{"lat":32.802972656490084,"lng":-96.48345954669796},"outageRecID":"2026-10-24-0986","outageStartTime":"2026-10-24T14:21:58-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
