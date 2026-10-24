@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.51464,31.1066],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Rapides (11)"]},{"property":"feeder","value":"6437B"},{"property":"predictedDevice","value":"9968215941"},{"property":"substation","value":"Forest Hill"}],"cause":"","etrTime":1792876500000,"id":2237957,"identifier":"INC 8105412097","lastUpdatedTime":1792869216000,"latitude":31.1066,"longitude":-92.51464,"numPeople":11,"startTime":1792868660000,"status":"","title":"Outage"},"type":"Feature"}
 ]}
