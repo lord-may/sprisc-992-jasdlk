@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-94.76628,36.5859],[-94.76534,36.58613],[-94.76592,36.58635],[-94.76624,36.58639],[-94.76628,36.5859]]],"type":"Polygon"},{"coordinates":[-94.76594,36.58615],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":null,"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assessing","es-US":"Evaluar","orig":"New"},"cust_a":{"val":6},"etr":"2026-10-24T18:00:00Z","etr_confidence":null,"inc_id":"6099011","n_out":1,"start_time":"2026-10-24T12:55Z","title":"Area Outage"},"type":"Feature"}
 ]}

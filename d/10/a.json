@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.74192,30.04089],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Iberia (2)"]},{"property":"feeder","value":"3684C"},{"property":"predictedDevice","value":"8707149997"},{"property":"substation","value":"Belle Place"}],"cause":"","etrTime":1792854000000,"id":2237871,"identifier":"INC 8105412078","lastUpdatedTime":1792847108000,"latitude":30.04089,"longitude":-91.74192,"numPeople":2,"startTime":1792846644000,"status":"","title":"Outage"},"type":"Feature"}
 ]}
