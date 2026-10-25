@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.441028,29.693461],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-25T12:58:30.057-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-25T11:08:02.21-05:00","outageName":"F68555513001","outagePoint":{"lat":29.693461254999455,"lng":-97.4410282715887},"outageRecID":"2026-10-25-1811","outageStartTime":"2026-10-25T10:54:47-05:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
