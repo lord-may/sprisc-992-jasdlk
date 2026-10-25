@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.69543,30.44076],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Investigación en curso","es-US":"Investigación en curso","orig":"No Selection"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Pending","ES-ES":"Pendiente","es-US":"Pendiente","orig":"N/A"},"cust_a":{"val":1},"etr":"2026-10-25T04:32:35Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-25T02:06:12Z","title":"Area Outage"},"type":"Feature"}
 ]}
