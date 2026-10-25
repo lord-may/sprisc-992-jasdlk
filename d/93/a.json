@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.84806,29.96073],"type":"Point"},"properties":{"cause":{"EN-US":"Public caused damage","es-US":"Daño causado por el publico","orig":"VHCL- Veh Accident"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"On-site","es-US":"En sitio","orig":"On-Site"},"cust_a":{"val":1},"etr":"2026-10-26T00:30:00Z","etr_confidence":null,"inc_id":"J.26.10.2892","n_out":1,"start_time":"2026-10-25T19:59:47Z","title":"Area Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-97.84776,29.96068],"type":"Point"},"properties":{"cause":{"EN-US":"Intentional outage","es-US":"Apagón intencional ","orig":"OPER- Intentional Operation"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Dispatched","es-US":"Despachado","orig":"Assigned"},"cust_a":{"val":1},"etr":"2026-10-26T00:30:00Z","etr_confidence":null,"inc_id":"J.26.10.2895","n_out":1,"start_time":"2026-10-25T21:28:04Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
