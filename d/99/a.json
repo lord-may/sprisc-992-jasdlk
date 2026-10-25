@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.26443,32.597016],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-25T04:58:30.023-05:00","outageName":"2026-10-25-0822","outagePoint":{"lat":32.597015501753006,"lng":-96.26443032812304},"outageRecID":"2026-10-25-0822","outageStartTime":"2026-10-25T04:55:19-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
