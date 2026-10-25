@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.967245,34.149317],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":32,"customersOutNow":32,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-25T01:08:54.55-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T21:20:11.243-05:00","outageName":"","outagePoint":{"lat":34.14931706379613,"lng":-91.9672453531501},"outageRecID":"2026-10-24-0373","outageStartTime":"2026-10-24T21:08:49-05:00","outageWorkStatus":"","streetsAffected":["BOHANNON RD","BOHANNON RD.","E 16TH AVE","GIB ANDERSON R","GRIDER FIELD LADD RD.","GRIDER-LADD RD","SAINT RAPHAEL","SAINT RAPHAEL R","ST RAPHAEL","ST RAPHAEL RD","ST RAPHEL RD","ST. RAPHAEL RD.","US HIGHWAY 63 S.","WILBUR WEST RD","WILBUR WEST RD."],"verified":false},"type":"Feature"}
+
 ]}
