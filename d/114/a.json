@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-90.572329,35.77776],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-25T10:08:15.36-05:00","outageName":"TR7222","outagePoint":{"lat":35.77776008858894,"lng":-90.57232873917337},"outageRecID":"2026-10-25-0196","outageStartTime":"2026-10-25T09:59:33-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
