@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.337319,34.117474],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-24T22:01:08.303-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T18:12:45.85-05:00","outageName":"","outagePoint":{"lat":34.11747412728687,"lng":-92.33731896164178},"outageRecID":"2026-10-24-0372","outageStartTime":"2026-10-24T18:01:07-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["GRANT 213"],"verified":false},"type":"Feature"}
+
 ]}

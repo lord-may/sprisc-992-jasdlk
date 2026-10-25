@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.411726,30.295146],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T19:34:06.89-05:00","outageName":"T39504","outagePoint":{"lat":30.295145681262206,"lng":-93.41172647600582},"outageRecID":"2026-10-24-0825","outageStartTime":"2026-10-24T18:18:41-05:00","outageWorkStatus":"","streetsAffected":["ST THERESA LN"],"verified":true},"type":"Feature"}
+
 ]}
