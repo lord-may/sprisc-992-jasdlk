@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.39914,31.60697],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Grant (2)"]},{"property":"feeder","value":"5579"},{"property":"predictedDevice","value":"0314534198"},{"property":"substation","value":"Colfax"}],"cause":"","etrTime":1792911600000,"id":2238027,"identifier":"INC 8105412113","lastUpdatedTime":1792904412000,"latitude":31.60697,"longitude":-92.39914,"numPeople":2,"startTime":1792903986000,"status":"","title":"Outage"},"type":"Feature"}
+
 ]}
