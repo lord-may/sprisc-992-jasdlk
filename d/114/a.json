@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-90.691788,35.849804],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-25T07:49:01.623-05:00","outageName":"10758","outagePoint":{"lat":35.84980449294275,"lng":-90.69178775757909},"outageRecID":"2026-10-25-0191","outageStartTime":"2026-10-25T07:39:42-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
