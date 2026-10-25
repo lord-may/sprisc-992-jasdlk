@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.089898,32.373958],"type":"Point"},"properties":{"consumers_affected":"1","estimated_restore_time":null,"feeder":"2","formatted_ert":null,"incident_id":"C635565","lat":"32.37395833000065","lon":"-94.0898983300002","opt_code":null,"start_date":"10/25 11:46 am","substation":"14"},"type":"Feature"}
+{"geometry":{"coordinates":[-94.089898,32.373958],"type":"Point"},"properties":{"consumers_affected":"1","estimated_restore_time":null,"feeder":"2","formatted_ert":null,"incident_id":"C635565","lat":"32.37395833000065","lon":"-94.0898983300002","opt_code":null,"start_date":"10/25 11:46 am","substation":"14"},"type":"Feature"},
+{"geometry":{"coordinates":[-93.898102,32.337009],"type":"Point"},"properties":{"consumers_affected":"1","estimated_restore_time":null,"feeder":"2","formatted_ert":null,"incident_id":"C635566","lat":"32.33700904579494","lon":"-93.89810204260687","opt_code":null,"start_date":"10/25 12:16 pm","substation":"11"},"type":"Feature"}
 ]}
