@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.407391,34.233852],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":27,"customersOutNow":27,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-25T16:04:16.16-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-25T12:12:30.75-05:00","outageName":"","outagePoint":{"lat":34.233851863376614,"lng":-92.40739076624084},"outageRecID":"2026-10-25-0384","outageStartTime":"2026-10-25T12:04:08-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["GRANT 167079","GRANT 167079 RD.","HIGHWAY 167 S"],"verified":false},"type":"Feature"}
+
 ]}
