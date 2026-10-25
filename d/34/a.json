@@ -18,5 +18,20 @@
 {"geometry":{"coordinates":[-105.840252,32.931943],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487732","nbrOut":1,"planned":false,"timeOff":1792943833000},"type":"Feature"},
 {"geometry":{"coordinates":[-105.845642,32.941887],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487733","nbrOut":1,"planned":false,"timeOff":1792943901000},"type":"Feature"},
 {"geometry":{"coordinates":[-105.83806,32.943206],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487734","nbrOut":1,"planned":false,"timeOff":1792943901000},"type":"Feature"},
-{"geometry":{"coordinates":[-105.843693,32.94185],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487735","nbrOut":1,"planned":false,"timeOff":1792943916000},"type":"Feature"}
+{"geometry":{"coordinates":[-105.843693,32.94185],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487735","nbrOut":1,"planned":false,"timeOff":1792943916000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.839749,32.940802],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487736","nbrOut":1,"planned":false,"timeOff":1792943937000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.838078,32.941646],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487737","nbrOut":1,"planned":false,"timeOff":1792943820000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.625528,33.407759],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487738","nbrOut":1,"planned":false,"timeOff":1792943820000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.841959,32.940462],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487739","nbrOut":1,"planned":false,"timeOff":1792944032000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.84275,32.941925],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487740","nbrOut":1,"planned":false,"timeOff":1792944000000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.844025,32.943832],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487741","nbrOut":1,"planned":false,"timeOff":1792944287000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.83921,32.940538],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487742","nbrOut":1,"planned":false,"timeOff":1792944287000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.839004,32.935728],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487743","nbrOut":1,"planned":false,"timeOff":1792944294000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.83974,32.938532],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487744","nbrOut":1,"planned":false,"timeOff":1792944300000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.838599,32.947134],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487745","nbrOut":1,"planned":false,"timeOff":1792944463000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.840531,32.936987],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487746","nbrOut":1,"planned":false,"timeOff":1792944463000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.838968,32.932787],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487747","nbrOut":1,"planned":false,"timeOff":1792944473000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.841483,32.937296],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487748","nbrOut":1,"planned":false,"timeOff":1792944659000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.843387,32.940628],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487749","nbrOut":1,"planned":false,"timeOff":1792944659000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.847187,32.942234],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487750","nbrOut":1,"planned":false,"timeOff":1792944674000},"type":"Feature"}
 ]}

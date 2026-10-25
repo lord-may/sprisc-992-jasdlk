@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.228147,34.613669],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-25T11:10:25.173-05:00","outageName":"OCD217433","outagePoint":{"lat":34.613669236959794,"lng":-98.22814655937444},"outageRecID":"2026-10-25-0251","outageStartTime":"2026-10-25T11:10:01-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
