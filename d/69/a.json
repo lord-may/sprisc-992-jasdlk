@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.313357,34.635909],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-24T21:00:00-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-24T17:42:18.64-07:00","outageName":"2026-10-24-0995","outagePoint":{"lat":34.63590876789016,"lng":-92.31335704553233},"outageRecID":"2026-10-24-0995","outageStartTime":"2026-10-24T17:35:07-07:00","outageWorkStatus":"","streetsAffected":["WILLOW SPRINGS RD"],"verified":false},"type":"Feature"}
+
 ]}
