@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.90523,30.04622],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Iberia (73)"]},{"property":"feeder","value":"3200C"},{"property":"predictedDevice","value":"8191150076"},{"property":"substation","value":"NI Industrial"}],"cause":"","etrTime":1793019600000,"id":2238316,"identifier":"INC 8105412298","lastUpdatedTime":1793011981000,"latitude":30.04622,"longitude":-91.90523,"numPeople":74,"startTime":1792997348000,"status":"","title":"Outage"},"type":"Feature"}
+
 ]}
