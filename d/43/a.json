@@ -163,7 +163,6 @@
 {"geometry":{"coordinates":[-104.939754,31.780613],"type":"Point"},"properties":{"id":"701012","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-105.11877,31.742951],"type":"Point"},"properties":{"id":"701013","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-104.609057,31.617602],"type":"Point"},"properties":{"id":"701014","nbrOut":1},"type":"Feature"},
-{"geometry":{"coordinates":[-105.704553,32.127952],"type":"Point"},"properties":{"id":"701017","nbrOut":4},"type":"Feature"},
 {"geometry":{"coordinates":[-105.262618,31.747336],"type":"Point"},"properties":{"id":"701022","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-105.201721,31.750712],"type":"Point"},"properties":{"id":"701026","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-103.856467,30.022591],"type":"Point"},"properties":{"id":"701038","nbrOut":1},"type":"Feature"},
@@ -182,7 +181,5 @@
 {"geometry":{"coordinates":[-105.215007,32.031163],"type":"Point"},"properties":{"id":"701300","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-103.563454,29.938632],"type":"Point"},"properties":{"id":"701316","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-104.966883,31.838631],"type":"Point"},"properties":{"id":"701329","nbrOut":6},"type":"Feature"},
-{"geometry":{"coordinates":[-105.394733,32.02718],"type":"Point"},"properties":{"id":"701335","nbrOut":4},"type":"Feature"},
-{"geometry":{"coordinates":[-105.599728,32.181508],"type":"Point"},"properties":{"id":"701337","nbrOut":5},"type":"Feature"},
-{"geometry":{"coordinates":[-105.597438,32.18036],"type":"Point"},"properties":{"id":"701338","nbrOut":8},"type":"Feature"}
+{"geometry":{"coordinates":[-105.394733,32.02718],"type":"Point"},"properties":{"id":"701335","nbrOut":4},"type":"Feature"}
 ]}
