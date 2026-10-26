@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.643919,36.005225],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":22,"customersOutNow":22,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-26T09:01:26.46-05:00","outageName":"OH57920","outagePoint":{"lat":36.005224654203545,"lng":-90.64391876241665},"outageRecID":"2026-10-26-0239","outageStartTime":"2026-10-26T08:43:38-05:00","outageWorkStatus":"Line Patrol","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
