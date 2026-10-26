@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.293777,34.304999],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-25T17:44:51.06-07:00","outageName":"2026-10-25-1012","outagePoint":{"lat":34.30499905183967,"lng":-91.2937772167765},"outageRecID":"2026-10-25-1012","outageStartTime":"2026-10-25T17:40:13-07:00","outageWorkStatus":"","streetsAffected":["S FORKS LAGRUE","SNYDER LN"],"verified":true},"type":"Feature"}
+
 ]}
