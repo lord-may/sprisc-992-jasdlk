@@ -4,5 +4,5 @@
 {"geometry":{"coordinates":[-98.752733,30.297924],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417556","nbrOut":1,"planned":true,"timeOff":1793026511000},"type":"Feature"},
 {"geometry":{"coordinates":[-99.262294,30.53219],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417557","nbrOut":1,"planned":true,"timeOff":1793026682000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.568642,30.676837],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417558","nbrOut":1,"planned":true,"timeOff":1793026828000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.969129,30.924971],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"The crew is enroute to the location.","id":"417559","lifeCycleStatus":"Crew On-Site","nbrOut":1,"planned":false,"timeOff":1793028185186},"type":"Feature"}
+{"geometry":{"coordinates":[-98.969218,30.925187],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"The crew is enroute to the location.","id":"417560","lifeCycleStatus":"Crew Enroute","nbrOut":2,"planned":false,"timeOff":1793028185186},"type":"Feature"}
 ]}
