@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.403948,30.641671],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-26T16:42:19.8-05:00","outageName":"T62201","outagePoint":{"lat":30.641671189872632,"lng":-93.40394795423722},"outageRecID":"2026-10-26-0880","outageStartTime":"2026-10-26T16:29:17-05:00","outageWorkStatus":"","streetsAffected":["HYATT RD MH","HYATT RD SHOP","N SMOKEY COVE RD BARN"],"verified":false},"type":"Feature"}
+
 ]}
