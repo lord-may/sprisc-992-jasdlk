@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.04017,30.16278],"type":"Point"},"properties":{"additionalProperties":[{"property":"polygon","value":true}],"cause":"N/A","description":"LUS has predicted an outage in this area. Please keep a safe distance from the crews while they are in the area. If there are any questions or issues, please call 337-291-5700. Thank you.","id":2238299,"identifier":"J.E.26.10.01253","lastUpdatedTime":1792980560000,"latitude":30.16278,"longitude":-92.04017,"numPeople":36,"startTime":1792979909000,"status":"PREDICTED","title":"Outage","type":"PREDICTED"},"type":"Feature"}
 ]}
