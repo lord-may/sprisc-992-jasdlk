@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.680792,32.288424],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-25T19:12:46.953-05:00","outageName":"F133742","outagePoint":{"lat":32.288424396580034,"lng":-99.68079245008607},"outageRecID":"2026-10-25-0197","outageStartTime":"2026-10-25T18:27:00-05:00","outageWorkStatus":"Crew in Route","statusMessage":null,"streetsAffected":["COVE RD","COVE RD.","COVE RD/ NEW HOUSE"],"verified":true},"type":"Feature"}
+
 ]}
