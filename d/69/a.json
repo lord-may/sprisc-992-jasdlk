@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.388558,34.57102],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-26T00:00:00-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-25T20:20:56.567-07:00","outageName":"2026-10-25-1013","outagePoint":{"lat":34.57102036233711,"lng":-92.3885575651836},"outageRecID":"2026-10-25-1013","outageStartTime":"2026-10-25T20:16:43-07:00","outageWorkStatus":"","streetsAffected":["PINEWOOD TRAIL"],"verified":true},"type":"Feature"}
+
 ]}
