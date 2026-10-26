@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.846556,33.9399],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-26T06:31:36.92-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-26T02:34:40.923-05:00","outageName":"","outagePoint":{"lat":33.93989954884011,"lng":-91.84655623216484},"outageRecID":"2026-10-26-0390","outageStartTime":"2026-10-26T02:29:35-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["JEFFERSON ST."],"verified":false},"type":"Feature"}
 ]}
