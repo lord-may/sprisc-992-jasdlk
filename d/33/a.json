@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.614186,35.394784],"type":"Point"},"properties":{"comment":"AECI POLE REPLACEMENT - CREWS ONSITE","crewAssigned":true,"id":"379455","nbrOut":1,"planned":false,"timeOff":1793031360000},"type":"Feature"},
-{"geometry":{"coordinates":[-92.610772,35.395311],"type":"Point"},"properties":{"comment":"AECI POLE REPLACEMENT - CREWS ONSITE","crewAssigned":true,"id":"379456","nbrOut":1,"planned":false,"timeOff":1793031738000},"type":"Feature"}
+
 ]}
