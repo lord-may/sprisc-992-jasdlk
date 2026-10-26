@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.382113,33.939972],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-26T00:34:43.673-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-25T20:45:23.347-05:00","outageName":"","outagePoint":{"lat":33.93997197180043,"lng":-91.3821133959357},"outageRecID":"2026-10-25-0389","outageStartTime":"2026-10-25T20:32:54-05:00","outageWorkStatus":"","streetsAffected":["HAYWIRE RD."],"verified":false},"type":"Feature"}
+
 ]}
