@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.381112,34.623736],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-26T05:51:55.353-07:00","outageName":"2026-10-26-1014","outagePoint":{"lat":34.623735797494206,"lng":-92.3811122515436},"outageRecID":"2026-10-26-1014","outageStartTime":"2026-10-26T05:51:50-07:00","outageWorkStatus":"","streetsAffected":["JOSANNE LN"],"verified":false},"type":"Feature"}
 ]}
