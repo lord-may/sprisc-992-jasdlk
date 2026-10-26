@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-105.735644,32.952456],[-105.735392,32.952991],[-105.736012,32.952969],[-105.735644,32.952456]]],"type":"Polygon"},{"coordinates":[-105.735679,32.952803],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"OCEC Maintenance (scheduled)","comment":"ARC replacing pole. Outage from 8 AM-1PM.","estimateTime":1793046600000,"id":"487512","nbrOut":4,"planned":true,"timeOff":1793032200000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-105.736138,32.952931],[-105.736012,32.953104],[-105.736003,32.953413],[-105.736084,32.953451],[-105.73638,32.953082],[-105.736138,32.952931]]],"type":"Polygon"},{"coordinates":[-105.736147,32.95318],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"OCEC Maintenance (scheduled)","estimateTime":1793046600000,"id":"487513","nbrOut":10,"planned":true,"timeOff":1793032200000},"type":"Feature"},
 {"geometry":{"coordinates":[-105.619222,33.404016],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487805","nbrOut":1,"planned":false,"timeOff":1793043786885},"type":"Feature"}
 ]}

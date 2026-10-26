@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.527471,36.07288],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-26T17:11:08.937-05:00","outageName":"19 33 03 transformer","outagePoint":{"lat":36.072879694716526,"lng":-97.52747099377986},"outageRecID":"2026-10-26-0207","outageStartTime":"2026-10-26T17:05:51-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
