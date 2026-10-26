@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.07231,29.97725],"type":"Point"},"properties":{"cause":"Other - Scheduled Interruption/Customer Notified","description":"Equipment on our utility pole has broken. Our crews are on site making repairs.","etrTime":1793012400000,"id":371857,"identifier":"2299242861","lastUpdatedTime":1793001376000,"latitude":29.97725,"longitude":-90.07231,"numPeople":117,"startTime":1793000346000,"status":"First Responder has arrived","title":"Outage"},"type":"Feature"}
+
 ]}
