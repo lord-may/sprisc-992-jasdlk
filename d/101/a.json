@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.272486,34.788338],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-26T14:05:41.793-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-26T10:10:39-05:00","outageName":"","outagePoint":{"lat":34.78833845383775,"lng":-92.272485869429},"outageRecID":"2026-10-26-0290","outageStartTime":"2026-10-26T09:59:03-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["GUM ST"],"verified":true},"type":"Feature"}
+
 ]}
