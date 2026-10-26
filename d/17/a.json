@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-98.450989,30.654058],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417553","nbrOut":1,"planned":true,"timeOff":1793022974000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.261881,30.531316],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417555","nbrOut":1,"planned":true,"timeOff":1793023866000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.752733,30.297924],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417556","nbrOut":1,"planned":true,"timeOff":1793026511000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.262294,30.53219],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417557","nbrOut":1,"planned":true,"timeOff":1793026682000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.568642,30.676837],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417558","nbrOut":1,"planned":true,"timeOff":1793026828000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.471794,30.900424],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"417562","lifeCycleStatus":"Crew Enroute","nbrOut":1,"planned":false,"timeOff":1793036097000},"type":"Feature"}
 ]}
