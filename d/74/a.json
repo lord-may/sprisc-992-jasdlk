@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.940404,31.530541],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-26T21:11:24.897-05:00","outageName":"T9234","outagePoint":{"lat":31.530541332471852,"lng":-96.94040376130066},"outageRecID":"2026-10-26-0531","outageStartTime":"2026-10-26T21:01:43-05:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
