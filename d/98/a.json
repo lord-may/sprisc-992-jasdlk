@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.058363,32.983226],"type":"Point"},"properties":{"cause":"100 Construction","code":"100","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-27T17:48:44.043-05:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-27T14:53:01.197-05:00","outageName":"FDR9802","outagePoint":{"lat":32.98322573916028,"lng":-96.05836308977011},"outageRecID":"2026-10-27-1076","outageStartTime":"2026-10-27T14:46:33-05:00","outageWorkStatus":"Dispatcher Reviewing","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
