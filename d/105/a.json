@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.707425,32.590265],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-26T21:52:44.15-05:00","outageName":"XFMR5899696832","outagePoint":{"lat":32.590264932802704,"lng":-99.707425258183},"outageRecID":"2026-10-26-0198","outageStartTime":"2026-10-26T21:50:00-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["W LAKE RD"],"verified":false},"type":"Feature"}
+
 ]}
