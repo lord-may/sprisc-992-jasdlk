@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-98.450989,30.654058],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417553","nbrOut":1,"planned":true,"timeOff":1793106000000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.471794,30.900424],"type":"Point"},"properties":{"cause":"Consumers Problem","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"417562","nbrOut":1,"planned":true,"timeOff":1793106000000},"type":"Feature"},
 {"geometry":{"coordinates":[-99.014628,30.232246],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417566","nbrOut":1,"planned":true,"timeOff":1793107540055},"type":"Feature"},
 {"geometry":{"coordinates":[-98.947803,30.341907],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","estimateTime":1793120400000,"id":"417567","nbrOut":1,"planned":true,"timeOff":1793111400000},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-98.438359,30.831396],[-98.43835,30.831589],[-98.438467,30.831481],[-98.438359,30.831396]]],"type":"Polygon"},{"coordinates":[-98.438395,30.831489],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417569","nbrOut":3,"planned":true,"timeOff":1793108418000},"type":"Feature"},
