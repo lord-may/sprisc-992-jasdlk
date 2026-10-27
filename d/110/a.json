@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.362728,33.662909],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"CaseNumber":"261027-X0003","CaseStatus":"Calls Bundle","Cause":"","CutomersAffected":23,"ElementName":"","EndTime":"/Date(-62135575200000)/","OutageTime":"10/27/2026 9:10:00 AM","PoleNumber":"RUDY'S SHOP","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-97.36272764261022,"Y":33.66290876652683,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
