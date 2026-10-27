@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.500481,34.009989],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"RATCLIFF, HANK","CaseNumber":"261027-O0005","CaseStatus":"CauseUnknown","Cause":"","CutomersAffected":1,"ElementName":"T-242292249626","EndTime":"/Date(-62135575200000)/","OutageTime":"10/27/2026 6:12:40 AM","PoleNumber":"242292249626","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-96.50048088614804,"Y":34.00998886073117,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
