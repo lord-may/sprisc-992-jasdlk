@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.32313,30.67257],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Evangeline (2)"]},{"property":"feeder","value":"6867D"},{"property":"predictedDevice","value":"6888573073"},{"property":"substation","value":"Magnolia Shade"}],"cause":"","etrTime":1793112300000,"id":2238662,"identifier":"INC 8105412474","lastUpdatedTime":1793104811000,"latitude":30.67257,"longitude":-92.32313,"numPeople":2,"startTime":1793104369000,"status":"","title":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-92.32247,30.6715],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Evangeline (1)"]},{"property":"feeder","value":"6867D"},{"property":"predictedDevice","value":"6890573030"},{"property":"substation","value":"Magnolia Shade"}],"cause":"","etrTime":1793112300000,"id":2238663,"identifier":"INC 8105412475","lastUpdatedTime":1793104811000,"latitude":30.6715,"longitude":-92.32247,"numPeople":1,"startTime":1793104563000,"status":"","title":"Outage"},"type":"Feature"}
 ]}
