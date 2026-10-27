@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.998095,34.952972],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-27T17:00:00-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-27T14:52:59.16-07:00","outageName":"2026-10-27-1118","outagePoint":{"lat":34.95297203137148,"lng":-91.99809515253482},"outageRecID":"2026-10-27-1118","outageStartTime":"2026-10-27T13:57:39-07:00","outageWorkStatus":"","streetsAffected":["CAMPGROUND RD"],"verified":false},"type":"Feature"}
+
 ]}
