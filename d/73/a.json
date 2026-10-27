@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.45195,35.124028],"type":"Point"},"properties":{"cause":"Equipment Replacement","code":"131","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-27T12:30:00-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-27T09:35:26.99-05:00","outageName":"11943 - T202","outagePoint":{"lat":35.12402766633881,"lng":-92.4519499128251},"outageRecID":"2026-10-27-0138","outageStartTime":"2026-10-27T09:33:06-05:00","outageWorkStatus":"","streetsAffected":["FRIENDSHIP RD"],"verified":true},"type":"Feature"}
+
 ]}
