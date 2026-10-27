@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.544693,31.485072],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":493,"customersOutNow":493,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-27T09:03:42.617-05:00","outageName":"GROESBECK 1201-FT. PARKER","outagePoint":{"lat":31.485071514690866,"lng":-96.54469332463913},"outageRecID":"2026-10-27-0533","outageStartTime":"2026-10-27T09:03:40-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
