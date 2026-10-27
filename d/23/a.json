@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.074151,28.859094],"type":"Point"},"properties":{"cause":"Equipment Failure","crewAssigned":true,"id":"874587","nbrOut":1,"planned":false,"timeOff":1793118507326},"type":"Feature"},
 {"geometry":{"coordinates":[-98.900354,27.90085],"type":"Point"},"properties":{"crewAssigned":true,"id":"874591","nbrOut":4,"planned":false,"timeOff":1793129290000},"type":"Feature"}
 ]}
