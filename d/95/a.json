@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.454582,32.602912],"type":"Point"},"properties":{"crewAssigned":true,"id":"650162","nbrOut":1,"planned":false,"timeOff":1793184799831},"type":"Feature"},
-{"geometry":{"coordinates":[-94.457214,32.610207],"type":"Point"},"properties":{"crewAssigned":false,"id":"650164","nbrOut":1,"planned":false,"timeOff":1793184966000},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-94.459945,32.599173],[-94.453846,32.603071],[-94.454313,32.604441],[-94.457214,32.610207],[-94.459945,32.599173]]],"type":"Polygon"},{"coordinates":[-94.456963,32.604191],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":false,"id":"650166","nbrOut":11,"planned":false,"timeOff":1793186790832},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-94.459945,32.599173],[-94.453846,32.603071],[-94.454313,32.604441],[-94.457214,32.610207],[-94.459945,32.599173]]],"type":"Polygon"},{"coordinates":[-94.456963,32.604191],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"3 broke poles due to a dead pine tree off ROW","crewAssigned":true,"id":"650168","nbrOut":11,"planned":false,"timeOff":1793183363000},"type":"Feature"}
 ]}
