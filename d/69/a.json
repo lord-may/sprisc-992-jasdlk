@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.968626,35.541124],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-28T17:00:00-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-28T14:09:59.4-07:00","outageName":"2026-10-28-1167","outagePoint":{"lat":35.5411238127169,"lng":-91.96862584587929},"outageRecID":"2026-10-28-1167","outageStartTime":"2026-10-28T14:05:35-07:00","outageWorkStatus":"","streetsAffected":["HEBER SPRINGS RD N"],"verified":false},"type":"Feature"}
+
 ]}
