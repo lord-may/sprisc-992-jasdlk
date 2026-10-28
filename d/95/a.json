@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-94.459945,32.599173],[-94.450836,32.600664],[-94.448806,32.60348],[-94.457214,32.610207],[-94.459945,32.599173]]],"type":"Polygon"},{"coordinates":[-94.45496,32.603744],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Per Harrison Cty, Member heard a loud pop and then their backyard was on fire at meter 129633 785 Calloway.","crewAssigned":true,"id":"650159","nbrOut":20,"planned":false,"timeOff":1793173562565},"type":"Feature"}
+{"geometry":{"coordinates":[-94.454582,32.602912],"type":"Point"},"properties":{"crewAssigned":true,"id":"650162","nbrOut":1,"planned":false,"timeOff":1793184799831},"type":"Feature"},
+{"geometry":{"coordinates":[-94.457214,32.603404],"type":"Point"},"properties":{"crewAssigned":false,"id":"650163","nbrOut":1,"planned":false,"timeOff":1793184963000},"type":"Feature"},
+{"geometry":{"coordinates":[-94.457214,32.610207],"type":"Point"},"properties":{"crewAssigned":false,"id":"650164","nbrOut":1,"planned":false,"timeOff":1793184966000},"type":"Feature"}
 ]}
