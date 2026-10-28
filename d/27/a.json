@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.712579,28.891401],"type":"Point"},"properties":{"comment":"KEC Contractor working on location","crewAssigned":true,"id":"334785","nbrOut":1,"planned":true,"timeOff":1793192378607},"type":"Feature"},
+{"geometry":{"coordinates":[-98.725676,28.897692],"type":"Point"},"properties":{"crewAssigned":true,"id":"334786","nbrOut":2,"planned":true,"timeOff":1793192465378},"type":"Feature"},
+{"geometry":{"coordinates":[-98.637489,28.976324],"type":"Point"},"properties":{"crewAssigned":false,"id":"334787","nbrOut":1,"planned":true,"timeOff":1793193004944},"type":"Feature"}
 ]}
