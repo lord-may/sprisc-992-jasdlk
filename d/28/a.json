@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-94.319116,32.183675],[-94.318838,32.184207],[-94.319009,32.184222],[-94.319116,32.183675]]],"type":"Polygon"},{"coordinates":[-94.318982,32.184032],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"RCEC Personnel","id":"727998","nbrOut":3},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-94.884579,32.077987],[-94.884067,32.078276],[-94.88466,32.078124],[-94.884579,32.077987]]],"type":"Polygon"},{"coordinates":[-94.884435,32.078132],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Change Cause Code","id":"728000","nbrOut":3},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-94.319116,32.183675],[-94.318838,32.184207],[-94.319009,32.184222],[-94.319116,32.183675]]],"type":"Polygon"},{"coordinates":[-94.318982,32.184032],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"RCEC Personnel","id":"727998","nbrOut":3},"type":"Feature"}
 ]}
