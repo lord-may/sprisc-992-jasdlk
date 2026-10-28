@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.772301,33.733574],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-28T18:29:14.127-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-28T14:40:12.787-05:00","outageName":"","outagePoint":{"lat":33.73357372431384,"lng":-91.77230053712559},"outageRecID":"2026-10-28-0421","outageStartTime":"2026-10-28T14:29:12-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["RABB RD","RABB RD."],"verified":false},"type":"Feature"}
 ]}
