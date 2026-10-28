@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.681707,30.631889],"type":"Point"},"properties":{"cause":"Equipment","code":"64","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-28T18:37:05-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-28T16:39:36.5-05:00","outageName":"OH6067","outagePoint":{"lat":30.63188911093456,"lng":-97.68170667605845},"outageRecID":"2026-10-28-0124","outageStartTime":"2026-10-28T16:37:05-05:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

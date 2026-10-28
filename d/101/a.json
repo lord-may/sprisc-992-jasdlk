@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.272656,34.805069],"type":"Point"},"properties":{"cause":"Maintenance","code":"110","crewAssigned":true,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-28T16:57:55-05:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-28T13:26:46-05:00","outageName":"","outagePoint":{"lat":34.80506899799684,"lng":-92.27265572810771},"outageRecID":"2026-10-28-0307","outageStartTime":"2026-10-28T12:57:46-05:00","outageWorkStatus":"Repair in Progress","statusMessage":null,"streetsAffected":["55TH TERRACE DR","ALLEN ST","PICKWICK LN"],"verified":true},"type":"Feature"}
+
 ]}
