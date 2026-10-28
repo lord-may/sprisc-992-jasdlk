@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-99.600773,32.275617],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":13,"customersOutNow":13,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-28T01:21:22.24-05:00","outageName":"F110924","outagePoint":{"lat":32.275617383150234,"lng":-99.60077307012853},"outageRecID":"2026-10-28-0201","outageStartTime":"2026-10-28T01:12:00-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["B FM 1178","FM 1178","FM 1178/SHOP","HWY 36/ HOUSE","MOBILE HOME # 3","PR 2246 #4","PR 2246 #5","PR 2246 #6","PR 2247","PR 2247 #2","ST HWY 36 W/HOUSE","WATER PUMP #1","WATER WELL-1"],"verified":false},"type":"Feature"}
 ]}
