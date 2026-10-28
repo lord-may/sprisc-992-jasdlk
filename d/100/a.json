@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.596651,30.667549],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-28T09:25:35.857-05:00","outageName":"D14320","outagePoint":{"lat":30.667548631355473,"lng":-93.59665091109107},"outageRecID":"2026-10-28-0952","outageStartTime":"2026-10-28T09:23:56-05:00","outageWorkStatus":"","streetsAffected":["HWY 389","WINGATE CEMETERY RD-CAMP","WINGATE CEMETERY RD-MH"],"verified":false},"type":"Feature"}
 ]}
