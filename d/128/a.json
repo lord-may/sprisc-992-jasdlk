@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-100.054074,36.854771],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"","AssignedTo":"","CaseNumber":"261028-X0008","CaseStatus":"Calls Bundle","Cause":"","CutomersAffected":64,"ElementName":"","EndTime":"/Date(-62135575200000)/","OutageTime":"10/28/2026 1:47:52 PM","PoleNumber":"DEVSteel_Bar-1","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-100.05407442145568,"Y":36.85477107413086,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
+{"geometry":{"coordinates":[-100.05145,36.850189],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"","AssignedTo":"","CaseNumber":"261028-X0010","CaseStatus":"Calls Bundle","Cause":"","CutomersAffected":1,"ElementName":"","EndTime":"/Date(-62135575200000)/","OutageTime":"10/28/2026 1:49:39 PM","PoleNumber":"127668","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-100.05145037213997,"Y":36.85018880479057,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
