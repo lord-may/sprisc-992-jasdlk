@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.330938,32.186336],"type":"Point"},"properties":{"cause":"RCEC Personnel","id":"728001","nbrOut":1},"type":"Feature"}
+{"geometry":{"coordinates":[-94.330938,32.186336],"type":"Point"},"properties":{"cause":"RCEC Personnel","id":"728001","nbrOut":1},"type":"Feature"},
+{"geometry":{"coordinates":[-94.624687,31.882959],"type":"Point"},"properties":{"cause":"RCEC Personnel","id":"728004","nbrOut":1},"type":"Feature"}
 ]}
