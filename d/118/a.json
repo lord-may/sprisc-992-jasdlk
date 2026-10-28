@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.729642,30.710093],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-28T10:16:06-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-28T08:16:19.42-05:00","outageName":"SER0096674","outagePoint":{"lat":30.710092959567653,"lng":-97.72964168581872},"outageRecID":"2026-10-28-0117","outageStartTime":"2026-10-28T08:16:06-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
