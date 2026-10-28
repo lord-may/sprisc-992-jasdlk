@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-93.775474,34.244382],"type":"Point"},"properties":{"cause":"No Cause Code","crewAssigned":true,"id":"780524","nbrOut":10,"planned":false,"timeOff":1793197403132},"type":"Feature"},
 {"geometry":{"coordinates":[-93.172318,34.174966],"type":"Point"},"properties":{"cause":"SCAEC - Scheduled Const/Maint","comment":"THIS IS A PLANNED OUTAGE FOR MAINTENANCE. CREWS ARE WORKING AND WILL RESTORE POWER SAFELY AND QUICKLY AS POSSIBLE.","crewAssigned":true,"id":"780526","nbrOut":4,"planned":false,"timeOff":1793200427431},"type":"Feature"},
-{"geometry":{"coordinates":[-93.170512,34.175643],"type":"Point"},"properties":{"cause":"No Cause Code","comment":"THIS IS A PLANNED OUTAGE FOR MAINTENANCE. CREWS ARE WORKING AND WILL RESTORE POWER SAFELY AND QUICKLY AS POSSIBLE.","crewAssigned":true,"id":"780527","nbrOut":1,"planned":false,"timeOff":1793200772000},"type":"Feature"}
+{"geometry":{"coordinates":[-93.170512,34.175643],"type":"Point"},"properties":{"cause":"No Cause Code","comment":"THIS IS A PLANNED OUTAGE FOR MAINTENANCE. CREWS ARE WORKING AND WILL RESTORE POWER SAFELY AND QUICKLY AS POSSIBLE.","crewAssigned":true,"id":"780527","nbrOut":1,"planned":false,"timeOff":1793200772000},"type":"Feature"},
+{"geometry":{"coordinates":[-93.170521,34.173302],"type":"Point"},"properties":{"cause":"No Cause Code","crewAssigned":true,"id":"780528","nbrOut":1,"planned":false,"timeOff":1793202381000},"type":"Feature"}
 ]}

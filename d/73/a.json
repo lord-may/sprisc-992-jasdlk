@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.449648,35.125402],"type":"Point"},"properties":{"cause":"Equipment Replacement","code":"131","crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-28T13:00:00-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-28T09:22:17.513-05:00","outageName":"FUS993 - T202","outagePoint":{"lat":35.12540187492633,"lng":-92.44964849447301},"outageRecID":"2026-10-28-0141","outageStartTime":"2026-10-28T09:18:22-05:00","outageWorkStatus":"","streetsAffected":["FRIENDSHIP RD"],"verified":true},"type":"Feature"}
+
 ]}
