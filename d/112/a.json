@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.885916,34.080947],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"JJ","CaseNumber":"261027-P0004","CaseStatus":"Predicted","Cause":"","CutomersAffected":5,"ElementName":"T-22154","EndTime":"/Date(-62135571600000)/","OutageTime":"10/27/2026 5:34:00 PM","PoleNumber":"22154","RestorationTime":null,"StartTime":"/Date(-62135571600000)/","X":-106.88591567949888,"Y":34.080947264668495,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
