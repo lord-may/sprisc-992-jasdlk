@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.271651,31.589732],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-28T12:58:00.29-05:00","outageName":"TR_6815","outagePoint":{"lat":31.589731916808404,"lng":-99.27165116772568},"outageRecID":"2026-10-28-0194","outageStartTime":"2026-10-28T12:46:45-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
