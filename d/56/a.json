@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-102.408966,36.820879],"type":"Point"},"properties":{"cause":"99 - Pending","crewAssigned":true,"id":"337934","nbrOut":1,"planned":false,"timeOff":1793293231857},"type":"Feature"}
 ]}
