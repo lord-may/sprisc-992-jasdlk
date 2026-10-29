@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.267648,34.768922],"type":"Point"},"properties":{"cause":"Vandalism or Sabatoge","code":"740","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-29T10:03:14-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-29T08:39:30.15-05:00","outageName":"","outagePoint":{"lat":34.768921577245486,"lng":-92.26764797141382},"outageRecID":"2026-10-29-0312","outageStartTime":"2026-10-29T06:03:14-05:00","outageWorkStatus":"Repair in Progress","statusMessage":null,"streetsAffected":["MAIN ST"],"verified":true},"type":"Feature"}
+
 ]}
