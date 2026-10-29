@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.322366,30.624943],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":4,"customersOutNow":0,"customersRestored":4,"estimatedTimeOfRestoral":"2026-10-28T19:57:12.523-05:00","isPlanned":false,"outageEndTime":"2026-10-28T18:31:22-05:00","outageModifiedTime":"2026-10-28T18:33:21.363-05:00","outageName":"2311","outagePoint":{"lat":30.624942787473994,"lng":-96.32236630751464},"outageRecID":"2026-10-28-0220","outageStartTime":"2026-10-28T17:56:30-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
