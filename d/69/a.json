@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.012916,35.019618],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-29T13:04:22.057-07:00","outageName":"2026-10-29-1206","outagePoint":{"lat":35.0196175453161,"lng":-92.01291644403976},"outageRecID":"2026-10-29-1206","outageStartTime":"2026-10-29T12:22:08-07:00","outageWorkStatus":"","streetsAffected":["BUSTER LN","WHITE CLOUD DRIVE"],"verified":true},"type":"Feature"}
+
 ]}
