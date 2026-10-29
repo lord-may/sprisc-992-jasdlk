@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.798632,32.744884],"type":"Point"},"properties":{"cause":"Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-10-29T08:33:20.15-05:00","outageName":"107516-E-1","outagePoint":{"lat":32.74488408492663,"lng":-97.79863177459589},"outageRecID":"2026-10-29-0100","outageStartTime":"2026-10-29T08:32:36-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
