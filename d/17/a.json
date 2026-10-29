@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.452858,30.656438],"type":"Point"},"properties":{"cause":"AMI Self-report","comment":"If you are experiencing an outage please call 1-800-900-2832 and ask to speak with a dispatcher.  We need to confirm details or your outage prior to dispatching a crew.","id":"417591","nbrOut":1,"planned":true,"timeOff":1793277977000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.452858,30.656438],"type":"Point"},"properties":{"cause":"AMI Self-report","comment":"If you are experiencing an outage please call 1-800-900-2832 and ask to speak with a dispatcher.  We need to confirm details or your outage prior to dispatching a crew.","id":"417591","nbrOut":1,"planned":true,"timeOff":1793277977000},"type":"Feature"},
+{"geometry":{"coordinates":[-98.933969,30.194239],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417618","lifeCycleStatus":"Crew Enroute","nbrOut":1,"planned":false,"timeOff":1793312977000},"type":"Feature"}
 ]}
