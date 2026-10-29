@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-98.471794,30.900424],"type":"Point"},"properties":{"cause":"Consumers Problem","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"417562","nbrOut":1,"planned":true,"timeOff":1793278800000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.452858,30.656438],"type":"Point"},"properties":{"cause":"AMI Self-report","comment":"If you are experiencing an outage please call 1-800-900-2832 and ask to speak with a dispatcher.  We need to confirm details or your outage prior to dispatching a crew.","id":"417591","nbrOut":1,"planned":true,"timeOff":1793277977000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.714663,30.978336],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417593","nbrOut":1,"planned":true,"timeOff":1793282127000},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-98.650343,30.889177],[-98.649984,30.88947],[-98.650155,30.889354],[-98.650343,30.889177]]],"type":"Polygon"},{"coordinates":[-98.650164,30.889331],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417597","nbrOut":3,"planned":true,"timeOff":1793283093000},"type":"Feature"}
 ]}
