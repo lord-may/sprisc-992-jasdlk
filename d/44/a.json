@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-96.71204,29.838544],[-96.661276,29.849141],[-96.661563,29.850348],[-96.663863,29.85655],[-96.664734,29.858599],[-96.696148,29.896268],[-96.696921,29.896299],[-96.711725,29.896097],[-96.720448,29.883978],[-96.728703,29.8532],[-96.724373,29.843219],[-96.71204,29.838544]]],"type":"Polygon"},{"coordinates":[-96.699194,29.864777],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Fayette Electric is aware of an outage HWY 71 and Fayetteville on FM 955","crewAssigned":true,"id":"228383","nbrOut":77,"planned":false,"timeOff":1793270594000},"type":"Feature"}
+
 ]}

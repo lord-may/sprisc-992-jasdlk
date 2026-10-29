@@ -12,5 +12,11 @@
 {"geometry":{"coordinates":[-96.900057,28.645035],"type":"Point"},"properties":{"id":"344160","nbrOut":1,"planned":false,"timeOff":1793218547142},"type":"Feature"},
 {"geometry":{"coordinates":[-96.856273,28.673782],"type":"Point"},"properties":{"id":"344161","nbrOut":1,"planned":false,"timeOff":1793218412000},"type":"Feature"},
 {"geometry":{"coordinates":[-96.824931,28.7071],"type":"Point"},"properties":{"id":"344170","nbrOut":1,"planned":false,"timeOff":1793218938277},"type":"Feature"},
-{"geometry":{"coordinates":[-96.666064,28.673176],"type":"Point"},"properties":{"id":"344171","nbrOut":1,"planned":false,"timeOff":1793278984000},"type":"Feature"}
+{"geometry":{"coordinates":[-96.666064,28.673176],"type":"Point"},"properties":{"id":"344171","nbrOut":1,"planned":false,"timeOff":1793278984000},"type":"Feature"},
+{"geometry":{"coordinates":[-97.104792,28.708786],"type":"Point"},"properties":{"id":"344174","nbrOut":1,"planned":false,"timeOff":1793279765000},"type":"Feature"},
+{"geometry":{"coordinates":[-97.094156,28.704579],"type":"Point"},"properties":{"id":"344175","nbrOut":1,"planned":false,"timeOff":1793279765000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-97.153669,28.5987],[-97.146079,28.600877],[-97.050893,28.699694],[-97.049968,28.700694],[-97.078265,28.719895],[-97.085451,28.724582],[-97.101783,28.723802],[-97.202367,28.644814],[-97.202511,28.64468],[-97.203122,28.638996],[-97.153669,28.5987]]],"type":"Polygon"},{"coordinates":[-97.127969,28.664222],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"344176","nbrOut":248,"planned":false,"timeOff":1793279761000},"type":"Feature"},
+{"geometry":{"coordinates":[-97.092898,28.713238],"type":"Point"},"properties":{"id":"344177","nbrOut":1,"planned":false,"timeOff":1793279761000},"type":"Feature"},
+{"geometry":{"coordinates":[-97.088622,28.701317],"type":"Point"},"properties":{"id":"344178","nbrOut":1,"planned":false,"timeOff":1793279762000},"type":"Feature"},
+{"geometry":{"coordinates":[-97.013146,28.940553],"type":"Point"},"properties":{"id":"344179","nbrOut":1,"planned":false,"timeOff":1793280339000},"type":"Feature"}
 ]}
