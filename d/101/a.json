@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.269588,34.758367],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":23,"customersOutNow":23,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-29T13:26:25.917-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-29T09:26:25.96-05:00","outageName":"","outagePoint":{"lat":34.7583671939274,"lng":-92.26958755714969},"outageRecID":"2026-10-29-0315","outageStartTime":"2026-10-29T09:20:04-05:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["MAPLE ST","MAPLE ST A","MAPLE ST B","MAPLE ST C","MAPLE ST D","ORANGE ST","W 5TH ST","W 5TH ST #A","W 5TH ST #B","W 6TH ST"],"verified":false},"type":"Feature"}
 ]}
