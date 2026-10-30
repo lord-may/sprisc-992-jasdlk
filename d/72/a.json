@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.190793,34.148242],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-30T20:32:44.56-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T16:32:44.61-05:00","outageName":"","outagePoint":{"lat":34.148242045210125,"lng":-92.19079280598086},"outageRecID":"2026-10-30-0451","outageStartTime":"2026-10-30T16:32:32-05:00","outageWorkStatus":"","streetsAffected":["SAMUEL RD"],"verified":false},"type":"Feature"}
 ]}
