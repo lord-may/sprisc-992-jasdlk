@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-100.343384,32.307256],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":8,"customersOutNow":8,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T10:41:02.337-05:00","outageName":"OH152501","outagePoint":{"lat":32.30725620085615,"lng":-100.34338399902254},"outageRecID":"2026-10-30-0207","outageStartTime":"2026-10-30T06:09:00-05:00","outageWorkStatus":"Crew in Route","statusMessage":null,"streetsAffected":["BUNK HOUSE                  ","FM 608","HWY 70","MARY NEAL 8351 HWY 70","MH/ WATER WELL","SIGNAL LIGHT","SITE 310056 - NOLAN","ST HWY 70/TXP-753NOLAN"],"verified":true},"type":"Feature"}
+
 ]}

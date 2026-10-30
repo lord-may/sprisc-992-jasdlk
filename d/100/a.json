@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.52962,30.824765],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":17,"customersOutNow":17,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T13:18:31.443-05:00","outageName":"D15325","outagePoint":{"lat":30.824764611981863,"lng":-93.52961970216833},"outageRecID":"2026-10-30-1049","outageStartTime":"2026-10-30T13:17:35-05:00","outageWorkStatus":"","streetsAffected":["EAVES LOOP","EAVES LOOP BARN","EAVES LOOP HOUSE","EAVES LOOP HSE","EAVES LOOP MH","EAVES LOOP SHOP","EAVES LP MH"],"verified":false},"type":"Feature"}
 ]}
