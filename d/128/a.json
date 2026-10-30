@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.436943,36.182493],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Truck 31","CaseNumber":"261029-P0009","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T-5076","EndTime":"/Date(-62135575200000)/","OutageTime":"10/29/2026 6:02:53 PM","PoleNumber":"5076","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-99.43694326996153,"Y":36.18249339519367,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
-{"geometry":{"coordinates":[-99.630583,36.144354],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Truck 31","CaseNumber":"261029-P0012","CaseStatus":"Predicted","Cause":"","CutomersAffected":92,"ElementName":"REC-","EndTime":"/Date(-62135575200000)/","OutageTime":"10/29/2026 6:02:53 PM","PoleNumber":"DEV56009-2","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-99.63058345009286,"Y":36.14435374584704,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
