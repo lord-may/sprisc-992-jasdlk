@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.040086,29.547736],"type":"Point"},"properties":{"crewAssigned":false,"id":"228391","nbrOut":2,"planned":false,"timeOff":1793393232708},"type":"Feature"},
+{"geometry":{"coordinates":[-97.040086,29.547736],"type":"Point"},"properties":{"comment":"Fayette Electric is aware of a power outage south of Komensky on FM 1295.","crewAssigned":true,"id":"228391","nbrOut":2,"planned":false,"timeOff":1793393232708},"type":"Feature"},
 {"geometry":{"coordinates":[-97.038676,29.545181],"type":"Point"},"properties":{"crewAssigned":false,"id":"228392","nbrOut":1,"planned":false,"timeOff":1793393402000},"type":"Feature"}
 ]}
