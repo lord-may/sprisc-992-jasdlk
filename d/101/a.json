@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.244679,34.796582],"type":"Point"},"properties":{"cause":"Cause unknown","code":"999","crewAssigned":false,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-30T11:38:08-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T07:41:57.143-05:00","outageName":"","outagePoint":{"lat":34.796582484951024,"lng":-92.24467917471179},"outageRecID":"2026-10-30-0319","outageStartTime":"2026-10-30T07:38:08-05:00","outageWorkStatus":"Scouting","statusMessage":null,"streetsAffected":["GREENWAY DR","OAKLAWN DR"],"verified":true},"type":"Feature"}
 ]}
