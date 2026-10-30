@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.311885,30.655936],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T14:30:17.973-05:00","outageName":"XFMR4631","outagePoint":{"lat":30.655936261155396,"lng":-96.31188531811627},"outageRecID":"2026-10-30-0617","outageStartTime":"2026-10-30T14:25:38-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
