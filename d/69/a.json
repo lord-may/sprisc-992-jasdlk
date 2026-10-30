@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.848288,35.521515],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-30T16:00:00-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T12:21:50.353-07:00","outageName":"2026-10-30-1226","outagePoint":{"lat":35.52151510569463,"lng":-91.84828804298608},"outageRecID":"2026-10-30-1226","outageStartTime":"2026-10-30T12:18:01-07:00","outageWorkStatus":"","streetsAffected":["CENTER RIDGE RD"],"verified":false},"type":"Feature"}
 ]}

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.435106,31.098846],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T14:12:53.947-05:00","outageName":"T12702","outagePoint":{"lat":31.09884563163926,"lng":-96.43510563711745},"outageRecID":"2026-10-30-0570","outageStartTime":"2026-10-30T14:09:50-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-96.436242,31.100396],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T14:12:53.95-05:00","outageName":"OH4546010038","outagePoint":{"lat":31.100395815011133,"lng":-96.43624247477558},"outageRecID":"2026-10-30-0571","outageStartTime":"2026-10-30T14:09:54-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
