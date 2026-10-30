@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.565029,34.739067],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-30T10:00:00-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T08:21:08.223-07:00","outageName":"2026-10-30-1216","outagePoint":{"lat":34.73906665465303,"lng":-92.56502919755765},"outageRecID":"2026-10-30-1216","outageStartTime":"2026-10-30T08:07:57-07:00","outageWorkStatus":"","streetsAffected":["E COLONEL GLENN RD"],"verified":false},"type":"Feature"}
+
 ]}
