@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.088064,34.941702],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T09:42:19.39-07:00","outageName":"2026-10-30-1217","outagePoint":{"lat":34.941701668229754,"lng":-92.08806390424077},"outageRecID":"2026-10-30-1217","outageStartTime":"2026-10-30T09:42:17-07:00","outageWorkStatus":"","streetsAffected":["OLE TAYLOR COVE"],"verified":false},"type":"Feature"}
 ]}
