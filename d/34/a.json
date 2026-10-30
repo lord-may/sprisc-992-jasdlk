@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-105.314486,33.504785],[-105.322023,33.539511],[-105.360624,33.549948],[-105.36163,33.549859],[-105.361675,33.549477],[-105.360327,33.545778],[-105.353662,33.535303],[-105.316193,33.504807],[-105.314486,33.504785]]],"type":"Polygon"},{"coordinates":[-105.334941,33.530848],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Lightning","comment":"Crew is enroute.","id":"487829","nbrOut":14,"planned":false,"timeOff":1793313144931},"type":"Feature"},
 {"geometry":{"coordinates":[-106.035304,33.016219],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487833","nbrOut":1,"planned":false,"timeOff":1793318640000},"type":"Feature"}
 ]}
