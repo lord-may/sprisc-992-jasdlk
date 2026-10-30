@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.725451,32.867983],"type":"Point"},"properties":{"crewAssigned":true,"id":"650228","nbrOut":1,"planned":false,"timeOff":1793374238517},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-94.644001,32.473109],[-94.642995,32.473079],[-94.626304,32.480846],[-94.626286,32.48093],[-94.625639,32.486636],[-94.624696,32.496789],[-94.624552,32.499797],[-94.626735,32.505979],[-94.62705,32.506009],[-94.655401,32.485461],[-94.659479,32.481915],[-94.65947,32.480968],[-94.656973,32.478914],[-94.644001,32.473109]]],"type":"Polygon"},{"coordinates":[-94.638764,32.487113],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Crews will be working to make repairs to damaged lines, so that power can be restored. Thank you for your patience.","crewAssigned":true,"id":"650237","nbrOut":360,"planned":false,"timeOff":1793374576948},"type":"Feature"}
 ]}
