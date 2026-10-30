@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.471794,30.900424],"type":"Point"},"properties":{"cause":"Consumers Problem","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"417562","nbrOut":1,"planned":true,"timeOff":1793365200000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.945476,30.179991],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417621","nbrOut":1,"planned":true,"timeOff":1793367600000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.471794,30.900424],"type":"Point"},"properties":{"cause":"Consumers Problem","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"417562","nbrOut":1,"planned":true,"timeOff":1793365200000},"type":"Feature"}
 ]}
