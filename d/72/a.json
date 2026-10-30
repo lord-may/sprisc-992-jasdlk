@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.204626,34.057547],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":107,"customersOutNow":107,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-30T17:51:37.46-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T13:54:39.847-05:00","outageName":"","outagePoint":{"lat":34.05754740259111,"lng":-92.20462566355044},"outageRecID":"2026-10-30-0449","outageStartTime":"2026-10-30T13:51:03-05:00","outageWorkStatus":"","streetsAffected":["0","CUMMINGS LANE","CUMMINGS LN","CUMMINGS LN.","HIGHWAY 212","HIGHWAY 79","HUDSON RD.","HWY 212","HWY 79 N","JH LANE","MEADOW LN","MEADOW LN.","MOORES CHURCH","MOORE'S CHURCH RD.","MOUNT CARMEL R","MOUNT CARMEL RD","MT. CARMEL RD.","PARK ST","RUCKER COVE","ST. HWY 212","SUNSET LN","SUNSET LN.","TERRA LANE"],"verified":false},"type":"Feature"}
 ]}
