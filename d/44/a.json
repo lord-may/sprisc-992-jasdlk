@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-97.030331,29.539132],[-97.030196,29.539311],[-97.025516,29.548947],[-97.026764,29.550784],[-97.031993,29.555254],[-97.040122,29.553777],[-97.042772,29.551808],[-97.042745,29.545603],[-97.030331,29.539132]]],"type":"Polygon"},{"coordinates":[-97.034337,29.548002],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Fayette Electric is aware of a power outage south of Komensky including parts of FM 1295 & CR 246. The crew is making repairs to the line.","crewAssigned":true,"id":"228394","nbrOut":17,"planned":false,"timeOff":1793393232708},"type":"Feature"}
+{"geometry":{"coordinates":[-97.051531,29.553839],"type":"Point"},"properties":{"crewAssigned":false,"id":"228395","nbrOut":1,"planned":false,"timeOff":1793402589386},"type":"Feature"}
 ]}
