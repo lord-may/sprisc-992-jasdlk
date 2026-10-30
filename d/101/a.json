@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.258177,34.801849],"type":"Point"},"properties":{"cause":"Cause unknown","code":"999","crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-30T12:21:20.583-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T08:24:46.493-05:00","outageName":"","outagePoint":{"lat":34.801848553857056,"lng":-92.25817658295948},"outageRecID":"2026-10-30-0321","outageStartTime":"2026-10-30T08:13:20-05:00","outageWorkStatus":"Crew in Route","statusMessage":null,"streetsAffected":["N VINE ST"],"verified":true},"type":"Feature"}
+
 ]}
