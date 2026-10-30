@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.430654,35.111968],"type":"Point"},"properties":{"cause":"Customer Service","code":"120","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T09:41:37.96-05:00","outageName":"4485 - M102","outagePoint":{"lat":35.11196751117319,"lng":-92.43065398211729},"outageRecID":"2026-10-30-0150","outageStartTime":"2026-10-30T09:14:30-05:00","outageWorkStatus":"","streetsAffected":["SKYLINE DR"],"verified":true},"type":"Feature"}
+
 ]}
