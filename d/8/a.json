@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-97.73177,30.37007],[-97.73138,30.37074],[-97.73051,30.37266],[-97.73092,30.37286],[-97.73278,30.37375],[-97.73297,30.37379],[-97.73315,30.37372],[-97.73328,30.37356],[-97.73405,30.37238],[-97.73412,30.37081],[-97.73402,30.37066],[-97.7336,30.37045],[-97.73177,30.37007]]],"type":"Polygon"},{"coordinates":[-97.7325,30.37188],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Investigación en curso","es-US":"Investigación en curso","orig":"No Selection"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Pending","ES-ES":"Pendiente","es-US":"Pendiente","orig":"N/A"},"cust_a":{"val":131},"etr":"2026-10-31T19:59:22Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-10-31T17:44:13Z","title":"Area Outage"},"type":"Feature"}
 ]}
