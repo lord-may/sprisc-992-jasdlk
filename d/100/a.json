@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.217962,30.319531],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-31T07:13:07.887-05:00","outageName":"T42899","outagePoint":{"lat":30.319531128293065,"lng":-93.21796219243882},"outageRecID":"2026-10-31-1056","outageStartTime":"2026-10-31T07:12:29-05:00","outageWorkStatus":"","streetsAffected":["WEDGEWOOD DR"],"verified":false},"type":"Feature"}
 ]}
