@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.490429,30.469904],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":32,"customersOutNow":32,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-31T03:07:34.157-05:00","outageName":"D22303","outagePoint":{"lat":30.469904166051222,"lng":-93.49042912880276},"outageRecID":"2026-10-31-1055","outageStartTime":"2026-10-31T02:30:04-05:00","outageWorkStatus":"","streetsAffected":["HAVEMAR LN","HAVEMAR LN HSE","HAVEMAR LN MH","HAVEMAR LN SHOP","HWY 389 OIL WELL","MARK COOLEY RD","MARK COOLEY RD BARN","MARK COOLEY RD DW MH","MARK COOLEY RD HSE","MARK COOLEY RD MH","MARK COOLEY RD SHED","MARK COOLEY RD SHOP","ROBERTS LN","ROBERTS LN BLDG","ROBERTS LN HSE","ROBERTS LN MH","ROBERTS LN SHED","SCOTTY LN HSE","SCOTTY LN RV"],"verified":false},"type":"Feature"}
+
 ]}
