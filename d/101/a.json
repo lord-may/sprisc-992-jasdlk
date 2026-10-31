@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.270202,34.793441],"type":"Point"},"properties":{"cause":"Material or equipment fault/failure","code":"300","crewAssigned":true,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-31T13:25:52-05:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-31T10:44:04.933-05:00","outageName":"","outagePoint":{"lat":34.793440569017775,"lng":-92.27020217607628},"outageRecID":"2026-10-31-0333","outageStartTime":"2026-10-31T09:21:53-05:00","outageWorkStatus":"Waiting on Equipment","statusMessage":null,"streetsAffected":["MELLENE DR","SYCAMORE ST","WILLOW ST"],"verified":true},"type":"Feature"}
+
 ]}
