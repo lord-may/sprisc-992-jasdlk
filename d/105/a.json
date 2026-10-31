@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.695632,32.335308],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":48,"customersOutNow":48,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-30T22:04:32.227-05:00","outageName":"F187450","outagePoint":{"lat":32.33530833330003,"lng":-99.69563161511105},"outageRecID":"2026-10-30-0213","outageStartTime":"2026-10-30T21:15:00-05:00","outageWorkStatus":"Crew in Route","statusMessage":null,"streetsAffected":["1030-A WOLFE RD","A WOLFE RD","B WOLFE RD","FM 1750 / POTOSI LIQUOR","MOTHER-IN-LAW'S HOUSE","TODD TR","TODD TR HOUSE","TODD TR N/RV METER","TODD TR S/RV METER","TODD TRAIL","TODD TRL","TODD TRL/SHOP","WOLFE","WOLFE RD","WOLFE RD SHOP","WOLFE RD/BARN","WOLFE RD/SHOP","WOLFE RD/SHOP & WP"],"verified":true},"type":"Feature"}
+
 ]}
