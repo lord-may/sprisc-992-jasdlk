@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.76758,30.84403],"type":"Point"},"properties":{"cause":{"EN-US":"Public caused damage","es-US":"Daño causado por el publico","orig":"VHCL- Veh Accident"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"On-site","es-US":"En sitio","orig":"On-Site"},"cust_a":{"val":1},"etr":"2026-10-31T07:30:00Z","etr_confidence":null,"inc_id":"J.26.10.3550","n_out":1,"start_time":"2026-10-30T23:12:55Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
