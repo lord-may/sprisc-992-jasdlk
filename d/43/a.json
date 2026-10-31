@@ -182,6 +182,5 @@
 {"geometry":{"coordinates":[-100.869389,29.401446],"type":"Point"},"properties":{"id":"701840","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-99.935626,28.388029],"type":"Point"},"properties":{"id":"701841","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-105.316975,30.824446],"type":"Point"},"properties":{"id":"701844","nbrOut":1},"type":"Feature"},
-{"geometry":{"coordinates":[-101.154703,29.592888],"type":"Point"},"properties":{"id":"701856","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-103.151262,30.702407],"type":"Point"},"properties":{"id":"701861","nbrOut":2},"type":"Feature"}
 ]}

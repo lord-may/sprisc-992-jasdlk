@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.826358,30.266304],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-31T15:13:52.9-05:00","outageName":"032422","outagePoint":{"lat":30.26630405104115,"lng":-95.82635759061402},"outageRecID":"2026-10-31-0532","outageStartTime":"2026-10-31T15:02:20-05:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
