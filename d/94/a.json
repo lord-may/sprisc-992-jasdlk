@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.067031,30.937138],"type":"Point"},"properties":{"crewAssigned":true,"id":"1342543","nbrOut":1,"planned":false,"timeOff":1793480176857},"type":"Feature"}
+{"geometry":{"coordinates":[-90.06889,30.94398],"type":"Point"},"properties":{"cause":"ANIMALS","crewAssigned":true,"id":"1342544","nbrOut":53,"planned":false,"timeOff":1793483398959},"type":"Feature"}
 ]}
