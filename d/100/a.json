@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.295654,30.908481],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":15,"customersOutNow":15,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-31T10:01:50.1-05:00","outageName":"D36538","outagePoint":{"lat":30.908480631376285,"lng":-93.2956543455081},"outageRecID":"2026-10-31-1058","outageStartTime":"2026-10-31T10:00:55-05:00","outageWorkStatus":"","streetsAffected":["ALAN GILL RD","ALAN GILL RD HSE","ALAN GILL RD SHOP","JODIE WILLIAMS RD MH","JODIE WILLIAMS RD SHOP","P O MIDKIFF RD","P O MIDKIFF RD BARN","P O MIDKIFF RD HSE","P O MIDKIFF RD MH","P O MIDKIFF RD SHOP","PO MIDKIFF RD","SHELL RD"],"verified":false},"type":"Feature"}
 ]}

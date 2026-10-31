@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.878831,35.00146],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-31T12:00:00-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-31T07:59:11.47-07:00","outageName":"2026-10-31-1231","outagePoint":{"lat":35.00145988022196,"lng":-91.87883086063519},"outageRecID":"2026-10-31-1231","outageStartTime":"2026-10-31T07:54:55-07:00","outageWorkStatus":"","streetsAffected":["BRIDGEWOOD DR"],"verified":true},"type":"Feature"}
 ]}
