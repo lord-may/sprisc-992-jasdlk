@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.478947,35.049216],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-31T08:38:14.657-05:00","outageName":"41788 - W101","outagePoint":{"lat":35.049215765600685,"lng":-92.47894723556377},"outageRecID":"2026-10-31-0154","outageStartTime":"2026-10-31T08:11:17-05:00","outageWorkStatus":"","streetsAffected":["PEBBLE BEACH DR APT 8"],"verified":true},"type":"Feature"}
+
 ]}
