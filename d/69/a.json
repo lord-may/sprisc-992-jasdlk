@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.564143,34.609075],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-10-31T10:00:00-07:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-31T07:03:47.767-07:00","outageName":"2026-10-31-1228","outagePoint":{"lat":34.60907542952015,"lng":-92.56414280464126},"outageRecID":"2026-10-31-1228","outageStartTime":"2026-10-31T06:00:14-07:00","outageWorkStatus":"","streetsAffected":["OAKHAVEN DR"],"verified":true},"type":"Feature"}
+
 ]}
