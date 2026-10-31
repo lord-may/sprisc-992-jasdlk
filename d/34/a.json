@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-105.545883,33.357854],"type":"Point"},"properties":{"cause":"Small Animals or Birds","id":"487842","nbrOut":1,"planned":false,"timeOff":1793393428204},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-105.642866,33.410488],[-105.643117,33.410766],[-105.643656,33.410601],[-105.642866,33.410488]]],"type":"Polygon"},{"coordinates":[-105.643216,33.410616],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause unknown              ","id":"487843","nbrOut":3,"planned":false,"timeOff":1793394556247},"type":"Feature"},
 {"geometry":{"coordinates":[-105.868397,33.631319],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487846","nbrOut":1,"planned":false,"timeOff":1793410560000},"type":"Feature"}
 ]}
