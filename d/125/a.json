@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.986712,31.924708],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":29,"customersOutNow":29,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-31T11:10:37.81-05:00","outageName":"REC_87","outagePoint":{"lat":31.92470800001467,"lng":-99.98671224718046},"outageRecID":"2026-10-31-0227","outageStartTime":"2026-10-31T11:09:20.89-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
