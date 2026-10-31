@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[[[-94.797935,36.171129],[-94.798477,35.906285],[-94.807671,35.904874],[-94.803685,35.647502],[-94.468485,35.641088],[-94.485935,35.76031],[-94.542417,36.106836],[-94.553114,36.164525],[-94.797935,36.171129]]],"type":"Polygon"},"properties":{"coops":{"Ozarks Electric Cooperative":1},"county":"Adair County (OK)","id":"40001","out":1},"type":"Feature"}
 ]}
