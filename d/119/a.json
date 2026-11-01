@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-90.509982,36.123371],"type":"Point"},"properties":{"cause":"300 Material or equipment fault/failure","code":"300","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-31T20:33:25.587-05:00","outageName":"44932","outagePoint":{"lat":36.12337136636727,"lng":-90.50998205024266},"outageRecID":"2026-10-31-0292","outageStartTime":"2026-10-31T20:20:09-05:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
