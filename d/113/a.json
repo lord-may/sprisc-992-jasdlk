@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.038265,34.306928],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"JACKSON, TY","CaseNumber":"261101-P0004","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T-256088360067","EndTime":"/Date(-62135575200000)/","OutageTime":"11/1/2026 2:25:00 PM","PoleNumber":"256088360067","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-96.0382651513557,"Y":34.30692795632427,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
