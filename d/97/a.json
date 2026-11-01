@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.979848,29.5457],"type":"Point"},"properties":{"cause":"Material or equipment fault/failure","code":"300","crewAssigned":false,"customersOutInitially":11,"customersOutNow":11,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-01T06:10:43-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-01T04:12:56.89-06:00","outageName":"T64566136001","outagePoint":{"lat":29.545700052141715,"lng":-97.979848218229},"outageRecID":"2026-11-01-0006","outageStartTime":"2026-11-01T02:02:26-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
