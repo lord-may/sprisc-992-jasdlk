@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.00465,29.86792],"type":"Point"},"properties":{"cause":{"EN-US":"Vegetation","es-US":"Vegetación","orig":"TREE- Tree /Limb Outside trim zone/Unknown"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"On-site","es-US":"En sitio","orig":"On-Site"},"cust_a":{"val":2},"etr":"2026-11-01T07:00:00Z","etr_confidence":null,"inc_id":"J.26.10.3594","n_out":1,"start_time":"2026-11-01T03:48:35Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
