@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.026601,33.89714],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":8,"customersOutNow":8,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-01T20:17:33.51-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-01T16:24:28.223-06:00","outageName":"","outagePoint":{"lat":33.897139589550335,"lng":-92.02660115777829},"outageRecID":"2026-11-01-0005","outageStartTime":"2026-11-01T16:17:32-06:00","outageWorkStatus":"Crew in Route","streetsAffected":["HIGHWAY 63","ROBERTS RD.","STINSON LN","STINSON LN.","STINSON RD"],"verified":false},"type":"Feature"}
 ]}
