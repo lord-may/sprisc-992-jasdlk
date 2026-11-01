@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.973362,34.978034],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-01T12:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-01T07:34:56.44-08:00","outageName":"2026-11-01-0009","outagePoint":{"lat":34.97803449309403,"lng":-91.97336165178871},"outageRecID":"2026-11-01-0009","outageStartTime":"2026-11-01T07:29:30-08:00","outageWorkStatus":"","streetsAffected":["LANA LN","LEANING PINES RD","N STAGECOACH RD"],"verified":true},"type":"Feature"}
 ]}

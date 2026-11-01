@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.445924,34.270625],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-01T13:39:01.333-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-01T09:40:43.6-06:00","outageName":"","outagePoint":{"lat":34.27062481318217,"lng":-92.44592442422028},"outageRecID":"2026-11-01-0003","outageStartTime":"2026-11-01T09:37:02-06:00","outageWorkStatus":"Crew in Route","streetsAffected":["GRANT 439 RD."],"verified":false},"type":"Feature"}
 ]}

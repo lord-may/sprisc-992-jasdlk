@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.908345,30.490452],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":9,"customersOutNow":9,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-01T09:31:33.567-06:00","outageName":"D62308","outagePoint":{"lat":30.490451931317143,"lng":-92.90834463431491},"outageRecID":"2026-11-01-0043","outageStartTime":"2026-11-01T09:30:31-06:00","outageWorkStatus":"","streetsAffected":["ALEX MARCANTEL RD","ALEX MARCANTEL RD HSE","ALEX MARCANTEL RD MH","LITTLE MILL RD","LITTLE MILL RD ANTONY","LITTLE MILL RD HSE"],"verified":false},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.457695,35.101367],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":37,"customersOutNow":37,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-01T10:15:00-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-01T09:10:18.27-06:00","outageName":"FUS151 - T104","outagePoint":{"lat":35.101366556081615,"lng":-92.45769544568151},"outageRecID":"2026-11-01-0001","outageStartTime":"2026-11-01T08:32:20-06:00","outageWorkStatus":"Repair in Progress","streetsAffected":["ARKANSAS AVE","BROADVIEW AVE","MANOR ST","SARAH CIR","SARAH CIR APT A","SARAH CIR APT B","WESTWOOD CIR"],"verified":true},"type":"Feature"}
+
 ]}
