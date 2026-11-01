@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.411194,34.296202],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":59,"customersOutNow":59,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-01T02:04:08.813-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-10-31T22:07:27.47-05:00","outageName":"","outagePoint":{"lat":34.29620192144563,"lng":-92.41119365834373},"outageRecID":"2026-10-31-0473","outageStartTime":"2026-10-31T22:04:06-05:00","outageWorkStatus":"Crew in Route","streetsAffected":["JONES DR","JONES DR.","PHILLIPS ST.","REYNOLDS DR","REYNOLDS DR.","REYNOLDS ST","S ROSE","S ROSE ST","SCOTT ST","SCOTT STREET","SPRAY DR"],"verified":false},"type":"Feature"}
 ]}
