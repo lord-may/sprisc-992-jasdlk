@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-90.137108,30.920902],"type":"Point"},"properties":{"cause":"PUBLIC ACCIDENTS, OTHER","crewAssigned":true,"id":"1342586","nbrOut":1,"planned":false,"timeOff":1793532724759},"type":"Feature"},
-{"geometry":{"coordinates":[-90.055523,30.609906],"type":"Point"},"properties":{"crewAssigned":true,"id":"1342588","nbrOut":4,"planned":false,"timeOff":1793535714651},"type":"Feature"}
+{"geometry":{"coordinates":[-90.055523,30.609906],"type":"Point"},"properties":{"crewAssigned":true,"id":"1342588","nbrOut":4,"planned":false,"timeOff":1793535714651},"type":"Feature"},
+{"geometry":{"coordinates":[-90.032473,30.703171],"type":"Point"},"properties":{"crewAssigned":true,"id":"1342589","nbrOut":1,"planned":false,"timeOff":1793536605433},"type":"Feature"}
 ]}
