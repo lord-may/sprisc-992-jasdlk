@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.446247,34.283247],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-01T15:28:54.18-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-01T11:31:03.663-06:00","outageName":"","outagePoint":{"lat":34.28324704609774,"lng":-92.44624690051427},"outageRecID":"2026-11-01-0004","outageStartTime":"2026-11-01T11:27:21-06:00","outageWorkStatus":"Crew in Route","streetsAffected":["GRANT 43 RD."],"verified":false},"type":"Feature"}
+
 ]}
