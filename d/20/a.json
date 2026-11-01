@@ -4,10 +4,10 @@
 {"geometry":{"coordinates":[-92.367562,36.371577],"type":"Point"},"properties":{"crewAssigned":false,"id":"331405","nbrOut":3,"planned":false,"timeOff":1793571865265},"type":"Feature"},
 {"geometry":{"coordinates":[-92.370536,36.373964],"type":"Point"},"properties":{"crewAssigned":false,"id":"331407","nbrOut":608,"planned":false,"timeOff":1793571657944},"type":"Feature"},
 {"geometry":{"coordinates":[-92.379303,36.367324],"type":"Point"},"properties":{"crewAssigned":false,"id":"331410","nbrOut":43,"planned":false,"timeOff":1793571744455},"type":"Feature"},
-{"geometry":{"coordinates":[-92.384693,36.362665],"type":"Point"},"properties":{"crewAssigned":false,"id":"331413","nbrOut":26,"planned":false,"timeOff":1793571808256},"type":"Feature"},
 {"geometry":{"coordinates":[-92.372458,36.370861],"type":"Point"},"properties":{"crewAssigned":false,"id":"331414","nbrOut":1,"planned":false,"timeOff":1793572197069},"type":"Feature"},
 {"geometry":{"coordinates":[-92.385915,36.361696],"type":"Point"},"properties":{"crewAssigned":false,"id":"331418","nbrOut":401,"planned":false,"timeOff":1793571584349},"type":"Feature"},
 {"geometry":{"coordinates":[-92.379905,36.365848],"type":"Point"},"properties":{"crewAssigned":false,"id":"331419","nbrOut":2,"planned":false,"timeOff":1793572738301},"type":"Feature"},
 {"geometry":{"coordinates":[-92.382537,36.362926],"type":"Point"},"properties":{"crewAssigned":false,"id":"331420","nbrOut":4,"planned":false,"timeOff":1793573191031},"type":"Feature"},
-{"geometry":{"coordinates":[-92.380273,36.363432],"type":"Point"},"properties":{"crewAssigned":false,"id":"331421","nbrOut":4,"planned":false,"timeOff":1793574416397},"type":"Feature"}
+{"geometry":{"coordinates":[-92.384693,36.362665],"type":"Point"},"properties":{"crewAssigned":false,"id":"331427","nbrOut":41,"planned":false,"timeOff":1793571808256},"type":"Feature"},
+{"geometry":{"coordinates":[-92.384073,36.364119],"type":"Point"},"properties":{"crewAssigned":false,"id":"331428","nbrOut":1,"planned":false,"timeOff":1793576361000},"type":"Feature"}
 ]}
