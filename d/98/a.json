@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.3047,33.048289],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":8,"customersOutNow":8,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-02T08:24:02.467-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-02T05:24:02.573-06:00","outageName":"FDR6403","outagePoint":{"lat":33.04828908584288,"lng":-96.30470030424712},"outageRecID":"2026-11-02-0006","outageStartTime":"2026-11-02T05:23:35-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
