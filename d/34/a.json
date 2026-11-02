@@ -23,5 +23,11 @@
 {"geometry":{"coordinates":[-105.549288,32.983688],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487899","nbrOut":1,"planned":false,"timeOff":1793600491000},"type":"Feature"},
 {"geometry":{"coordinates":[-105.545542,32.982331],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487900","nbrOut":1,"planned":false,"timeOff":1793600497000},"type":"Feature"},
 {"geometry":{"coordinates":[-105.501731,32.983741],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487901","nbrOut":1,"planned":false,"timeOff":1793600580000},"type":"Feature"},
-{"geometry":{"coordinates":[-105.570012,32.99282],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487902","nbrOut":1,"planned":false,"timeOff":1793600580000},"type":"Feature"}
+{"geometry":{"coordinates":[-105.570012,32.99282],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487902","nbrOut":1,"planned":false,"timeOff":1793600580000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.519257,32.984713],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487903","nbrOut":1,"planned":false,"timeOff":1793600940000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.521719,32.987599],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487904","nbrOut":1,"planned":false,"timeOff":1793600947000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.520362,32.985753],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487905","nbrOut":1,"planned":false,"timeOff":1793600959000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.53319,32.995088],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487906","nbrOut":1,"planned":false,"timeOff":1793600969000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.575672,32.991592],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487907","nbrOut":1,"planned":false,"timeOff":1793600969000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.583568,32.99163],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487908","nbrOut":1,"planned":false,"timeOff":1793600972000},"type":"Feature"}
 ]}
