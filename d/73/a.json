@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.474934,35.007499],"type":"Point"},"properties":{"cause":"Scheduled","code":"135","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-02T12:00:00-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-02T10:08:24.617-06:00","outageName":"23599 - D101","outagePoint":{"lat":35.00749933047667,"lng":-92.47493436313988},"outageRecID":"2026-11-02-0008","outageStartTime":"2026-11-02T10:05:34-06:00","outageWorkStatus":"","streetsAffected":["MILL POND RD"],"verified":true},"type":"Feature"}
 ]}
