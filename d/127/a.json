@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.386508,34.486063],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-02T09:15:55-06:00","outageName":"1134","outagePoint":{"lat":34.48606290778342,"lng":-98.38650845709255},"outageRecID":"2026-11-02-0003","outageStartTime":"2026-11-02T09:15:40-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
