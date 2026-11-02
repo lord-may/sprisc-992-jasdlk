@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-96.932792,29.857251],[-96.93016,29.857298],[-96.929378,29.857462],[-96.927438,29.858295],[-96.928327,29.859176],[-96.932792,29.857251]]],"type":"Polygon"},{"coordinates":[-96.929683,29.858038],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Pike, a Fayette Electric contractor, is taking a clearance on a section of Creamer Creek Rd to work on the main 3 phase line. Power will be out from 10:00am to 12:00pm. We apologize for the inconvenience and appreciate your cooperation in this matter. For questions please call our office at 979-968-3181.","crewAssigned":true,"id":"228399","nbrOut":5,"planned":false,"timeOff":1793636100000},"type":"Feature"}
+
 ]}
