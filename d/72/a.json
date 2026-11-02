@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.850326,33.927657],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-02T12:39:04.663-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-02T08:40:53.867-06:00","outageName":"","outagePoint":{"lat":33.92765709128834,"lng":-91.85032587994687},"outageRecID":"2026-11-02-0007","outageStartTime":"2026-11-02T08:38:14-06:00","outageWorkStatus":"Crew in Route","streetsAffected":["SOUTHWEST DR"],"verified":false},"type":"Feature"}
 ]}
