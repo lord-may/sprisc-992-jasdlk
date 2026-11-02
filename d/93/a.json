@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.86263,30.01104],"type":"Point"},"properties":{"cause":{"EN-US":"Assessing","es-US":"Evaluando","orig":"_default"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"On-site","es-US":"En sitio","orig":"On-Site"},"cust_a":{"val":1},"etr":"2026-11-02T15:00:00Z","etr_confidence":null,"inc_id":"J.26.11.0055","n_out":1,"start_time":"2026-11-02T12:53:19.083Z","title":"Area Outage"},"type":"Feature"}
+{"geometry":{"coordinates":[-98.0543,30.28354],"type":"Point"},"properties":{"cause":{"EN-US":"Scheduled outage","es-US":"Apagón programado","orig":"PLAN- Planned Interruptions"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"On-site","es-US":"En sitio","orig":"On-Site"},"cust_a":{"val":2},"etr":"2026-11-02T20:15:00Z","etr_confidence":null,"inc_id":"J.26.11.0060","n_out":1,"start_time":"2026-11-02T14:03:56.790Z","title":"Area Outage"},"type":"Feature"}
 ]}
