@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.772399,36.064895],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-02T17:00:13.113-06:00","outageName":"27 04 04 fuse","outagePoint":{"lat":36.064895232354814,"lng":-96.77239914331993},"outageRecID":"2026-11-02-0020","outageStartTime":"2026-11-02T16:21:51-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
