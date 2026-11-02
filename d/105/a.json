@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-99.56381,32.369255],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-02T10:53:28.023-06:00","outageName":"XFMR6841090072","outagePoint":{"lat":32.36925531415597,"lng":-99.56381009608559},"outageRecID":"2026-11-02-0004","outageStartTime":"2026-11-02T10:51:00-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["FM 603 LOT 81A/MH      "],"verified":false},"type":"Feature"}
 ]}
