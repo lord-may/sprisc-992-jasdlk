@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.902883,30.413256],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-01T22:03:12.06-06:00","outageName":"D62334","outagePoint":{"lat":30.413255988955253,"lng":-92.90288280944131},"outageRecID":"2026-11-01-0077","outageStartTime":"2026-11-01T21:58:07-06:00","outageWorkStatus":"","streetsAffected":["KINGS FARM RD","KINGS FARM RD HWY 383","SCONCE RD MH","SCONCE RD SHOP"],"verified":true},"type":"Feature"}
+
 ]}
