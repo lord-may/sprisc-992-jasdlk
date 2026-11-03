@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.659824,35.509124],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":64,"customersOutNow":64,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-03T06:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T02:22:22.887-08:00","outageName":"2026-11-03-0054","outagePoint":{"lat":35.509123841901804,"lng":-91.65982432160891},"outageRecID":"2026-11-03-0054","outageStartTime":"2026-11-03T02:13:29-08:00","outageWorkStatus":"","streetsAffected":["BABB RD","BARNHOUSE LANE","BARNHOUSE LN","CATTLE DR","FISHER HILL RD","HIGHWAY 157","HIGHWAY 157 N","PATE LANE","PATE LN","RUBY LANE","SKINNER RD","SKINNER ROAD","STEPHENS RD","WARDEN LN"],"verified":true},"type":"Feature"}
 ]}
