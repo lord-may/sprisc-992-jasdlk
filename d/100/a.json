@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.344615,30.291449],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T08:21:45.737-06:00","outageName":"T35747","outagePoint":{"lat":30.29144896639351,"lng":-93.34461476960864},"outageRecID":"2026-11-03-0110","outageStartTime":"2026-11-03T07:56:05-06:00","outageWorkStatus":"","streetsAffected":["SUMMER PLACE DR"],"verified":false},"type":"Feature"}
+
 ]}
