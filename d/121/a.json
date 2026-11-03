@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.5027,31.67325],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-03T11:12:00.713-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T07:18:27.09-06:00","outageName":"OCD507947","outagePoint":{"lat":31.673250186064095,"lng":-95.50270003969172},"outageRecID":"2026-11-03-0008","outageStartTime":"2026-11-03T07:11:49-06:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
