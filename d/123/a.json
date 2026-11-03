@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.800664,32.771282],"type":"Point"},"properties":{"cause":"Maintenance","code":"110","crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-03T14:24:41.97-06:00","outageName":"03220","outagePoint":{"lat":32.77128161464522,"lng":-97.80066354229609},"outageRecID":"2026-11-03-0008","outageStartTime":"2026-11-03T14:23:50-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
