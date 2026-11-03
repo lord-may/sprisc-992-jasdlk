@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"geometries":[{"coordinates":[[[-97.545838,34.838717],[-97.545011,34.842647],[-97.545784,34.846105],[-97.545838,34.838717]]],"type":"Polygon"},{"coordinates":[-97.545541,34.842492],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"SEVERE THUNDERSTORMS/SQUALL LINE","crewAssigned":false,"id":"569417","nbrOut":3,"planned":true,"timeOff":1793671624000},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-97.579579,34.971914],[-97.578042,34.977103],[-97.578051,34.978148],[-97.580881,34.974233],[-97.579579,34.971914]]],"type":"Polygon"},{"coordinates":[-97.579381,34.97488],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":false,"id":"569496","nbrOut":4,"planned":false,"timeOff":1793687173000},"type":"Feature"},
-{"geometry":{"coordinates":[-97.72781,34.668357],"type":"Point"},"properties":{"crewAssigned":false,"id":"569497","nbrOut":1,"planned":false,"timeOff":1793692348000},"type":"Feature"}
+{"geometry":{"coordinates":[-97.72781,34.668357],"type":"Point"},"properties":{"crewAssigned":true,"id":"569497","nbrOut":1,"planned":false,"timeOff":1793692348000},"type":"Feature"}
 ]}
