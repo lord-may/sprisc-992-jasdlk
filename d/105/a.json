@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.988199,32.138116],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T09:26:42.237-06:00","outageName":"XFMR5703768465","outagePoint":{"lat":32.13811646111246,"lng":-99.98819903412911},"outageRecID":"2026-11-03-0010","outageStartTime":"2026-11-03T09:15:01.95-06:00","outageWorkStatus":"Crew in Route","statusMessage":null,"streetsAffected":["PER","SAM NIX REPEATER"],"verified":false},"type":"Feature"}
+
 ]}

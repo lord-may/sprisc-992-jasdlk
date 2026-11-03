@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.339243,30.588244],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":0,"customersRestored":2,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":"2026-11-03T10:27:50-06:00","outageModifiedTime":"2026-11-03T10:27:53.853-06:00","outageName":"6206","outagePoint":{"lat":30.588243743839747,"lng":-96.33924304727452},"outageRecID":"2026-11-03-0013","outageStartTime":"2026-11-03T10:01:36-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
