@@ -2,8 +2,6 @@
 {"geometry":{"coordinates":[-99.483396,30.673661],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"417705","nbrOut":1,"planned":true,"timeOff":1793714334254},"type":"Feature"},
 {"geometry":{"coordinates":[-99.179209,30.189767],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417713","nbrOut":1,"planned":true,"timeOff":1793717331633},"type":"Feature"},
 {"geometry":{"coordinates":[-98.701413,30.399354],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417716","nbrOut":2,"planned":true,"timeOff":1793720915019},"type":"Feature"},
-{"geometry":{"coordinates":[-98.905438,30.908794],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417723","nbrOut":2,"planned":true,"timeOff":1793725256283},"type":"Feature"},
 {"geometry":{"coordinates":[-98.701395,30.401159],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417724","nbrOut":2,"planned":true,"timeOff":1793726211754},"type":"Feature"},
-{"geometry":{"coordinates":[-98.72255,30.716873],"type":"Point"},"properties":{"cause":"No known cause","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"417725","lifeCycleStatus":"Issue Identified","nbrOut":1,"planned":false,"timeOff":1793727559000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.246483,30.087484],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417726","nbrOut":1,"planned":true,"timeOff":1793728177375},"type":"Feature"}
+{"geometry":{"coordinates":[-98.701404,30.399493],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417728","nbrOut":1,"planned":true,"timeOff":1793729960000},"type":"Feature"}
 ]}
