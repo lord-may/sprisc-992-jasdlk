@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.981335,34.089216],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-03T12:54:03.827-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T08:54:03.85-06:00","outageName":"","outagePoint":{"lat":34.08921609754616,"lng":-91.98133471419291},"outageRecID":"2026-11-03-0014","outageStartTime":"2026-11-03T08:54:01-06:00","outageWorkStatus":"","streetsAffected":["OLD STAR CTY"],"verified":false},"type":"Feature"}
 ]}
