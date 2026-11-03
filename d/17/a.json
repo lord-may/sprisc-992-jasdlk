@@ -1,13 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.272831,30.12505],"type":"Point"},"properties":{"cause":"Lightning","id":"417702","nbrOut":1,"planned":true,"timeOff":1793711340075},"type":"Feature"},
 {"geometry":{"coordinates":[-99.723534,30.120225],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"417703","nbrOut":1,"planned":true,"timeOff":1793711490411},"type":"Feature"},
 {"geometry":{"coordinates":[-99.483396,30.673661],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"417705","nbrOut":1,"planned":true,"timeOff":1793714334254},"type":"Feature"},
 {"geometry":{"coordinates":[-98.947991,30.780442],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"417706","nbrOut":1,"planned":true,"timeOff":1793714429480},"type":"Feature"},
 {"geometry":{"coordinates":[-98.91364,30.903707],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"417707","nbrOut":1,"planned":true,"timeOff":1793714538776},"type":"Feature"},
-{"geometry":{"coordinates":[-98.95251,30.723236],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"417708","nbrOut":1,"planned":true,"timeOff":1793714673798},"type":"Feature"},
-{"geometry":{"coordinates":[-98.50381,30.77135],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"417709","nbrOut":1,"planned":true,"timeOff":1793714754772},"type":"Feature"},
-{"geometry":{"coordinates":[-98.505248,30.770856],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"417710","nbrOut":1,"planned":true,"timeOff":1793714829439},"type":"Feature"},
 {"geometry":{"coordinates":[-98.446731,30.653208],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"417712","nbrOut":1,"planned":true,"timeOff":1793715014095},"type":"Feature"},
 {"geometry":{"coordinates":[-99.179209,30.189767],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417713","nbrOut":1,"planned":true,"timeOff":1793717331633},"type":"Feature"},
-{"geometry":{"coordinates":[-98.881974,30.239045],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417714","nbrOut":1,"planned":false,"timeOff":1793718747409},"type":"Feature"}
+{"geometry":{"coordinates":[-98.881974,30.239045],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"417714","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1793718747409},"type":"Feature"}
 ]}
