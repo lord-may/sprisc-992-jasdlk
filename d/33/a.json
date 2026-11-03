@@ -1,12 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.562721,35.605473],"type":"Point"},"properties":{"comment":"Crew on site at 5:35 am.","crewAssigned":true,"id":"379912","nbrOut":18,"planned":false,"timeOff":1793698834517},"type":"Feature"},
-{"geometry":{"coordinates":[-92.269116,35.605466],"type":"Point"},"properties":{"crewAssigned":false,"id":"379921","nbrOut":1,"planned":false,"timeOff":1793705831157},"type":"Feature"},
-{"geometry":{"coordinates":[-92.262944,35.608657],"type":"Point"},"properties":{"crewAssigned":false,"id":"379922","nbrOut":1,"planned":false,"timeOff":1793705842030},"type":"Feature"},
-{"geometry":{"coordinates":[-92.264373,35.603202],"type":"Point"},"properties":{"crewAssigned":false,"id":"379926","nbrOut":1,"planned":false,"timeOff":1793705961069},"type":"Feature"},
-{"geometry":{"coordinates":[-92.270005,35.601755],"type":"Point"},"properties":{"crewAssigned":false,"id":"379929","nbrOut":1,"planned":false,"timeOff":1793706044322},"type":"Feature"},
-{"geometry":{"coordinates":[-92.268784,35.610549],"type":"Point"},"properties":{"crewAssigned":false,"id":"379931","nbrOut":200,"planned":false,"timeOff":1793705871370},"type":"Feature"},
-{"geometry":{"coordinates":[-92.268397,35.598878],"type":"Point"},"properties":{"crewAssigned":false,"id":"379932","nbrOut":6,"planned":false,"timeOff":1793705699463},"type":"Feature"},
-{"geometry":{"coordinates":[-92.263672,35.606715],"type":"Point"},"properties":{"crewAssigned":false,"id":"379933","nbrOut":3,"planned":false,"timeOff":1793705744849},"type":"Feature"},
-{"geometry":{"coordinates":[-92.264597,35.605079],"type":"Point"},"properties":{"crewAssigned":false,"id":"379934","nbrOut":3,"planned":false,"timeOff":1793705724337},"type":"Feature"},
-{"geometry":{"coordinates":[-92.263124,35.602194],"type":"Point"},"properties":{"crewAssigned":false,"id":"379935","nbrOut":1,"planned":false,"timeOff":1793706162769},"type":"Feature"}
+{"geometry":{"coordinates":[-92.268784,35.610549],"type":"Point"},"properties":{"comment":"Crew dispatched at 5:40 am.","crewAssigned":false,"id":"379940","nbrOut":552,"planned":false,"timeOff":1793705699463},"type":"Feature"}
 ]}
