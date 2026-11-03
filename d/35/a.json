@@ -1,7 +1,9 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-96.959507,36.607164],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":false,"id":"470558","nbrOut":1,"planned":false,"timeOff":1793672513302},"type":"Feature"},
 {"geometry":{"coordinates":[-96.808231,36.554887],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":false,"id":"470559","nbrOut":1,"planned":false,"timeOff":1793672519858},"type":"Feature"},
-{"geometry":{"coordinates":[-96.996545,36.613884],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":false,"id":"470560","nbrOut":1,"planned":false,"timeOff":1793672619438},"type":"Feature"},
-{"geometry":{"coordinates":[-97.002052,36.609587],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":false,"id":"470561","nbrOut":1,"planned":false,"timeOff":1793672678584},"type":"Feature"},
-{"geometry":{"coordinates":[-96.99783,36.607474],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":false,"id":"470562","nbrOut":1,"planned":false,"timeOff":1793672689545},"type":"Feature"}
+{"geometry":{"coordinates":[-96.812399,36.640573],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":false,"id":"470563","nbrOut":1,"planned":false,"timeOff":1793672859000},"type":"Feature"},
+{"geometry":{"coordinates":[-96.877976,36.556359],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":false,"id":"470564","nbrOut":1,"planned":false,"timeOff":1793673035000},"type":"Feature"},
+{"geometry":{"coordinates":[-96.804108,36.631281],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":false,"id":"470565","nbrOut":1,"planned":false,"timeOff":1793673088603},"type":"Feature"},
+{"geometry":{"coordinates":[-96.94067,36.605512],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":false,"id":"470566","nbrOut":1,"planned":false,"timeOff":1793673200340},"type":"Feature"},
+{"geometry":{"coordinates":[-96.99526,36.608325],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":false,"id":"470567","nbrOut":14,"planned":false,"timeOff":1793672619438},"type":"Feature"}
 ]}
