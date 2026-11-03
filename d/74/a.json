@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.974415,31.548152],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T13:06:54.3-06:00","outageName":"T9249","outagePoint":{"lat":31.548152079450325,"lng":-96.97441549217032},"outageRecID":"2026-11-03-0038","outageStartTime":"2026-11-03T12:26:35-06:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
