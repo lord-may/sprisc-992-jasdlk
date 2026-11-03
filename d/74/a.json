@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.256868,31.600939],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T11:57:27.863-06:00","outageName":"T41650","outagePoint":{"lat":31.600938623298052,"lng":-96.25686843648336},"outageRecID":"2026-11-03-0037","outageStartTime":"2026-11-03T11:56:06-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
