@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.871329,36.477644],"type":"Point"},"properties":{"id":"468763","nbrOut":1},"type":"Feature"}
+{"geometry":{"coordinates":[-94.871329,36.477644],"type":"Point"},"properties":{"id":"468763","nbrOut":1},"type":"Feature"},
+{"geometry":{"coordinates":[-95.38168,36.512084],"type":"Point"},"properties":{"comment":"We are currently experiencing a large outage around the Adair, Chelsea, Big Cabin and Whiteoak areas.","id":"468888","nbrOut":1768},"type":"Feature"},
+{"geometry":{"coordinates":[-95.274573,36.488268],"type":"Point"},"properties":{"comment":"We are currently experiencing a large outage around the Adair, Chelsea, and Big cabin areas.","id":"468891","nbrOut":1009},"type":"Feature"}
 ]}

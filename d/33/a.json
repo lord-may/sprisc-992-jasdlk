@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.778802,35.65494],"type":"Point"},"properties":{"comment":"Crew dispatched at 1:25 am.","crewAssigned":false,"id":"379909","nbrOut":117,"planned":false,"timeOff":1793690344611},"type":"Feature"}
 ]}

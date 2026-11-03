@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-100.24272,35.20849],"type":"Point"},"properties":{"cause":null,"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Our team is gathering information and identifying the resources needed to move restoration efforts forward as quickly as possible. Thank you for your patience while we work to get the lights back on.","es-US":"Nuestro equipo está recopilando información e identificando los recursos necesarios para avanzar con las labores de restauración lo más rápido posible. Agradecemos su paciencia mientras trabajamos para restablecer el servicio eléctrico.","orig":"Assigned"},"cust_a":{"val":1},"etr":"2026-11-03T09:30:00Z","etr_confidence":null,"inc_id":"1897431","n_out":1,"start_time":"2026-11-03T07:07Z","title":"Area Outage"},"type":"Feature"}
 ]}
