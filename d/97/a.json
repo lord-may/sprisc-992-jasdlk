@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.247827,29.576898],"type":"Point"},"properties":{"cause":"Material or equipment fault/failure","code":"300","crewAssigned":false,"customersOutInitially":28,"customersOutNow":28,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-03T13:44:02.483-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T11:52:42.62-06:00","outageName":"RCL69565958001","outagePoint":{"lat":29.576898478757755,"lng":-97.24782684461232},"outageRecID":"2026-11-03-0094","outageStartTime":"2026-11-03T11:39:19-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
