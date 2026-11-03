@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.083432,36.207853],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T14:56:35.96-06:00","outageName":"13 15 57-08 transformer","outagePoint":{"lat":36.207853133513204,"lng":-97.0834320555926},"outageRecID":"2026-11-03-0034","outageStartTime":"2026-11-03T14:52:00-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.307446,34.819644],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":61,"customersOutNow":61,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T13:53:19.78-06:00","outageName":"RC03427","outagePoint":{"lat":34.81964413005217,"lng":-98.30744606816786},"outageRecID":"2026-11-03-0015","outageStartTime":"2026-11-03T13:49:20-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
