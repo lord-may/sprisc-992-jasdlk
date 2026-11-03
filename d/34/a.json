@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-105.523012,32.744783],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"488279","nbrOut":1,"planned":false,"timeOff":1793720377330},"type":"Feature"},
-{"geometry":{"coordinates":[-104.973046,33.253024],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"488286","nbrOut":2,"planned":false,"timeOff":1793737547054},"type":"Feature"},
-{"geometry":{"coordinates":[-105.103337,33.684393],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"488287","nbrOut":1,"planned":false,"timeOff":1793737669082},"type":"Feature"}
+{"geometry":{"coordinates":[-104.973046,33.253024],"type":"Point"},"properties":{"cause":"Cause unknown              ","comment":"Crew is enroute.","id":"488286","nbrOut":2,"planned":false,"timeOff":1793737547054},"type":"Feature"},
+{"geometry":{"coordinates":[-105.103337,33.684393],"type":"Point"},"properties":{"cause":"Cause unknown              ","comment":"Crew is enroute.","id":"488287","nbrOut":1,"planned":false,"timeOff":1793737669082},"type":"Feature"}
 ]}
