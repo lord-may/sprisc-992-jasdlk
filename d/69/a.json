@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.379697,34.622097],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-03T17:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T13:50:09.413-08:00","outageName":"2026-11-03-0094","outagePoint":{"lat":34.62209657312197,"lng":-91.37969746300536},"outageRecID":"2026-11-03-0094","outageStartTime":"2026-11-03T13:47:02-08:00","outageWorkStatus":"","streetsAffected":["ELM RD"],"verified":false},"type":"Feature"}
 ]}
