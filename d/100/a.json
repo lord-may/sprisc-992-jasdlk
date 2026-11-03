@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.247926,30.882629],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T13:29:53.053-06:00","outageName":"T25437","outagePoint":{"lat":30.882628641530353,"lng":-93.24792569659387},"outageRecID":"2026-11-03-0128","outageStartTime":"2026-11-03T13:29:11-06:00","outageWorkStatus":"","streetsAffected":["HERMAN SMITH RD","PARISH LINE RD"],"verified":false},"type":"Feature"}
 ]}
