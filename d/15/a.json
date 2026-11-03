@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-94.094016,36.152533],"type":"Point"},"properties":{"id":"851465","nbrOut":1,"planned":false,"timeOff":1793707108917},"type":"Feature"},
 {"geometry":{"coordinates":[-94.216933,35.856086],"type":"Point"},"properties":{"id":"851467","nbrOut":496,"planned":false,"timeOff":1793708555200},"type":"Feature"},
-{"geometry":{"coordinates":[-94.161498,35.892175],"type":"Point"},"properties":{"id":"851469","nbrOut":1,"planned":false,"timeOff":1793710349026},"type":"Feature"},
 {"geometry":{"coordinates":[-94.324614,35.839746],"type":"Point"},"properties":{"id":"851470","nbrOut":1,"planned":false,"timeOff":1793710904179},"type":"Feature"},
-{"geometry":{"coordinates":[-94.493461,35.814691],"type":"Point"},"properties":{"id":"851471","nbrOut":1,"planned":false,"timeOff":1793711351142},"type":"Feature"},
 {"geometry":{"coordinates":[-94.142085,36.124435],"type":"Point"},"properties":{"id":"851472","nbrOut":1,"planned":false,"timeOff":1793711998120},"type":"Feature"}
 ]}
