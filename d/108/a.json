@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.04717,30.20018],"type":"Point"},"properties":{"additionalProperties":[{"property":"polygon","value":true}],"cause":"N/A","description":"An outage has been reported in the indicated area. Please keep a safe distance from the crews while they are working to restore power. If there are any questions or issues, please call 337-291-5700. Thank you.","id":2244326,"identifier":"J.E.26.11.00127","lastUpdatedTime":1793775260000,"latitude":30.20018,"longitude":-92.04717,"numPeople":24,"startTime":1793771977000,"status":"VERIFIED","title":"Outage"},"type":"Feature"}
+
 ]}
