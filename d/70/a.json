@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.474603,32.825359],"type":"Point"},"properties":{"cause":"Woodcutter","code":"55","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-04T14:28:26.427-06:00","outageName":"2026-11-04-0099","outagePoint":{"lat":32.82535919730729,"lng":-95.47460257041203},"outageRecID":"2026-11-04-0099","outageStartTime":"2026-11-04T13:50:32-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
