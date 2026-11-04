@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.074684,34.567257],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":false,"customersOutInitially":41,"customersOutNow":41,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-04T08:35:20-06:00","outageName":"PL17568","outagePoint":{"lat":34.56725710093234,"lng":-98.07468358627202},"outageRecID":"2026-11-04-0019","outageStartTime":"2026-11-04T08:30:00-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
