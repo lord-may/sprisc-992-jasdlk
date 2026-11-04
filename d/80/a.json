@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[[[-98.141005,34.508971],[-98.138373,34.293992],[-97.557647,34.2937],[-97.556808,34.514556],[-97.558717,34.68408],[-97.671651,34.684113],[-98.086975,34.686643],[-98.145754,34.683503],[-98.141005,34.508971]]],"type":"Polygon"},"properties":{"coops":{"Cotton Electric Cooperative, Inc.":1},"county":"Stephens County (OK)","id":"40137","out":1},"type":"Feature"}
 ]}
