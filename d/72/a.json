@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.907498,33.566074],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-04T00:30:08.177-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T22:39:00.29-06:00","outageName":"","outagePoint":{"lat":33.56607364080226,"lng":-91.90749766314295},"outageRecID":"2026-11-03-0065","outageStartTime":"2026-11-03T20:29:46-06:00","outageWorkStatus":"Crew in Route","streetsAffected":["GREEN HILL RD"],"verified":false},"type":"Feature"}
+
 ]}
