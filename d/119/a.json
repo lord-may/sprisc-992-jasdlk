@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.190223,36.208442],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-04T12:30:55.193-06:00","outageName":"B0316038FU01","outagePoint":{"lat":36.20844235794789,"lng":-91.19022349875377},"outageRecID":"2026-11-04-0061","outageStartTime":"2026-11-04T12:16:19-06:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
