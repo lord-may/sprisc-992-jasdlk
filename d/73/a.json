@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.45206,35.082735],"type":"Point"},"properties":{"cause":"Scheduled","code":"135","crewAssigned":true,"customersOutInitially":13,"customersOutNow":13,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-04T08:05:16.017-06:00","outageName":"XFMR4103 - S204","outagePoint":{"lat":35.08273459253142,"lng":-92.45205992828741},"outageRecID":"2026-11-04-0029","outageStartTime":"2026-11-04T08:00:13-06:00","outageWorkStatus":"","streetsAffected":["MARTIN ST APT 1","MARTIN ST APT 2","MARTIN ST APT 3","MARTIN ST APT 4","MARTIN ST APT 5","MARTIN ST APT 6","MARTIN ST APT 7","MARTIN ST APT 8","WATKINS ST"],"verified":true},"type":"Feature"}
 ]}
