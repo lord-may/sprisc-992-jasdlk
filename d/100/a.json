@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.424857,30.579622],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-04T09:23:02.557-06:00","outageName":"T13223","outagePoint":{"lat":30.57962162640286,"lng":-93.42485700651821},"outageRecID":"2026-11-04-0185","outageStartTime":"2026-11-04T08:55:39-06:00","outageWorkStatus":"","streetsAffected":["GEORGE KENDALL RD"],"verified":false},"type":"Feature"}
+
 ]}
