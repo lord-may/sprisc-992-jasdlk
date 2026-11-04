@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.093536,34.09438],"type":"Point"},"properties":{"cause":"No Cause Code","crewAssigned":true,"id":"780809","nbrOut":2,"planned":false,"timeOff":1793799700262},"type":"Feature"}
+{"geometry":{"coordinates":[-93.32125,33.614302],"type":"Point"},"properties":{"cause":"SCAEC - EMERGENCY/UNPLANNED Const/Maint","crewAssigned":false,"id":"780812","nbrOut":12,"planned":false,"timeOff":1793805375974},"type":"Feature"}
 ]}
