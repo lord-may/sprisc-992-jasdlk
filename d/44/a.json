@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.88121,30.000429],"type":"Point"},"properties":{"crewAssigned":false,"id":"228403","nbrOut":1,"planned":false,"timeOff":1793810097125},"type":"Feature"}
+{"geometry":{"coordinates":[-96.88121,30.000429],"type":"Point"},"properties":{"comment":"Fayette Electric is aware of a power outage north of La Grange on Race Track Rd.","crewAssigned":true,"id":"228403","nbrOut":1,"planned":false,"timeOff":1793810097125},"type":"Feature"}
 ]}
