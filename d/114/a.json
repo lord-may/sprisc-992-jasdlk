@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.706172,35.886198],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-03T22:41:49.107-06:00","outageName":"TR6130","outagePoint":{"lat":35.88619763995068,"lng":-90.70617193078866},"outageRecID":"2026-11-03-0041","outageStartTime":"2026-11-03T21:48:51-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
