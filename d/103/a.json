@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.940295,29.893275],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-04T09:28:00.937-06:00","outageName":"","outagePoint":{"lat":29.893275131790517,"lng":-97.94029543487694},"outageRecID":"2026-11-04-0009","outageStartTime":"2026-11-04T09:20:59-06:00","outageWorkStatus":"","streetsAffected":["N LBJ DR 100"],"verified":true},"type":"Feature"}
+
 ]}
