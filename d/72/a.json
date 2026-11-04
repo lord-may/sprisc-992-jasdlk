@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.983875,34.131928],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-04T20:27:38.697-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-04T16:27:38.723-06:00","outageName":"","outagePoint":{"lat":34.13192826128934,"lng":-91.9838752057978},"outageRecID":"2026-11-04-0084","outageStartTime":"2026-11-04T16:27:29-06:00","outageWorkStatus":"","streetsAffected":["JETTA ROAD"],"verified":false},"type":"Feature"}
 ]}
