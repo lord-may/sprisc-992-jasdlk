@@ -2,5 +2,5 @@
 {"geometry":{"coordinates":[-98.423456,30.678653],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"417754","nbrOut":1,"planned":true,"timeOff":1793820145000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.447827,30.848287],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"417756","nbrOut":1,"planned":true,"timeOff":1793821043000},"type":"Feature"},
 {"geometry":{"coordinates":[-99.241471,30.871907],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"Crew has arrived on-site.","id":"417758","lifeCycleStatus":"Crew On-Site","nbrOut":1,"planned":false,"timeOff":1793826193630},"type":"Feature"},
-{"geometry":{"coordinates":[-98.37545,30.740386],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"The crew is enroute to the location.","id":"417759","lifeCycleStatus":"Crew Enroute","nbrOut":1,"planned":false,"timeOff":1793827384282},"type":"Feature"}
+{"geometry":{"coordinates":[-98.37545,30.740386],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"Crew has arrived on-site.","id":"417759","lifeCycleStatus":"Crew On-Site","nbrOut":1,"planned":false,"timeOff":1793827384282},"type":"Feature"}
 ]}

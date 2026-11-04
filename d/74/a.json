@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.309977,31.384767],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-04T12:56:03.143-06:00","outageName":"T44458","outagePoint":{"lat":31.38476714604453,"lng":-96.30997689693244},"outageRecID":"2026-11-04-0050","outageStartTime":"2026-11-04T11:59:38-06:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
