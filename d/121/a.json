@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.32136,31.217039],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-04T10:40:03.977-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-04T06:43:56.707-06:00","outageName":"2-92P11R","outagePoint":{"lat":31.217038584874388,"lng":-95.32135961056645},"outageRecID":"2026-11-04-0028","outageStartTime":"2026-11-04T06:39:44-06:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
