@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.802485,32.754488],"type":"Point"},"properties":{"cause":"Maintenance","code":"110","crewAssigned":true,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-04T15:09:18.013-06:00","outageName":"02639","outagePoint":{"lat":32.75448826321699,"lng":-97.80248516328254},"outageRecID":"2026-11-04-0013","outageStartTime":"2026-11-04T15:08:27-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
