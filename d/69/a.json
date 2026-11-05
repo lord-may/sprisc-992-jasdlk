@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.998096,34.837944],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-05T17:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-05T13:55:16.013-08:00","outageName":"2026-11-05-0168","outagePoint":{"lat":34.837943554405285,"lng":-91.99809640167985},"outageRecID":"2026-11-05-0168","outageStartTime":"2026-11-05T13:52:23-08:00","outageWorkStatus":"","streetsAffected":["HIGHWAY 294"],"verified":false},"type":"Feature"}
 ]}
