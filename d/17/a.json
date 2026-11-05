@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.375486,30.740386],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"Crew has arrived on-site.","id":"417759","nbrOut":2,"planned":true,"timeOff":1793887688000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.152556,30.677594],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"417767","nbrOut":1,"planned":true,"timeOff":1793905498896},"type":"Feature"}
+
 ]}
