@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.259198,34.824252],"type":"Point"},"properties":{"cause":"Maintenance","code":"110","crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-05T12:28:27-06:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-05T08:37:48-06:00","outageName":"","outagePoint":{"lat":34.824252096703276,"lng":-92.25919799804302},"outageRecID":"2026-11-05-0026","outageStartTime":"2026-11-05T08:28:27-06:00","outageWorkStatus":"Repair in Progress","statusMessage":null,"streetsAffected":["MEADOW OAKS CT","MEADOWOOD CT"],"verified":true},"type":"Feature"}
+
 ]}
