@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.319947,30.327428],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-04T23:26:54.413-06:00","outageName":"T19998","outagePoint":{"lat":30.32742824554596,"lng":-93.31994703040476},"outageRecID":"2026-11-04-0232","outageStartTime":"2026-11-04T23:26:13-06:00","outageWorkStatus":"","streetsAffected":["CRUMPLER RD HSE","CRUMPLER RD SHOP"],"verified":false},"type":"Feature"}
 ]}
