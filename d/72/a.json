@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.645846,33.562611],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-05T11:11:31.187-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-05T07:12:32.147-06:00","outageName":"","outagePoint":{"lat":33.56261065213172,"lng":-91.64584639861948},"outageRecID":"2026-11-05-0088","outageStartTime":"2026-11-05T07:09:18-06:00","outageWorkStatus":"","streetsAffected":["HIGHWAY 35 E"],"verified":false},"type":"Feature"}
 ]}
