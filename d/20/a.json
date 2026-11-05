@@ -1,5 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.241618,36.185406],"type":"Point"},"properties":{"crewAssigned":true,"id":"331512","nbrOut":1,"planned":false,"timeOff":1793892808379},"type":"Feature"},
-{"geometry":{"coordinates":[-92.240406,36.185014],"type":"Point"},"properties":{"crewAssigned":true,"id":"331516","nbrOut":4,"planned":false,"timeOff":1793892884000},"type":"Feature"},
-{"geometry":{"coordinates":[-92.250781,36.197491],"type":"Point"},"properties":{"comment":"We have crews working in your area to restore an outage on your circuit. To allow our crews to safely complete the necessary repairs, we had to temporarily disconnect power to your location. We apologize for the inconvenience and appreciate your patience as we work to restore service as quickly and safely as possible.","crewAssigned":true,"id":"331521","nbrOut":62,"planned":true,"timeOff":1793900473938},"type":"Feature"}
+{"geometry":{"coordinates":[-92.241618,36.185406],"type":"Point"},"properties":{"crewAssigned":true,"id":"331512","nbrOut":1,"planned":false,"timeOff":1793892808379},"type":"Feature"}
 ]}
