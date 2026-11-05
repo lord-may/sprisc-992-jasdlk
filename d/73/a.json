@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.395604,35.082686],"type":"Point"},"properties":{"cause":"Scheduled","code":"135","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-05T09:58:44.427-06:00","outageName":"XFMR5248 - M101","outagePoint":{"lat":35.08268569658925,"lng":-92.39560384593824},"outageRecID":"2026-11-05-0040","outageStartTime":"2026-11-05T09:52:55-06:00","outageWorkStatus":"","streetsAffected":["COMANCHE TRL"],"verified":true},"type":"Feature"}
+
 ]}
