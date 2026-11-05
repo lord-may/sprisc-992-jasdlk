@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.85227,33.854298],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":7,"customersOutNow":7,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-05T10:04:13.427-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-05T06:36:30.257-06:00","outageName":"","outagePoint":{"lat":33.85429764066352,"lng":-91.8522699410112},"outageRecID":"2026-11-05-0087","outageStartTime":"2026-11-05T06:04:11-06:00","outageWorkStatus":"Crew in Route","streetsAffected":["KING RD","KING RD."],"verified":true},"type":"Feature"}
+
 ]}
