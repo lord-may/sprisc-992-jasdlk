@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.814566,34.966241],"type":"Point"},"properties":{"cause":"110 Scheduled Maintenance (no equipment failure)","code":"110","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-05T10:00:00-08:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-05T05:29:00.687-08:00","outageName":"2026-11-05-0148","outagePoint":{"lat":34.96624119133579,"lng":-92.81456567672294},"outageRecID":"2026-11-05-0148","outageStartTime":"2026-11-05T05:26:54-08:00","outageWorkStatus":"","streetsAffected":["UNION VALLEY ROAD"],"verified":true},"type":"Feature"}
 ]}
