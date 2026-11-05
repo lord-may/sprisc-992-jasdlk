@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.457617,35.100982],"type":"Point"},"properties":{"cause":"Unknown","code":"999","crewAssigned":true,"customersOutInitially":95,"customersOutNow":95,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-05T19:15:00-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-05T17:13:28.043-06:00","outageName":"FUS151 - T104","outagePoint":{"lat":35.10098184121216,"lng":-92.457616560036},"outageRecID":"2026-11-05-0043","outageStartTime":"2026-11-05T17:08:25-06:00","outageWorkStatus":"","streetsAffected":["ARKANSAS AVE","BELLWOOD DR","BROADVIEW AVE","GATLIN PARK (BATHROOMS)","MANOR ST","PARKVIEW CIR","PARKWOOD DR","SARAH CIR","SARAH CIR APT A","SARAH CIR APT B","WESTWOOD CIR"],"verified":true},"type":"Feature"}
 ]}
