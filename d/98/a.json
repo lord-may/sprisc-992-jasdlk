@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.698723,33.037807],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-05T18:52:31.227-06:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-05T15:53:52.397-06:00","outageName":"FDR0804","outagePoint":{"lat":33.03780669982727,"lng":-95.69872330148488},"outageRecID":"2026-11-05-0221","outageStartTime":"2026-11-05T15:49:30-06:00","outageWorkStatus":"Dispatcher Reviewing","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
