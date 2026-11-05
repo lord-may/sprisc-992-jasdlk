@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.133308,36.151957],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":35,"customersOutNow":1,"customersRestored":34,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-05T12:17:07.75-06:00","outageName":"C0311108BRC2","outagePoint":{"lat":36.151956938000204,"lng":-91.1333076690379},"outageRecID":"2026-11-05-0067","outageStartTime":"2026-11-05T12:01:11-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
