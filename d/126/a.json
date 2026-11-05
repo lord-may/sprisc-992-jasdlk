@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.400102,35.784098],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-05T10:41:56.187-06:00","outageName":"54 10 22 transformer","outagePoint":{"lat":35.78409762294672,"lng":-97.40010162519924},"outageRecID":"2026-11-05-0039","outageStartTime":"2026-11-05T10:40:07-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}

@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-92.613,35.527585],"type":"Point"},"properties":{"comment":"CONTRACTORS REPLACING POLES","crewAssigned":true,"id":"380057","nbrOut":1,"planned":false,"timeOff":1793883674480},"type":"Feature"},
-{"geometry":{"coordinates":[-92.779952,35.346226],"type":"Point"},"properties":{"comment":"DISPATCHED CREW","crewAssigned":true,"id":"380058","nbrOut":1,"planned":false,"timeOff":1793892295500},"type":"Feature"}
+{"geometry":{"coordinates":[-92.779952,35.346226],"type":"Point"},"properties":{"comment":"CREW ARRIVED ONSITE","crewAssigned":true,"id":"380058","nbrOut":1,"planned":false,"timeOff":1793892295500},"type":"Feature"}
 ]}
