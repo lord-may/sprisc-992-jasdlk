@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.231017,30.657306],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T16:03:17.043-06:00","outageName":"D44315","outagePoint":{"lat":30.657305595452698,"lng":-93.23101714313643},"outageRecID":"2026-11-06-0277","outageStartTime":"2026-11-06T15:58:30-06:00","outageWorkStatus":"","streetsAffected":["HWY 171 MH","HWY 171 SHOP","HWY 171S MH","N HWY 171 HSE"],"verified":false},"type":"Feature"}
 ]}

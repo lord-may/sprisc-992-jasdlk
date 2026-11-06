@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.447178,35.085339],"type":"Point"},"properties":{"cause":"Unknown","code":"999","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-06T18:00:00-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T16:10:51.953-06:00","outageName":"1612 - S204","outagePoint":{"lat":35.08533918946389,"lng":-92.44717848919393},"outageRecID":"2026-11-06-0056","outageStartTime":"2026-11-06T16:07:39-06:00","outageWorkStatus":"","streetsAffected":["ASH ST"],"verified":true},"type":"Feature"}
 ]}

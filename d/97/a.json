@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.096923,29.634429],"type":"Point"},"properties":{"cause":"Vehicle","code":"760","crewAssigned":false,"customersOutInitially":74,"customersOutNow":74,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-06T16:08:01-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T14:44:45.147-06:00","outageName":"RCL63558370001","outagePoint":{"lat":29.634428632621685,"lng":-98.09692331480375},"outageRecID":"2026-11-06-0263","outageStartTime":"2026-11-06T14:08:01-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
