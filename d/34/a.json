@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"geometries":[{"coordinates":[[[-105.78577,32.671116],[-105.783766,32.672371],[-105.782257,32.690056],[-105.821855,32.838454],[-105.888734,32.830445],[-105.851913,32.759274],[-105.79257,32.673309],[-105.78577,32.671116]]],"type":"Polygon"},{"coordinates":[-105.82923,32.77065],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"OCEC Maintenance (scheduled)","estimateTime":1793919600000,"id":"487815","nbrOut":62,"planned":true,"timeOff":1793891520000},"type":"Feature"},
-{"geometry":{"coordinates":[-105.678951,33.399037],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"488322","nbrOut":1,"planned":false,"timeOff":1793921952263},"type":"Feature"}
+{"geometry":{"coordinates":[-105.678951,33.399037],"type":"Point"},"properties":{"cause":"Cause unknown              ","comment":"Crew has been dispatched.","id":"488322","nbrOut":1,"planned":false,"timeOff":1793921952263},"type":"Feature"}
 ]}

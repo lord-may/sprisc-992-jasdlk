@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.561854,30.690325],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-05T15:58:30.55-06:00","outageName":"OH103_2350","outagePoint":{"lat":30.690324542428794,"lng":-93.56185424888969},"outageRecID":"2026-11-05-0255","outageStartTime":"2026-11-05T15:23:39-06:00","outageWorkStatus":"","streetsAffected":["BRUCE QUAVE RD HSE","BRUCE QUAVE RD MH","BRUCE QUAVE RD SHOP"],"verified":true},"type":"Feature"}
+
 ]}
