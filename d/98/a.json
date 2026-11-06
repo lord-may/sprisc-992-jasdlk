@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.435107,32.770623],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":13,"customersOutNow":13,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-06T18:19:10.55-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T15:27:09.953-06:00","outageName":"FDR8801","outagePoint":{"lat":32.77062289443737,"lng":-96.43510705332838},"outageRecID":"2026-11-06-0255","outageStartTime":"2026-11-06T15:18:56-06:00","outageWorkStatus":"Dispatcher Reviewing","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
