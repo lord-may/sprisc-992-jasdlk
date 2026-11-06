@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.243767,34.891761],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-06T19:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T15:05:08.097-08:00","outageName":"2026-11-06-0187","outagePoint":{"lat":34.891761177785,"lng":-92.243766875947},"outageRecID":"2026-11-06-0187","outageStartTime":"2026-11-06T15:01:39-08:00","outageWorkStatus":"","streetsAffected":["GRANT OAKS ST","SINGLE OAKS DR"],"verified":true},"type":"Feature"}
 ]}
