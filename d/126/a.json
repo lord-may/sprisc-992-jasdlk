@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.262414,36.029176],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T11:22:28.773-06:00","outageName":"32 13 25 fuse","outagePoint":{"lat":36.029175714525024,"lng":-97.262413556831},"outageRecID":"2026-11-06-0044","outageStartTime":"2026-11-06T11:19:00-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-97.314361,36.188285],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T11:26:57.34-06:00","outageName":"15 21 13","outagePoint":{"lat":36.18828476364996,"lng":-97.3143610985246},"outageRecID":"2026-11-06-0045","outageStartTime":"2026-11-06T11:25:46-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
