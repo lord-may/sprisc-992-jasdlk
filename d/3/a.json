@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-106.60259,35.08233],[-106.60258,35.08573],[-106.60258,35.08721],[-106.60259,35.08648],[-106.60259,35.08233]]],"type":"Polygon"},{"coordinates":[-106.60258,35.08527],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Maintenance","es-US":"Reparaciones de Emergencia","orig":"97 Emergency Repairs"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Crew is onsite working on repairs","es-US":"Un equipo de trabajo está en el sitio realizando reparaciones","orig":"On-site"},"cust_a":{"val":78},"etr":"2026-11-06T07:30:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-06T04:41:40Z","title":"Area Outage"},"type":"Feature"}
 ]}
