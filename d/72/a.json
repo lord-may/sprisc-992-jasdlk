@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.641208,33.767344],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-06T13:05:15.1-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T09:12:30.42-06:00","outageName":"","outagePoint":{"lat":33.76734412256067,"lng":-91.64120750707475},"outageRecID":"2026-11-06-0102","outageStartTime":"2026-11-06T09:05:13-06:00","outageWorkStatus":"Crew in Route","streetsAffected":["GANDERVILLE RD","GANDERVILLE RD."],"verified":false},"type":"Feature"}
 ]}
