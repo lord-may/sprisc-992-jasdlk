@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.59649,31.78159],"type":"Point"},"properties":{"cause":{"orig":"-NDA-"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assigned","es-US":"Asignado","orig":"Dispatched"},"cust_a":{"val":3},"etr":"2026-11-06T03:00:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-06T01:39:57Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
