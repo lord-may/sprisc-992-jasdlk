@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.73567,29.166721],"type":"Point"},"properties":{"comment":"KEC crew working at location.","crewAssigned":true,"id":"334931","nbrOut":1,"planned":false,"timeOff":1793994274000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.717196,28.56986],"type":"Point"},"properties":{"comment":"Next available KEC crew to be enroute.","crewAssigned":true,"id":"334932","nbrOut":1,"planned":false,"timeOff":1793994415425},"type":"Feature"}
 ]}
