@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.890485,34.120112],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"JJ","CaseNumber":"261106-P0002","CaseStatus":"Predicted","Cause":"","CutomersAffected":44,"ElementName":"REC-22568","EndTime":"/Date(-62135571600000)/","OutageTime":"11/6/2026 9:24:39 AM","PoleNumber":"22568","RestorationTime":null,"StartTime":"/Date(-62135571600000)/","X":-106.89048467367995,"Y":34.12011220647975,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
