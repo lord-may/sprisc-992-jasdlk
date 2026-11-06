@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.462062,35.087734],"type":"Point"},"properties":{"cause":"Scheduled","code":"135","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T11:26:19.803-06:00","outageName":"3701 - W103","outagePoint":{"lat":35.087734148567456,"lng":-92.46206160997092},"outageRecID":"2026-11-06-0055","outageStartTime":"2026-11-06T11:24:32-06:00","outageWorkStatus":"","streetsAffected":["ROBINSON AVE"],"verified":true},"type":"Feature"}
+
 ]}
