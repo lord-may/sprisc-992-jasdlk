@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.747471,30.926595],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T15:34:34.22-06:00","outageName":"142402","outagePoint":{"lat":30.926595469500615,"lng":-95.7474708434966},"outageRecID":"2026-11-06-0106","outageStartTime":"2026-11-06T15:34:04-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
