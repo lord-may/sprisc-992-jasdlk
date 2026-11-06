@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.926527,30.849762],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T16:48:52.217-06:00","outageName":"T35237","outagePoint":{"lat":30.8497619983781,"lng":-92.92652665322726},"outageRecID":"2026-11-06-0278","outageStartTime":"2026-11-06T16:43:58-06:00","outageWorkStatus":"","streetsAffected":["ARKADELPHIA"],"verified":false},"type":"Feature"}
+
 ]}
