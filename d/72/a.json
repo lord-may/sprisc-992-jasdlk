@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.926202,33.847717],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-06T20:27:53.883-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T16:27:53.903-06:00","outageName":"","outagePoint":{"lat":33.84771736145419,"lng":-91.92620170778865},"outageRecID":"2026-11-06-0107","outageStartTime":"2026-11-06T16:26:49-06:00","outageWorkStatus":"","streetsAffected":["ST HWY 11 S"],"verified":false},"type":"Feature"}
 ]}
