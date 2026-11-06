@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.925693,34.952793],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-05T20:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-05T16:10:02.387-08:00","outageName":"2026-11-05-0169","outagePoint":{"lat":34.952793415404244,"lng":-91.92569257197712},"outageRecID":"2026-11-05-0169","outageStartTime":"2026-11-05T15:57:17-08:00","outageWorkStatus":"","streetsAffected":["SEATON RD"],"verified":false},"type":"Feature"}
 ]}
