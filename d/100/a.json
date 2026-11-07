@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.203441,30.431848],"type":"Point"},"properties":{"cause":"Dead Out - ROW","code":"42","crewAssigned":true,"customersOutInitially":22,"customersOutNow":22,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T08:43:11.607-06:00","outageName":"D42484","outagePoint":{"lat":30.431848160741303,"lng":-93.20344118124328},"outageRecID":"2026-11-07-0283","outageStartTime":"2026-11-07T06:42:20-06:00","outageWorkStatus":"","streetsAffected":["BLUEBERRY RD","COMEAUX LANE","COMEAUX LN TRA          ","COONIE JACKSON RD","COONIE JACKSON RD DW TRA","COONIE JACKSON RD HSE","COONIE JACKSON RD MH","COONIE JACKSON RD POOL","COONIE JACKSON RD TRA","COONIE JACKSON RDGUEST","SHADY OAKS LANE HSE","SHADY OAKS LANE SHOP"],"verified":false},"type":"Feature"}
+
 ]}
