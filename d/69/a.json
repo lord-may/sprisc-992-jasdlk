@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.388111,34.521555],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-07T08:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T05:08:20.46-08:00","outageName":"2026-11-07-0195","outagePoint":{"lat":34.521555309173,"lng":-92.38811111218186},"outageRecID":"2026-11-07-0195","outageStartTime":"2026-11-07T05:00:20-08:00","outageWorkStatus":"","streetsAffected":["PRUETT RD"],"verified":false},"type":"Feature"}
+
 ]}
