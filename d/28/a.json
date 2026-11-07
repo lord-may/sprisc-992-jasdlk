@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-94.779575,32.328386],[-94.779171,32.328394],[-94.779557,32.328439],[-94.779575,32.328386]]],"type":"Polygon"},{"coordinates":[-94.779431,32.328401],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Change Cause Code","id":"729446","nbrOut":3},"type":"Feature"}
+
 ]}
