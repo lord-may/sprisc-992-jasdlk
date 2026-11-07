@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.187967,34.772945],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-07T07:08:18-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T03:15:36.867-06:00","outageName":"","outagePoint":{"lat":34.77294453873888,"lng":-92.18796731302463},"outageRecID":"2026-11-07-0043","outageStartTime":"2026-11-07T03:08:18-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["VILLAGE DR #18"],"verified":false},"type":"Feature"}
+
 ]}
