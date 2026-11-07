@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.616189,35.526174],"type":"Point"},"properties":{"comment":"Crew dispatched at 5:48 am.","crewAssigned":true,"id":"380157","nbrOut":14,"planned":false,"timeOff":1794051840303},"type":"Feature"}
+{"geometry":{"coordinates":[-92.616189,35.526174],"type":"Point"},"properties":{"comment":"Crew on site at 6:20 am.","crewAssigned":true,"id":"380157","nbrOut":14,"planned":false,"timeOff":1794051840303},"type":"Feature"}
 ]}
