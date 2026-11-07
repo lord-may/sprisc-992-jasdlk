@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.337325,30.600516],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-07T10:33:58.12-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T08:37:15.42-06:00","outageName":"6103","outagePoint":{"lat":30.60051570703132,"lng":-96.3373254780703},"outageRecID":"2026-11-07-0043","outageStartTime":"2026-11-07T08:33:20-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
