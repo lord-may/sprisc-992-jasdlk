@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.447935,30.84622],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417792","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1794088800000},"type":"Feature"},
+{"geometry":{"coordinates":[-98.446677,30.846398],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417793","nbrOut":1,"planned":false,"timeOff":1794089220000},"type":"Feature"}
 ]}
