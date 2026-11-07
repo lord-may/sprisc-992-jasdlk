@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.457291,35.108437],"type":"Point"},"properties":{"cause":"Customer Service","code":"120","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-06T23:25:49.75-06:00","outageName":"12278 - W201","outagePoint":{"lat":35.108437067896645,"lng":-92.45729131481228},"outageRecID":"2026-11-06-0059","outageStartTime":"2026-11-06T23:22:59-06:00","outageWorkStatus":"","streetsAffected":["SPRUCEWOOD DR"],"verified":true},"type":"Feature"}
 ]}
