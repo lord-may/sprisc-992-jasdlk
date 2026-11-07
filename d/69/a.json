@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.097714,35.510231],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-07T14:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T10:36:55.663-08:00","outageName":"2026-11-07-0203","outagePoint":{"lat":35.510230569547254,"lng":-92.09771397650704},"outageRecID":"2026-11-07-0203","outageStartTime":"2026-11-07T10:30:52-08:00","outageWorkStatus":"","streetsAffected":["LAKELAND DR"],"verified":false},"type":"Feature"}
+
 ]}
