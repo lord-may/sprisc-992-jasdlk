@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-100.904259,35.031039],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T13:39:19-06:00","outageName":"1-078-676","outagePoint":{"lat":35.03103937905499,"lng":-100.90425889435855},"outageRecID":"2026-11-07-0061","outageStartTime":"2026-11-07T13:32:00-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
