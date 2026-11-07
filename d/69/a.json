@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.049043,35.519997],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":19,"customersOutNow":19,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-07T04:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T00:40:06.437-08:00","outageName":"2026-11-07-0193","outagePoint":{"lat":35.519996529201514,"lng":-92.04904302581261},"outageRecID":"2026-11-07-0193","outageStartTime":"2026-11-07T00:30:12-08:00","outageWorkStatus":"","streetsAffected":["EASY ST","LAKELAND ACRES","LAKELAND ACRES DR","LAKELAND ACRES RD"],"verified":true},"type":"Feature"}
 ]}
