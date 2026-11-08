@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.217855,34.800753],"type":"Point"},"properties":{"cause":"Maintenance, other","code":"490","crewAssigned":true,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-08T15:55:19.027-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-08T11:58:06.44-06:00","outageName":"","outagePoint":{"lat":34.80075329399976,"lng":-92.21785459949999},"outageRecID":"2026-11-08-0051","outageStartTime":"2026-11-08T11:47:57-06:00","outageWorkStatus":"Repair in Progress","statusMessage":null,"streetsAffected":["OAK TREE CIR (SHOP)","OAKTREE CIR","SOMERS AVE"],"verified":true},"type":"Feature"}
+
 ]}
