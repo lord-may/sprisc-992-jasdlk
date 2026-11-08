@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-98.24786,29.61131],[-98.2476,29.61142],[-98.24263,29.61451],[-98.23743,29.61795],[-98.23732,29.61827],[-98.23809,29.6196],[-98.24505,29.62968],[-98.24964,29.63204],[-98.26299,29.63225],[-98.26315,29.62711],[-98.24803,29.6114],[-98.24786,29.61131]]],"type":"Polygon"},{"coordinates":[-98.25031,29.62327],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"CPS Equipment Failure","ES-ES":"Falla del equipo de CPS","orig":"22"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":null,"cust_a":{"val":1009},"etr":"2026-11-08T12:45:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
+
 ]}
