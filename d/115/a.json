@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.322462,30.608007],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T21:40:24.103-06:00","outageName":"3205","outagePoint":{"lat":30.608006814226567,"lng":-96.32246159840516},"outageRecID":"2026-11-07-0047","outageStartTime":"2026-11-07T21:36:15-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
