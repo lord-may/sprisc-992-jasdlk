@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.025786,34.1234],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-08T15:02:50.35-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-08T11:08:20.893-06:00","outageName":"","outagePoint":{"lat":34.12339991124661,"lng":-92.02578641488388},"outageRecID":"2026-11-08-0120","outageStartTime":"2026-11-08T11:02:48-06:00","outageWorkStatus":"Crew in Route","streetsAffected":["MIDDLE WARREN RD."],"verified":false},"type":"Feature"}
 ]}

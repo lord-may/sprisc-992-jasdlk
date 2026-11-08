@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.24965,34.815737],"type":"Point"},"properties":{"cause":"Cause unknown","code":"999","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-08T14:57:11-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-08T11:08:42.557-06:00","outageName":"","outagePoint":{"lat":34.815736580718195,"lng":-92.24964959907672},"outageRecID":"2026-11-08-0050","outageStartTime":"2026-11-08T10:57:07-06:00","outageWorkStatus":"Crew in Route","statusMessage":null,"streetsAffected":["CURRY CT"],"verified":true},"type":"Feature"}
 ]}

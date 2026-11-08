@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.234015,30.572857],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-08T11:11:12.493-06:00","outageName":"T33506","outagePoint":{"lat":30.572857334046287,"lng":-93.23401479533605},"outageRecID":"2026-11-08-0302","outageStartTime":"2026-11-08T11:10:34-06:00","outageWorkStatus":"","streetsAffected":["HWY 171 MH"],"verified":false},"type":"Feature"}
 ]}
