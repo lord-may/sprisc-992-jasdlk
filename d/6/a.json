@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.6313,36.7413],"type":"Point"},"properties":{"cause":null,"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assessing","es-US":"Evaluar","orig":"In_Progress"},"cust_a":{"mask":5,"val":4},"etr":"2026-11-08T04:00:00Z","etr_confidence":null,"inc_id":"6142921","n_out":1,"start_time":"2026-11-07T22:37Z","title":"Area Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-95.79446,36.03697],"type":"Point"},"properties":{"cause":{"EN-US":"CUSTOMER PROBLEM","es-US":"PROBLEMA DEL CLIENTE","orig":"CUSTOMER PROBLEM"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assessing","es-US":"Evaluar","orig":"New"},"cust_a":{"mask":5,"val":4},"etr":"2026-11-08T08:00:00Z","etr_confidence":null,"inc_id":"6143081","n_out":1,"start_time":"2026-11-08T02:31Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
