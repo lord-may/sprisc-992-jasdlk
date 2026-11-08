@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-95.88583,36.13974],[-95.88574,36.1399],[-95.88527,36.1409],[-95.88533,36.14129],[-95.88656,36.14237],[-95.88761,36.14047],[-95.88583,36.13974]]],"type":"Polygon"},{"coordinates":[-95.88634,36.14095],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"PLANNED MAINTENANCE","es-US":"PLANIFICADO MANTENIMIENTO","orig":"PLANNED MAINTENANCE"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assessing","es-US":"Evaluar","orig":"In_Progress"},"cust_a":{"val":18},"etr":"ETR-EXP","etr_confidence":null,"inc_id":"6143101","n_out":1,"start_time":"2026-11-08T03:39:03Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
