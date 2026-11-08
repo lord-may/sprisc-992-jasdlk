@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.454681,30.399072],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-08T01:35:31.017-06:00","outageName":"D22370","outagePoint":{"lat":30.39907249998408,"lng":-93.45468086666978},"outageRecID":"2026-11-08-0296","outageStartTime":"2026-11-08T01:33:30-06:00","outageWorkStatus":"","streetsAffected":["EDGERLY OIL FIELDS","EDGERLY RD","EDGERLY RD MH"],"verified":false},"type":"Feature"}
 ]}
