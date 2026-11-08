@@ -1,6 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-98.987957,30.233395],[-98.98254,30.233682],[-98.981983,30.234567],[-98.987957,30.233395]]],"type":"Polygon"},{"coordinates":[-98.984157,30.233876],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause to be determined","comment":"Crew has arrived on-site.","id":"417799","lifeCycleStatus":"Crew Enroute","nbrOut":3,"planned":false,"timeOff":1794098622000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.746787,30.288865],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"The crew is enroute to the location.","id":"417802","lifeCycleStatus":"Crew On-Site","nbrOut":2,"planned":false,"timeOff":1794099813000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.402224,30.221884],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417803","nbrOut":1,"planned":false,"timeOff":1794103440000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.410372,30.193137],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417804","nbrOut":1,"planned":false,"timeOff":1794103880969},"type":"Feature"}
+{"geometry":{"coordinates":[-99.402224,30.221884],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417803","nbrOut":1,"planned":false,"timeOff":1794103440000},"type":"Feature"}
 ]}
