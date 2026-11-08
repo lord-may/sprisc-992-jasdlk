@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.910568,33.924239],"type":"Point"},"properties":{"cause":"600 Small animal/bird","code":"600","crewAssigned":true,"customersOutInitially":45,"customersOutNow":45,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-07T21:06:37.99-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T17:37:53.213-06:00","outageName":"","outagePoint":{"lat":33.92423862848756,"lng":-91.91056829420658},"outageRecID":"2026-11-07-0113","outageStartTime":"2026-11-07T17:05:40-06:00","outageWorkStatus":"","streetsAffected":["HIGHWAY 114 W","HIGHWAY 114 W.","HWY 114 W","JASPER RD.","ST HWY 114","ST HWY 114 W","ST. HWY 114","ST. HWY 114 W.","STATE HWY 114 W"],"verified":false},"type":"Feature"}
+
 ]}
