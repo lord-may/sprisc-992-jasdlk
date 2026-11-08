@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.335195,34.361866],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-07T23:50:31.057-06:00","outageName":"34-44-6-13","outagePoint":{"lat":34.36186602528277,"lng":-98.33519487934048},"outageRecID":"2026-11-07-0042","outageStartTime":"2026-11-07T23:45:00-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
