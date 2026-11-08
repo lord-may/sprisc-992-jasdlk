@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.482407,35.109685],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-08T10:48:04.897-06:00","outageName":"31979 - T202","outagePoint":{"lat":35.10968512108471,"lng":-92.48240733351004},"outageRecID":"2026-11-08-0063","outageStartTime":"2026-11-08T10:46:09-06:00","outageWorkStatus":"","streetsAffected":["IRBY DR APT 2006"],"verified":true},"type":"Feature"}
 ]}
