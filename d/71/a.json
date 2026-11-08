@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.370241,30.634673],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2058,"customersOutNow":2058,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-08T02:54:26.283-06:00","outageName":"CB0122","outagePoint":{"lat":30.634673163688575,"lng":-96.37024137496698},"outageRecID":"2026-11-08-1038","outageStartTime":"2026-11-08T02:53:41-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
