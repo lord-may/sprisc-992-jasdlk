@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-99.86141,29.86561],"type":"Point"},"properties":{"cause":{"EN-US":"Assessing","es-US":"Evaluando","orig":"_default"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Dispatched","es-US":"Despachado","orig":"Assigned"},"cust_a":{"val":1},"etr":"2026-11-08T14:30:00Z","etr_confidence":null,"inc_id":"J.26.11.0821","n_out":1,"start_time":"2026-11-08T11:26:01.810Z","title":"Area Outage"},"type":"Feature"}
 ]}
