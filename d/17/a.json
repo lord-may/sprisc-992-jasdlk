@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.855528,30.254077],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"417815","nbrOut":1,"planned":true,"timeOff":1794184896000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.855528,30.254077],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"417815","nbrOut":1,"planned":true,"timeOff":1794184896000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-99.410372,30.193137],[-99.392523,30.204775],[-99.39104,30.218391],[-99.39378,30.221162],[-99.395173,30.222179],[-99.40933,30.230492],[-99.409743,30.230477],[-99.419697,30.216668],[-99.419122,30.20337],[-99.410372,30.193137]]],"type":"Polygon"},{"coordinates":[-99.406132,30.21194],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"417820","lifeCycleStatus":"Crew Assigned","nbrOut":128,"planned":false,"timeOff":1794196860000},"type":"Feature"}
 ]}
