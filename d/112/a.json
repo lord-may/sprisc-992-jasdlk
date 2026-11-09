@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.83505,34.143678],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"JamesL","CaseNumber":"261109-P0001","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T-16730","EndTime":"/Date(-62135571600000)/","OutageTime":"11/9/2026 7:16:43 AM","PoleNumber":"16730","RestorationTime":null,"StartTime":"/Date(-62135571600000)/","X":-107.83504992354237,"Y":34.14367767219441,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}

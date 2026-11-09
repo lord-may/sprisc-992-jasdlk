@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.240971,34.820586],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-09T14:35:19-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-09T10:35:47.317-06:00","outageName":"","outagePoint":{"lat":34.82058587474879,"lng":-92.24097065340811},"outageRecID":"2026-11-09-0057","outageStartTime":"2026-11-09T10:35:19-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["COMANCHE DR"],"verified":false},"type":"Feature"}
 ]}
