@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.625424,31.907609],"type":"Point"},"properties":{"cause":"Change Cause Code","id":"729619","nbrOut":1},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-94.433193,32.022809],[-94.432915,32.023174],[-94.433265,32.02319],[-94.433373,32.023106],[-94.433193,32.022809]]],"type":"Polygon"},{"coordinates":[-94.433166,32.023052],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Contractors                  ","id":"729621","nbrOut":5},"type":"Feature"}
+{"geometry":{"coordinates":[-94.625424,31.907609],"type":"Point"},"properties":{"cause":"Change Cause Code","id":"729619","nbrOut":1},"type":"Feature"}
 ]}
