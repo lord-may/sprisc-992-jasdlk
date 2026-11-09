@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-104.279879,32.766896],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1794250800000,"id":"302366","nbrOut":1,"planned":false,"timeOff":1794058722000},"type":"Feature"},
-{"geometry":{"coordinates":[-104.003997,32.836816],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1794250800000,"id":"302367","nbrOut":1,"planned":false,"timeOff":1794080170116},"type":"Feature"},
+{"geometry":{"coordinates":[-104.003997,32.836816],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1794250800000,"id":"302367","nbrOut":1,"planned":false,"timeOff":1794080170000},"type":"Feature"},
 {"geometry":{"coordinates":[-104.428011,33.110867],"type":"Point"},"properties":{"crewAssigned":false,"id":"302368","nbrOut":1,"planned":false,"timeOff":1794193232000},"type":"Feature"}
 ]}
