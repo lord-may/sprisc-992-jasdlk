@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-106.035438,33.143292],[-106.033705,33.146255],[-106.034279,33.155205],[-106.036903,33.173117],[-106.041232,33.176072],[-106.042185,33.144879],[-106.035438,33.143292]]],"type":"Polygon"},{"coordinates":[-106.03834,33.157679],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Small Animals or Birds","id":"486696","nbrOut":11,"planned":false,"timeOff":1791404133000},"type":"Feature"},
 {"geometry":{"coordinates":[-105.605532,32.933338],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"488352","nbrOut":1,"planned":false,"timeOff":1794247739136},"type":"Feature"}
 ]}

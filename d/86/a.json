@@ -1,4 +1,4 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-97.419086,34.724777],"type":"Point"},"properties":{"cause":"PUBLIC ACTIVITIES, OTHER      ","crewAssigned":false,"id":"569845","nbrOut":1,"planned":false,"timeOff":1794230638000},"type":"Feature"},
-{"geometry":{"coordinates":[-97.581788,34.710127],"type":"Point"},"properties":{"crewAssigned":false,"id":"569956","nbrOut":1,"planned":false,"timeOff":1794249385000},"type":"Feature"}
+{"geometry":{"coordinates":[-97.581788,34.710127],"type":"Point"},"properties":{"crewAssigned":true,"id":"569956","nbrOut":1,"planned":false,"timeOff":1794249385000},"type":"Feature"}
 ]}
