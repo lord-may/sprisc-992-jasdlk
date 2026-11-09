@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.30158,30.593125],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":8,"customersOutNow":8,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-09T15:07:49.247-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-09T13:07:49.37-06:00","outageName":"3101","outagePoint":{"lat":30.593125469643788,"lng":-96.30157961976815},"outageRecID":"2026-11-09-0051","outageStartTime":"2026-11-09T13:07:16-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
