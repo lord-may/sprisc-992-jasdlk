@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-98.53321,29.46937],[-98.5336,29.46962],[-98.5334,29.46944],[-98.53321,29.46937]]],"type":"Polygon"},{"coordinates":[-98.5334,29.46948],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Animal Related","ES-ES":"Relacionado con animales","orig":"2"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"val":57},"etr":"2026-11-09T07:45:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
+
 ]}
