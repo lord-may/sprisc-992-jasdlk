@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.227547,34.795342],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-09T20:40:38-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-09T16:41:05.127-06:00","outageName":"","outagePoint":{"lat":34.79534187120844,"lng":-92.22754701465632},"outageRecID":"2026-11-09-0061","outageStartTime":"2026-11-09T16:40:38-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["MCCAIN PARK DR #C"],"verified":false},"type":"Feature"}
 ]}
