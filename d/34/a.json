@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-105.73797,32.949637],[-105.737638,32.949893],[-105.737557,32.950036],[-105.737413,32.950956],[-105.737458,32.951303],[-105.737557,32.951446],[-105.737898,32.951099],[-105.738024,32.950051],[-105.73797,32.949637]]],"type":"Polygon"},{"coordinates":[-105.737719,32.950556],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Wind, Trees","id":"487355","nbrOut":10,"planned":false,"timeOff":1792262760000},"type":"Feature"}
 ]}
