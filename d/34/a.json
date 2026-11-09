@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-105.699316,32.613256],[-105.698094,32.613453],[-105.666141,32.621799],[-105.661775,32.623478],[-105.647734,32.659923],[-105.68921,32.661701],[-105.69009,32.661565],[-105.694618,32.660476],[-105.704535,32.646226],[-105.71165,32.631354],[-105.713213,32.62164],[-105.699316,32.613256]]],"type":"Polygon"},{"coordinates":[-105.681852,32.63901],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Trees failure from overhang or dead tree without ice/snow","id":"487436","nbrOut":207,"planned":false,"timeOff":1792471980000},"type":"Feature"},
+{"geometry":{"coordinates":[-105.85724,32.995992],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"487442","nbrOut":1,"planned":false,"timeOff":1792478783000},"type":"Feature"}
 ]}

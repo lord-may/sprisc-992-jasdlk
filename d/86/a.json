@@ -3,6 +3,6 @@
 {"geometry":{"coordinates":[-97.470334,34.558472],"type":"Point"},"properties":{"crewAssigned":true,"id":"569947","nbrOut":1,"planned":true,"timeOff":1794239906000},"type":"Feature"},
 {"geometry":{"coordinates":[-97.470334,34.558472],"type":"Point"},"properties":{"crewAssigned":true,"id":"569948","nbrOut":1,"planned":true,"timeOff":1794239902000},"type":"Feature"},
 {"geometry":{"coordinates":[-97.613786,34.996813],"type":"Point"},"properties":{"crewAssigned":true,"id":"569950","nbrOut":1,"planned":false,"timeOff":1794242893000},"type":"Feature"},
-{"geometry":{"coordinates":[-97.585876,34.884167],"type":"Point"},"properties":{"crewAssigned":false,"id":"569951","nbrOut":1,"planned":false,"timeOff":1794244080000},"type":"Feature"},
-{"geometry":{"coordinates":[-97.186988,34.563865],"type":"Point"},"properties":{"crewAssigned":false,"id":"569953","nbrOut":1,"planned":false,"timeOff":1794245090000},"type":"Feature"}
+{"geometry":{"coordinates":[-97.585876,34.884167],"type":"Point"},"properties":{"crewAssigned":true,"id":"569951","nbrOut":1,"planned":false,"timeOff":1794244080000},"type":"Feature"},
+{"geometry":{"coordinates":[-97.187455,34.563584],"type":"Point"},"properties":{"cause":"ELECTRICAL OVERLOAD           ","crewAssigned":true,"id":"569954","nbrOut":1,"planned":false,"timeOff":1794245517000},"type":"Feature"}
 ]}
