@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.248098,30.876448],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-09T13:50:33.58-06:00","outageName":"T25625","outagePoint":{"lat":30.876448315250435,"lng":-93.2480980323032},"outageRecID":"2026-11-09-0324","outageStartTime":"2026-11-09T13:49:48-06:00","outageWorkStatus":"","streetsAffected":["HERMAN SMITH RD HSE"],"verified":false},"type":"Feature"}
+
 ]}
