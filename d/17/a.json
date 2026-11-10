@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.422872,30.58821],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"417939","nbrOut":1,"planned":false,"timeOff":1794353129953},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-98.419647,30.587374],[-98.419315,30.587529],[-98.420815,30.588906],[-98.423007,30.588527],[-98.423025,30.588434],[-98.422665,30.587854],[-98.42254,30.587792],[-98.419647,30.587374]]],"type":"Polygon"},{"coordinates":[-98.421228,30.588125],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"417941","lifeCycleStatus":"Crew Enroute","nbrOut":29,"planned":false,"timeOff":1794353129953},"type":"Feature"}
 ]}

@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-96.585781,28.904582],[-96.575073,28.923233],[-96.573924,28.925529],[-96.57413,28.929012],[-96.583778,28.939201],[-96.617797,28.953547],[-96.6191,28.953941],[-96.619845,28.95383],[-96.624247,28.943446],[-96.616414,28.922046],[-96.608464,28.915701],[-96.585781,28.904582]]],"type":"Polygon"},{"coordinates":[-96.599418,28.929649],"type":"Point"}],"type":"GeometryCollection"},"properties":{"id":"191022","nbrOut":38,"planned":false,"timeOff":1794350699000},"type":"Feature"},
 {"geometry":{"coordinates":[-96.521219,29.074691],"type":"Point"},"properties":{"id":"191027","nbrOut":1,"planned":false,"timeOff":1794351406000},"type":"Feature"},
 {"geometry":{"coordinates":[-96.47201,29.043847],"type":"Point"},"properties":{"id":"191028","nbrOut":1,"planned":false,"timeOff":1794351955060},"type":"Feature"},
 {"geometry":{"coordinates":[-96.535224,29.001037],"type":"Point"},"properties":{"id":"191029","nbrOut":1,"planned":false,"timeOff":1794351711000},"type":"Feature"},
@@ -7,6 +6,5 @@
 {"geometry":{"coordinates":[-96.501771,28.999481],"type":"Point"},"properties":{"id":"191031","nbrOut":1,"planned":false,"timeOff":1794351767000},"type":"Feature"},
 {"geometry":{"coordinates":[-96.500828,28.999599],"type":"Point"},"properties":{"id":"191032","nbrOut":1,"planned":false,"timeOff":1794351767000},"type":"Feature"},
 {"geometry":{"coordinates":[-96.498851,28.998664],"type":"Point"},"properties":{"id":"191033","nbrOut":2,"planned":false,"timeOff":1794351767000},"type":"Feature"},
-{"geometry":{"coordinates":[-96.500549,28.998711],"type":"Point"},"properties":{"id":"191034","nbrOut":2,"planned":false,"timeOff":1794351767000},"type":"Feature"},
-{"geometry":{"coordinates":[-96.774472,28.941662],"type":"Point"},"properties":{"id":"191035","nbrOut":14,"planned":false,"timeOff":1794349853468},"type":"Feature"}
+{"geometry":{"coordinates":[-96.500549,28.998711],"type":"Point"},"properties":{"id":"191034","nbrOut":2,"planned":false,"timeOff":1794351767000},"type":"Feature"}
 ]}
