@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.003525,35.550442],"type":"Point"},"properties":{"cause":"110 Scheduled Maintenance (no equipment failure)","code":"110","crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-10T08:00:00-08:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-10T05:37:43.82-08:00","outageName":"2026-11-10-0300","outagePoint":{"lat":35.55044169262183,"lng":-92.0035248738173},"outageRecID":"2026-11-10-0300","outageStartTime":"2026-11-10T05:35:58-08:00","outageWorkStatus":"","streetsAffected":["HEIGLE RD"],"verified":true},"type":"Feature"}
 ]}
