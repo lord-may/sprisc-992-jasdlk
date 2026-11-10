@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.62098,34.20734],"type":"Point"},"properties":{"cause":{"EN-US":"EQUIPMENT RELATED","es-US":"RELACIONADO CON EL EQUIPO","orig":"EQUIPMENT RELATED"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Working","es-US":"Trabajando","orig":"Arrived"},"cust_a":{"mask":5,"val":4},"etr":"2026-11-10T10:30:45Z","etr_confidence":null,"inc_id":"6147201","n_out":1,"start_time":"2026-11-10T07:40Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
