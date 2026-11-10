@@ -2,5 +2,6 @@
 {"geometry":{"coordinates":[-98.894991,27.753499],"type":"Point"},"properties":{"crewAssigned":true,"id":"875626","nbrOut":6,"planned":false,"timeOff":1794309602000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.933124,26.701521],"type":"Point"},"properties":{"cause":"De-Energize for Safety","crewAssigned":true,"id":"875739","nbrOut":39,"planned":false,"timeOff":1794334394942},"type":"Feature"},
 {"geometry":{"coordinates":[-99.473901,27.683145],"type":"Point"},"properties":{"crewAssigned":true,"id":"875742","nbrOut":1,"planned":false,"timeOff":1794334750573},"type":"Feature"},
-{"geometry":{"coordinates":[-98.794128,28.630733],"type":"Point"},"properties":{"crewAssigned":true,"id":"875746","nbrOut":1,"planned":false,"timeOff":1794340820679},"type":"Feature"}
+{"geometry":{"coordinates":[-98.794128,28.630733],"type":"Point"},"properties":{"crewAssigned":true,"id":"875746","nbrOut":1,"planned":false,"timeOff":1794340820679},"type":"Feature"},
+{"geometry":{"coordinates":[-98.966991,29.054944],"type":"Point"},"properties":{"crewAssigned":true,"id":"875748","nbrOut":3,"planned":false,"timeOff":1794341907000},"type":"Feature"}
 ]}
