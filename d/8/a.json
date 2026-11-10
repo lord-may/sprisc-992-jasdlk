@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-97.78024,30.21993],[-97.78004,30.22019],[-97.77984,30.22048],[-97.78053,30.22077],[-97.78072,30.22052],[-97.78089,30.22024],[-97.78024,30.21993]]],"type":"Polygon"},{"coordinates":[-97.78037,30.22036],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Investigación en curso","es-US":"Investigación en curso","orig":"No Selection"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"One or more crews have been assigned. ","ES-ES":"Uno o más equipos se ha asignado. ","es-US":"Uno o más equipos están trabajando en reparaciones. ","orig":"Onsite"},"cust_a":{"val":13},"etr":"2026-11-10T06:05:05Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-10T03:11:39Z","title":"Area Outage"},"type":"Feature"}
 ]}
