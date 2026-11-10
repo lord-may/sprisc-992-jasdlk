@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.312083,34.636872],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-09T18:24:27.237-08:00","outageName":"2026-11-09-0298","outagePoint":{"lat":34.63687243591468,"lng":-92.31208275742651},"outageRecID":"2026-11-09-0298","outageStartTime":"2026-11-09T18:19:21-08:00","outageWorkStatus":"","streetsAffected":["ARCH STREET C","ENTERPRISE LN","WILLOW SPRINGS RD","WILLOW SPRINGS ROAD"],"verified":false},"type":"Feature"}
 ]}
