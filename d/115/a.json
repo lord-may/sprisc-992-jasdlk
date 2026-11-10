@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.288825,30.62212],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-10T15:48:17.27-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-10T13:50:38.99-06:00","outageName":"1205","outagePoint":{"lat":30.62212042319885,"lng":-96.2888248066105},"outageRecID":"2026-11-10-0057","outageStartTime":"2026-11-10T13:47:42-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
