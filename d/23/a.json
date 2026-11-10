@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.795655,27.183848],"type":"Point"},"properties":{"cause":"Unknown","crewAssigned":true,"id":"875611","nbrOut":1,"planned":false,"timeOff":1794294741000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.894991,27.753499],"type":"Point"},"properties":{"crewAssigned":true,"id":"875626","nbrOut":6,"planned":false,"timeOff":1794309602000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.251604,28.460955],"type":"Point"},"properties":{"comment":"Currently 276 meters are without power. At this time, the cause of the outage and restoration time are unknown. We appreciate your patience as crews work to restore power as quickly and safely as possible. Outage updates will be posted on our outage map as they become available.","crewAssigned":true,"estimateTime":1794339000000,"id":"875735","nbrOut":276,"planned":false,"timeOff":1794322135000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.933124,26.701521],"type":"Point"},"properties":{"cause":"De-Energize for Safety","crewAssigned":true,"id":"875739","nbrOut":39,"planned":false,"timeOff":1794334394942},"type":"Feature"},
 {"geometry":{"coordinates":[-100.000907,29.405375],"type":"Point"},"properties":{"crewAssigned":true,"id":"875741","nbrOut":2,"planned":false,"timeOff":1794334660000},"type":"Feature"},
 {"geometry":{"coordinates":[-99.473901,27.683145],"type":"Point"},"properties":{"crewAssigned":true,"id":"875742","nbrOut":1,"planned":false,"timeOff":1794334750573},"type":"Feature"},
