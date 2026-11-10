@@ -2,6 +2,5 @@
 {"geometry":{"coordinates":[-97.05021,36.550557],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":true,"id":"470778","nbrOut":34,"planned":false,"timeOff":1794317234415},"type":"Feature"},
 {"geometry":{"coordinates":[-97.035658,36.521527],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":true,"id":"470780","nbrOut":1,"planned":false,"timeOff":1794324308390},"type":"Feature"},
 {"geometry":{"coordinates":[-96.941038,36.547771],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":true,"id":"470781","nbrOut":1,"planned":false,"timeOff":1794325459995},"type":"Feature"},
-{"geometry":{"coordinates":[-96.714043,36.029186],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":true,"id":"470785","nbrOut":20,"planned":false,"timeOff":1794326328288},"type":"Feature"},
 {"geometry":{"coordinates":[-97.074429,36.576315],"type":"Point"},"properties":{"cause":"CAUSE UNKNOWN","crewAssigned":true,"id":"470786","nbrOut":1,"planned":false,"timeOff":1794330427982},"type":"Feature"}
 ]}
