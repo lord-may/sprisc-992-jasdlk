@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.758124,32.756351],"type":"Point"},"properties":{"cause":"Maintenance","code":"110","crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-10T07:50:24.157-06:00","outageName":"04815","outagePoint":{"lat":32.756350635439205,"lng":-97.7581235521925},"outageRecID":"2026-11-10-0024","outageStartTime":"2026-11-10T07:49:46-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
