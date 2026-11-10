@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.81754,34.972591],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":43,"customersOutNow":43,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-09T18:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-09T16:15:31.773-08:00","outageName":"2026-11-09-0295","outagePoint":{"lat":34.97259112160848,"lng":-92.81753979104741},"outageRecID":"2026-11-09-0295","outageStartTime":"2026-11-09T14:58:04-08:00","outageWorkStatus":"","streetsAffected":["CHRISTIAN DR","DBA HEIFER INTERNATIONAL","HEIFER","HEIFER RANCH","HEIFER RD","RIVER PUMP PASTURE 8","RUPEL LODGE","SHEEP BARN","TINDELL ACRES","TINDELL LN","UNION VALLEY RD","UNION VALLEY ROAD","VET SHED"],"verified":true},"type":"Feature"}
+
 ]}
