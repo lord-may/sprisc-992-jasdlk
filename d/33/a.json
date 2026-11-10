@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.453926,35.412138],"type":"Point"},"properties":{"comment":"PJECC REPLACING POLE","crewAssigned":true,"id":"380303","nbrOut":1,"planned":false,"timeOff":1794329595667},"type":"Feature"},
+{"geometry":{"coordinates":[-92.411849,35.407327],"type":"Point"},"properties":{"crewAssigned":false,"id":"380304","nbrOut":1,"planned":false,"timeOff":1794329764020},"type":"Feature"}
 ]}
