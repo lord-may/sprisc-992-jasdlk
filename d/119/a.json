@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.612087,36.093462],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-10T02:18:30.1-06:00","outageName":"03454","outagePoint":{"lat":36.093462391138324,"lng":-90.61208654053868},"outageRecID":"2026-11-10-0092","outageStartTime":"2026-11-10T02:07:10-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
