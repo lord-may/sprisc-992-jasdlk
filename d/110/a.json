@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.103717,33.682096],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"CaseNumber":"261110-P0003","CaseStatus":"Predicted","Cause":"","CutomersAffected":7,"ElementName":"RC-70","EndTime":"/Date(-62135575200000)/","OutageTime":"11/10/2026 4:58:30 AM","PoleNumber":"THREE PHASE TO HINTON LEASE","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-97.10371665559258,"Y":33.6820955418034,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
