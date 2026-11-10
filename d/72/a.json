@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.184443,33.590147],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-10T15:58:55.67-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-10T11:58:55.747-06:00","outageName":"","outagePoint":{"lat":33.590147266327705,"lng":-92.1844430983754},"outageRecID":"2026-11-10-0167","outageStartTime":"2026-11-10T11:57:17-06:00","outageWorkStatus":"","streetsAffected":["BRADLEY 8 RD","BRADLEY 8 RD S"],"verified":false},"type":"Feature"}
 ]}
