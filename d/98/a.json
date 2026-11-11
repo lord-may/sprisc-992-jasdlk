@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.745852,32.915353],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-11T10:34:49.807-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T07:42:42.143-06:00","outageName":"FDR6604","outagePoint":{"lat":32.9153533039028,"lng":-95.74585170205116},"outageRecID":"2026-11-11-0375","outageStartTime":"2026-11-11T07:31:57-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
