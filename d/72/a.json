@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.345061,34.244436],"type":"Point"},"properties":{"cause":"100 Construction","code":"100","crewAssigned":true,"customersOutInitially":39,"customersOutNow":39,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-11T12:00:00-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T10:41:53.67-06:00","outageName":"","outagePoint":{"lat":34.244436137306295,"lng":-92.34506125081205},"outageRecID":"2026-11-11-0202","outageStartTime":"2026-11-11T10:36:52-06:00","outageWorkStatus":"Repair in Progress","streetsAffected":["GRANT 261 RD.","GRANT 67","GRANT 674","GRANT 676","GRANT 678","GRANT 678 RD.","GRANT 679"],"verified":true},"type":"Feature"}
+
 ]}
