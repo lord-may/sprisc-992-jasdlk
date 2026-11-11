@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.32324,31.040923],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-10T23:22:48.17-06:00","outageName":"T87131","outagePoint":{"lat":31.040923467610725,"lng":-93.32323953779368},"outageRecID":"2026-11-10-0374","outageStartTime":"2026-11-10T23:22:01-06:00","outageWorkStatus":"","streetsAffected":["BLACKMON RD TRA"],"verified":false},"type":"Feature"}
+
 ]}
