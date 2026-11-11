@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.471415,35.108929],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T15:37:11.16-06:00","outageName":"24488 - W201","outagePoint":{"lat":35.10892942511213,"lng":-92.47141519139787},"outageRecID":"2026-11-11-0086","outageStartTime":"2026-11-11T15:36:20-06:00","outageWorkStatus":"","streetsAffected":["WINDAMERE DR APT 1"],"verified":true},"type":"Feature"}
 ]}
