@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.12992,29.94983],"type":"Point"},"properties":{"cause":"pending","description":"Reliability maintenance and upgrades are underway in your area. We apologize for the inconvenience as we work to improve our electrical service to you.","etrTime":1794441600000,"id":393113,"identifier":"2315314433","lastUpdatedTime":1794434896000,"latitude":29.94983,"longitude":-90.12992,"numPeople":9,"startTime":1794408519000,"status":"First Responder has arrived","title":"Outage"},"type":"Feature"}
+
 ]}

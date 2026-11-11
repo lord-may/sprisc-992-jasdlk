@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-98.15269,30.27244],[-98.14908,30.27264],[-98.14874,30.27411],[-98.14853,30.27531],[-98.1484,30.27874],[-98.14897,30.28],[-98.14949,30.27969],[-98.15207,30.27582],[-98.15358,30.2731],[-98.1535,30.27295],[-98.15269,30.27244]]],"type":"Polygon"},{"coordinates":[-98.15042,30.27542],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Wildlife interference","es-US":"Interferencia de animales ","orig":"ANIM- Animal Contact"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"On-site","es-US":"En sitio","orig":"On-Site"},"cust_a":{"val":22},"etr":"2026-11-12T00:15:00Z","etr_confidence":null,"inc_id":"J.26.11.1166","n_out":1,"start_time":"2026-11-11T21:00:12Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
