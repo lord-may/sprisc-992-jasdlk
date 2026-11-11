@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.611772,31.031001],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-10T17:58:24.8-06:00","outageName":"T87491","outagePoint":{"lat":31.031001384545668,"lng":-92.61177156246002},"outageRecID":"2026-11-10-0373","outageStartTime":"2026-11-10T17:57:32-06:00","outageWorkStatus":"","streetsAffected":["MELDER RD HSE"],"verified":false},"type":"Feature"}
 ]}
