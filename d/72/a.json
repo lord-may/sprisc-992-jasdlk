@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.044466,33.998846],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":7,"customersOutNow":7,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-11T13:24:59.8-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T09:40:06.747-06:00","outageName":"","outagePoint":{"lat":33.99884571175911,"lng":-92.04446608218295},"outageRecID":"2026-11-11-0201","outageStartTime":"2026-11-11T09:24:54-06:00","outageWorkStatus":"","streetsAffected":["HIGHWAY 63","REED RD","US HIGHWAY 63"],"verified":false},"type":"Feature"}
+
 ]}
