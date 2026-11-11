@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.366955,34.58813],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":7,"customersOutNow":7,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-10T20:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-10T15:41:13.697-08:00","outageName":"2026-11-10-0346","outagePoint":{"lat":34.58813037964818,"lng":-92.36695452756874},"outageRecID":"2026-11-10-0346","outageStartTime":"2026-11-10T15:37:17-08:00","outageWorkStatus":"","streetsAffected":["CHICOT RD","HOLT","HOLT LN"],"verified":true},"type":"Feature"}
+
 ]}
