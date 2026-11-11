@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.528851,30.810451],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T13:31:44.767-06:00","outageName":"T14871","outagePoint":{"lat":30.81045080147472,"lng":-96.52885100794887},"outageRecID":"2026-11-11-0204","outageStartTime":"2026-11-11T13:28:46-06:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
