@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.539154,34.915877],"type":"Point"},"properties":{"cause":"BAD POLES ","crewAssigned":true,"id":"570054","nbrOut":1,"planned":false,"timeOff":1794427045000},"type":"Feature"},
+{"geometry":{"coordinates":[-97.539154,34.915877],"type":"Point"},"properties":{"cause":"BAD POLES ","crewAssigned":true,"id":"570055","nbrOut":1,"planned":false,"timeOff":1794427045000},"type":"Feature"}
 ]}
