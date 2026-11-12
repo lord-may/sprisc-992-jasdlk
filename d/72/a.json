@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.254742,33.895637],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-12T10:48:28.18-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T06:50:20.16-06:00","outageName":"","outagePoint":{"lat":33.89563691512558,"lng":-91.25474227843259},"outageRecID":"2026-11-12-0212","outageStartTime":"2026-11-12T06:48:11-06:00","outageWorkStatus":"Crew in Route","streetsAffected":["CLAY ST","WASHINGTON ST.","WOOD ST."],"verified":false},"type":"Feature"}
 ]}
