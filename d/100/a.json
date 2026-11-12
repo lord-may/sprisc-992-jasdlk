@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.343229,30.290636],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T19:24:18.92-06:00","outageName":"T28110","outagePoint":{"lat":30.2906359550726,"lng":-93.34322929144523},"outageRecID":"2026-11-11-0398","outageStartTime":"2026-11-11T19:23:24-06:00","outageWorkStatus":"","streetsAffected":["CHALKLEY PINES RD"],"verified":false},"type":"Feature"}
 ]}
