@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.524191,30.884944],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T12:18:55.72-06:00","outageName":"T12845","outagePoint":{"lat":30.88494446266386,"lng":-96.52419074592767},"outageRecID":"2026-11-12-0213","outageStartTime":"2026-11-12T12:18:54-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
