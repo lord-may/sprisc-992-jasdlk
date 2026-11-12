@@ -1,6 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-98.782566,30.814046],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","comment":"If you are experiencing an outage please call 1-800-900-2832 and ask to speak with a dispatcher.  We need to confirm details or your outage prior to dispatching a crew.","id":"417771","nbrOut":1,"planned":true,"timeOff":1794494329000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.688279,31.050636],"type":"Point"},"properties":{"cause":"Outage Entry Error","id":"418005","nbrOut":1,"planned":true,"timeOff":1794486550876},"type":"Feature"},
 {"geometry":{"coordinates":[-99.098154,30.603419],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418006","nbrOut":1,"planned":true,"timeOff":1794492514000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.478738,30.66238],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418008","nbrOut":2,"planned":true,"timeOff":1794494471000},"type":"Feature"}
 ]}
