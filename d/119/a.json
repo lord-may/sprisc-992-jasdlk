@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-90.691339,35.522894],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":18,"customersOutNow":18,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T19:06:29.447-06:00","outageName":"J0808010RC01","outagePoint":{"lat":35.522893907554526,"lng":-90.69133918818032},"outageRecID":"2026-11-11-0107","outageStartTime":"2026-11-11T19:05:08-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
