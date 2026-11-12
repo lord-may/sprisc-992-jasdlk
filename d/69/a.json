@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.597854,34.987324],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-11T21:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T18:59:09.42-08:00","outageName":"2026-11-11-0394","outagePoint":{"lat":34.9873243588318,"lng":-92.59785408452132},"outageRecID":"2026-11-11-0394","outageStartTime":"2026-11-11T18:56:02-08:00","outageWorkStatus":"","streetsAffected":["NUTT FARM RD"],"verified":true},"type":"Feature"}
+
 ]}
