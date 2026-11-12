@@ -1,5 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-98.782566,30.814046],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","comment":"If you are experiencing an outage please call 1-800-900-2832 and ask to speak with a dispatcher.  We need to confirm details or your outage prior to dispatching a crew.","id":"417771","nbrOut":1,"planned":true,"timeOff":1794494329000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.725488,30.256373],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"418013","lifeCycleStatus":"Crew Enroute","nbrOut":1,"planned":false,"timeOff":1794513133325},"type":"Feature"},
-{"geometry":{"coordinates":[-98.697909,30.75216],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"418015","lifeCycleStatus":"Crew Enroute","nbrOut":2,"planned":false,"timeOff":1794513380000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.725488,30.256373],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"418013","lifeCycleStatus":"Crew On-Site","nbrOut":1,"planned":false,"timeOff":1794513133325},"type":"Feature"},
+{"geometry":{"coordinates":[-98.697909,30.75216],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"Crew has arrived on-site.","id":"418015","lifeCycleStatus":"Crew On-Site","nbrOut":2,"planned":false,"timeOff":1794513380000},"type":"Feature"}
 ]}
