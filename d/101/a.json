@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.154839,34.731979],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-12T14:47:05.177-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T10:56:46.897-06:00","outageName":"","outagePoint":{"lat":34.7319792017501,"lng":-92.15483936377018},"outageRecID":"2026-11-12-0085","outageStartTime":"2026-11-12T10:39:07-06:00","outageWorkStatus":"Crew in Route","statusMessage":null,"streetsAffected":["HWY 165","HWY 165 1/2"],"verified":true},"type":"Feature"}
 ]}

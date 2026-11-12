@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.952887,36.55765],"type":"Point"},"properties":{"id":"469232","nbrOut":1},"type":"Feature"},
-{"geometry":{"coordinates":[-94.712435,36.412889],"type":"Point"},"properties":{"id":"469261","nbrOut":471},"type":"Feature"}
+{"geometry":{"coordinates":[-94.712435,36.412889],"type":"Point"},"properties":{"comment":"We are currently experiencing a large outage around the Jay area.","id":"469261","nbrOut":471},"type":"Feature"}
 ]}
