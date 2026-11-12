@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.562989,32.302407],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-11T17:57:35.76-06:00","outageName":"XFMR490397","outagePoint":{"lat":32.30240725433191,"lng":-99.56298875573208},"outageRecID":"2026-11-11-0045","outageStartTime":"2026-11-11T17:37:32-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["LIVE OAK TRL"],"verified":false},"type":"Feature"}
+
 ]}
