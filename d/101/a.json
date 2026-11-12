@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.232754,34.873092],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-12T12:02:11.397-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T08:22:00.16-06:00","outageName":"","outagePoint":{"lat":34.87309221664833,"lng":-92.23275395156702},"outageRecID":"2026-11-12-0083","outageStartTime":"2026-11-12T07:55:03-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["KELLOGG ACRES RD"],"verified":true},"type":"Feature"}
+
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.666598,34.458845],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":230,"customersOutNow":230,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T09:13:59.253-06:00","outageName":"VELMA EAST 202","outagePoint":{"lat":34.45884465393529,"lng":-97.66659799961981},"outageRecID":"2026-11-12-0058","outageStartTime":"2026-11-12T09:13:17-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

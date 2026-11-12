@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.746448,32.732979],"type":"Point"},"properties":{"cause":"Other planned","code":"190","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-12T08:43:20.62-06:00","outageName":"118432-E-1","outagePoint":{"lat":32.73297913209154,"lng":-97.74644781256652},"outageRecID":"2026-11-12-0031","outageStartTime":"2026-11-12T08:42:05-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
