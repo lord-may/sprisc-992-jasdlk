@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.66806,30.77203],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Allen (4)"]},{"property":"feeder","value":"5801B"},{"property":"predictedDevice","value":"5799176828"},{"property":"substation","value":"Oakdale"}],"cause":"","etrTime":1794528000000,"id":2248777,"identifier":"INC 8106072585","lastUpdatedTime":1794520208000,"latitude":30.77203,"longitude":-92.66806,"numPeople":4,"startTime":1794519968000,"status":"","title":"Outage"},"type":"Feature"}
+
 ]}
