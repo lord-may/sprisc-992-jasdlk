@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.09936,36.19222],"type":"Point"},"properties":{"cause":null,"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Assessing","es-US":"Evaluar","orig":"New"},"cust_a":{"mask":5,"val":4},"etr":"2026-11-12T13:00:00Z","etr_confidence":null,"inc_id":"6153261","n_out":1,"start_time":"2026-11-12T07:43Z","title":"Area Outage"},"type":"Feature"}
 ]}
