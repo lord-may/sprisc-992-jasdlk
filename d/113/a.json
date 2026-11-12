@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.481678,34.034377],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"False","AssignedTo":"","CaseNumber":"261112-P0012","CaseStatus":"Predicted","Cause":"","CutomersAffected":22,"ElementName":"FUS-242849258560F1","EndTime":"/Date(-62135575200000)/","OutageTime":"11/12/2026 2:04:38 PM","PoleNumber":"242849258560F1","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-96.48167759114371,"Y":34.03437669363725,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
