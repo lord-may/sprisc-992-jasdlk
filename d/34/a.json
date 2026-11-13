@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-105.784566,32.687833],"type":"Point"},"properties":{"cause":"OCEC Maintenance (scheduled)","estimateTime":1794614400000,"id":"488402","nbrOut":1,"planned":false,"timeOff":1794593874164},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-105.656942,32.829351],[-105.623462,32.835661],[-105.617479,32.841367],[-105.613374,32.850386],[-105.657382,32.829577],[-105.656942,32.829351]]],"type":"Polygon"},{"coordinates":[-105.630873,32.838643],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause unknown              ","id":"488404","nbrOut":13,"planned":false,"timeOff":1794596030851},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-105.656942,32.829351],[-105.623462,32.835661],[-105.617479,32.841367],[-105.613374,32.850386],[-105.657382,32.829577],[-105.656942,32.829351]]],"type":"Polygon"},{"coordinates":[-105.630873,32.838643],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause unknown              ","id":"488404","nbrOut":13,"planned":false,"timeOff":1794596030851},"type":"Feature"},
+{"geometry":{"coordinates":[-105.313346,33.398977],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"488408","nbrOut":1,"planned":false,"timeOff":1794603336999},"type":"Feature"}
 ]}
