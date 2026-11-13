@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.156005,33.927177],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":77,"customersOutNow":77,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-13T01:48:21.963-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T22:04:09.813-06:00","outageName":"","outagePoint":{"lat":33.92717701153203,"lng":-92.1560049700035},"outageRecID":"2026-11-12-0215","outageStartTime":"2026-11-12T21:48:10-06:00","outageWorkStatus":"Crew in Route","streetsAffected":["CALVIN RAWLS RD","CALVIN RAWLS RD.","DAISY LN.","GUY RD.","HIGHWAY 114","HIGHWAY 35 S","HIGHWAY 35 S.","HWY 114","HWY 35 S.","HWY 35S","MT. ELBA RD. E.","OLD MT. ELBA RD.","PHILLIPS RD","PHILLIPS RD.","PUMPKIN HILL RD","PUMPKIN HILL RD.","RANDY LN","RANDY LN.","S GUY RD","SHANNON RD","ST. HWY 114","ST. HWY 35","ST. HWY 35 S."],"verified":false},"type":"Feature"}
+
 ]}
