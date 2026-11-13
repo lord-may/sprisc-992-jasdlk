@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-91.830238,35.638255],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-12T15:53:23.223-08:00","outageName":"2026-11-12-0435","outagePoint":{"lat":35.63825542894786,"lng":-91.83023754671292},"outageRecID":"2026-11-12-0435","outageStartTime":"2026-11-12T15:52:57-08:00","outageWorkStatus":"","streetsAffected":["FLORAL RD"],"verified":false},"type":"Feature"}
 ]}
