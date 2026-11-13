@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.673666,30.566189],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T09:09:29.667-06:00","outageName":"D03304","outagePoint":{"lat":30.56618916978074,"lng":-93.67366574508313},"outageRecID":"2026-11-13-0453","outageStartTime":"2026-11-13T09:06:10-06:00","outageWorkStatus":"","streetsAffected":["FRIENDSHIP RD","FRIENDSHIP RD BLDG","PAPPY SPIKES RD         ","PAPPY SPIKES RD MH"],"verified":false},"type":"Feature"}
 ]}
