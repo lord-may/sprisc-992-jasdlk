@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.966292,29.89802],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T04:31:03.617-06:00","outageName":"","outagePoint":{"lat":29.898019737210912,"lng":-97.96629212254534},"outageRecID":"2026-11-13-0053","outageStartTime":"2026-11-13T04:25:57-06:00","outageWorkStatus":"","streetsAffected":["OLD RANCH ROAD 12 133"],"verified":false},"type":"Feature"}
 ]}
