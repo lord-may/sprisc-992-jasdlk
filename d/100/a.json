@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.06554,30.815362],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T06:44:53.753-06:00","outageName":"T39348","outagePoint":{"lat":30.81536157835529,"lng":-93.06553959949082},"outageRecID":"2026-11-13-0451","outageStartTime":"2026-11-13T06:44:09-06:00","outageWorkStatus":"","streetsAffected":["BRUCE STRACENER RD"],"verified":false},"type":"Feature"}
 ]}

@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-106.892054,34.065925],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"TonyL","CaseNumber":"261113-P0001","CaseStatus":"Predicted","Cause":"","CutomersAffected":2,"ElementName":"T-17185","EndTime":"/Date(-62135571600000)/","OutageTime":"11/13/2026 5:34:00 AM","PoleNumber":"17185","RestorationTime":null,"StartTime":"/Date(-62135571600000)/","X":-106.89205422450591,"Y":34.065924730355675,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"},
+{"geometry":{"coordinates":[-106.891003,34.062303],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"","AssignedTo":"","CaseNumber":"261113-X0003","CaseStatus":"Calls Bundle","Cause":"","CutomersAffected":7,"ElementName":"","EndTime":"/Date(-62135571600000)/","OutageTime":"11/13/2026 5:53:00 AM","PoleNumber":"20246","RestorationTime":null,"StartTime":"/Date(-62135571600000)/","X":-106.89100331340993,"Y":34.06230278419917,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}

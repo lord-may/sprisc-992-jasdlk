@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.683534,32.494001],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T06:41:03.003-06:00","outageName":"XFMR789423","outagePoint":{"lat":32.494000837785094,"lng":-99.68353354555018},"outageRecID":"2026-11-13-0049","outageStartTime":"2026-11-13T06:41:00-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["HOPEWELL"],"verified":false},"type":"Feature"}
+
 ]}
