@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.27621,31.14302],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Vernon (4)"]},{"property":"feeder","value":"6122B"},{"property":"predictedDevice","value":"7572017410"},{"property":"substation","value":"North Lee Hills"}],"cause":"","etrTime":1794547800000,"id":2248855,"identifier":"INC 8106072614","lastUpdatedTime":1794540311000,"latitude":31.14302,"longitude":-93.27621,"numPeople":4,"startTime":1794540222000,"status":"","title":"Outage"},"type":"Feature"}
+
 ]}
