@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.824841,30.32896],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"418017","lifeCycleStatus":"Crew Enroute","nbrOut":2,"planned":false,"timeOff":1794523739202},"type":"Feature"}
+{"geometry":{"coordinates":[-98.824841,30.32896],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"There is currently a planned outage in order to make improvements to our electric system.  We estimate that power will be restored by 7:00pm.","id":"418017","lifeCycleStatus":"Crew Enroute","nbrOut":2,"planned":false,"timeOff":1794523739202},"type":"Feature"}
 ]}
