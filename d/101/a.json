@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.276096,34.771648],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-13T18:55:33-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T14:55:45.483-06:00","outageName":"","outagePoint":{"lat":34.77164773499139,"lng":-92.2760960999577},"outageRecID":"2026-11-13-0097","outageStartTime":"2026-11-13T14:55:33-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["MARION ST"],"verified":false},"type":"Feature"}
+
 ]}

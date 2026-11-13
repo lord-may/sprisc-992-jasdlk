@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.236476,30.535143],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T15:02:50.697-06:00","outageName":"T90368","outagePoint":{"lat":30.53514262616885,"lng":-93.23647637749204},"outageRecID":"2026-11-13-0463","outageStartTime":"2026-11-13T15:02:01-06:00","outageWorkStatus":"","streetsAffected":["DUSTY LN","DUSTY LN TRA"],"verified":false},"type":"Feature"}
 ]}
