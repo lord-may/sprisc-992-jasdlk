@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.449605,36.222669],"type":"Point"},"properties":{"cause":"100 Construction","code":"100","crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-13T08:03:40.963-06:00","outageName":"OH40396","outagePoint":{"lat":36.22266865817325,"lng":-90.44960512712365},"outageRecID":"2026-11-13-0111","outageStartTime":"2026-11-13T08:01:34-06:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
