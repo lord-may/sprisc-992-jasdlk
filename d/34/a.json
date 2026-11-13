@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-105.784566,32.687833],"type":"Point"},"properties":{"cause":"OCEC Maintenance (scheduled)","estimateTime":1794614400000,"id":"488402","nbrOut":1,"planned":false,"timeOff":1794593874164},"type":"Feature"},
+{"geometry":{"coordinates":[-105.708712,32.994478],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"488403","nbrOut":1,"planned":false,"timeOff":1794594179746},"type":"Feature"}
 ]}
