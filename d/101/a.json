@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.254481,34.806543],"type":"Point"},"properties":{"cause":"Cause unknown","code":"999","crewAssigned":true,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-13T04:54:01.98-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T01:26:30.153-06:00","outageName":"","outagePoint":{"lat":34.80654331862729,"lng":-92.2544811598881},"outageRecID":"2026-11-13-0090","outageStartTime":"2026-11-13T00:47:44-06:00","outageWorkStatus":"Crew in Route","statusMessage":null,"streetsAffected":["BELLE POINT RD","N WALNUT RD"],"verified":true},"type":"Feature"}
+
 ]}
