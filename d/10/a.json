@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-89.96701,30.32641],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["St. Tammany (1)"]},{"property":"feeder","value":"4142D"},{"property":"predictedDevice","value":"4311060606"},{"property":"substation","value":"Ponchartrain Drive"}],"cause":"","etrTime":1794577500000,"id":2249129,"identifier":"INC 8106072624","lastUpdatedTime":1794570011000,"latitude":30.32641,"longitude":-89.96701,"numPeople":1,"startTime":1794569853000,"status":"","title":"Outage"},"type":"Feature"}
 ]}
