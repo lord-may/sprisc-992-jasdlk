@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.423974,34.316006],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":17,"customersOutNow":17,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-13T17:15:20.877-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T13:26:31.003-06:00","outageName":"","outagePoint":{"lat":34.31600583540428,"lng":-92.42397388830017},"outageRecID":"2026-11-13-0218","outageStartTime":"2026-11-13T13:14:12-06:00","outageWorkStatus":"","streetsAffected":["FRANK CLARK RD.","HOPEWELL DR","HOPEWELL DR.","PUMPHREY DR.","W CENTER ST"],"verified":false},"type":"Feature"}
 ]}

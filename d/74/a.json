@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.629922,31.03291],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T12:28:43.113-06:00","outageName":"T13577","outagePoint":{"lat":31.0329104677815,"lng":-96.62992219381357},"outageRecID":"2026-11-13-0225","outageStartTime":"2026-11-13T12:23:02-06:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
