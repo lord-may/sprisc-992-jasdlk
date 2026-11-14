@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.44009,30.4372],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Calcasieu (3)"]},{"property":"feeder","value":"6232B"},{"property":"predictedDevice","value":"3360964996"},{"property":"substation","value":"Plum Street"}],"cause":"","etrTime":1794703500000,"id":2249779,"identifier":"INC 8106072878","lastUpdatedTime":1794696010000,"latitude":30.4372,"longitude":-93.44009,"numPeople":3,"startTime":1794695848000,"status":"","title":"Outage"},"type":"Feature"}
+
 ]}
