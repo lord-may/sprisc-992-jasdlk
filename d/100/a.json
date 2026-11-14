@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.193182,30.513986],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-14T16:31:01.643-06:00","outageName":"T42953","outagePoint":{"lat":30.513985962218072,"lng":-93.19318187246866},"outageRecID":"2026-11-14-0479","outageStartTime":"2026-11-14T16:29:38-06:00","outageWorkStatus":"","streetsAffected":["HWY 190 E HSE"],"verified":false},"type":"Feature"}
+
 ]}
