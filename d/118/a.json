@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.691796,30.620049],"type":"Point"},"properties":{"cause":"Unknown Cause","code":"59","crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-13T21:00:43.09-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T19:21:43.597-06:00","outageName":"17951-F","outagePoint":{"lat":30.620049393646667,"lng":-97.69179632999594},"outageRecID":"2026-11-13-0088","outageStartTime":"2026-11-13T19:00:43-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
