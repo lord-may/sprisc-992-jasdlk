@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.3652,30.21634],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Acadia (4)"]},{"property":"feeder","value":"3503D"},{"property":"predictedDevice","value":"6741256493"},{"property":"substation","value":"Hwy 90 Crowley"}],"cause":"","etrTime":1794664800000,"id":2249508,"identifier":"INC 8106072800","lastUpdatedTime":1794657908000,"latitude":30.21634,"longitude":-92.3652,"numPeople":4,"startTime":1794657553000,"status":"","title":"Outage"},"type":"Feature"}
 ]}
