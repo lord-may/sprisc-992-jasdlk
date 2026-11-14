@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.302315,33.966569],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-14T17:53:10.513-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-14T14:03:56.78-06:00","outageName":"","outagePoint":{"lat":33.96656939136257,"lng":-91.30231459011472},"outageRecID":"2026-11-14-0222","outageStartTime":"2026-11-14T13:51:48-06:00","outageWorkStatus":"","streetsAffected":["0","LAKEVIEW LN."],"verified":false},"type":"Feature"}
+
 ]}
