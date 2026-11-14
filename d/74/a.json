@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.581329,31.611126],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T23:52:07.297-06:00","outageName":"T43169","outagePoint":{"lat":31.611126428469728,"lng":-96.5813294446075},"outageRecID":"2026-11-13-0233","outageStartTime":"2026-11-13T23:50:03-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
