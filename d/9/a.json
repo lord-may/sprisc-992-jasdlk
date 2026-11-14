@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-98.33632,29.55944],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation ","ES-ES":"Bajo investigación"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"mask":5,"val":4},"etr":"2026-11-14T08:30:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"},
 {"geometry":{"coordinates":[-98.5863,29.55597],"type":"Point"},"properties":{"cause":{"EN-US":"Vehicle Hit Pole","ES-ES":"Vehículo golpeó el poste","orig":"1"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":null,"cust_a":{"val":30},"etr":"2026-11-14T08:17:00Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":null,"title":"Area Outage"},"type":"Feature"}
 ]}
