@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.971645,35.912889],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T18:54:40.163-06:00","outageName":"42 34 09 fuse","outagePoint":{"lat":35.91288929829493,"lng":-96.97164509747074},"outageRecID":"2026-11-13-0100","outageStartTime":"2026-11-13T17:50:00-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
