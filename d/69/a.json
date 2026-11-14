@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.58609,34.71157],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-13T21:25:48.917-08:00","outageName":"2026-11-13-0457","outagePoint":{"lat":34.71156990508137,"lng":-92.58608958047333},"outageRecID":"2026-11-13-0457","outageStartTime":"2026-11-13T21:25:30-08:00","outageWorkStatus":"","streetsAffected":["WEDGE CV"],"verified":false},"type":"Feature"}
 ]}
