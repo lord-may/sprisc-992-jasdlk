@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.27287,34.785104],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-14T11:38:09-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-14T07:44:03.16-06:00","outageName":"","outagePoint":{"lat":34.78510369447247,"lng":-92.27286967885544},"outageRecID":"2026-11-14-0103","outageStartTime":"2026-11-14T07:38:09-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["W B AVE"],"verified":false},"type":"Feature"}
 ]}
