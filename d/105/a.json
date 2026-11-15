@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.934852,32.531603],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-14T18:33:42.357-06:00","outageName":"XFMR497754","outagePoint":{"lat":32.53160303164335,"lng":-99.9348521146173},"outageRecID":"2026-11-14-0055","outageStartTime":"2026-11-14T18:13:00-06:00","outageWorkStatus":"Crew in Route","statusMessage":null,"streetsAffected":["CR 414 / MOBILE HOME"],"verified":false},"type":"Feature"}
+
 ]}
