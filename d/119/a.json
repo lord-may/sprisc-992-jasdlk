@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.542611,35.723068],"type":"Point"},"properties":{"cause":"300 Material or equipment fault/failure","code":"300","crewAssigned":false,"customersOutInitially":10,"customersOutNow":0,"customersRestored":10,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":"2026-11-15T05:46:18-06:00","outageModifiedTime":"2026-11-15T05:58:55.26-06:00","outageName":"G0928080FU01","outagePoint":{"lat":35.72306787542938,"lng":-90.54261112923324},"outageRecID":"2026-11-15-0126","outageStartTime":"2026-11-15T03:47:09-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
