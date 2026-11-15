@@ -3,5 +3,7 @@
 {"geometry":{"coordinates":[-95.099995,35.547307],"type":"Point"},"properties":{"id":"458881","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-95.074707,35.522014],"type":"Point"},"properties":{"id":"458883","nbrOut":14},"type":"Feature"},
 {"geometry":{"coordinates":[-94.832072,35.439032],"type":"Point"},"properties":{"id":"458884","nbrOut":1},"type":"Feature"},
-{"geometry":{"coordinates":[-94.85162,35.46318],"type":"Point"},"properties":{"id":"458885","nbrOut":1},"type":"Feature"}
+{"geometry":{"coordinates":[-94.85162,35.46318],"type":"Point"},"properties":{"id":"458885","nbrOut":1},"type":"Feature"},
+{"geometry":{"coordinates":[-94.832252,35.455058],"type":"Point"},"properties":{"id":"458886","nbrOut":1},"type":"Feature"},
+{"geometry":{"coordinates":[-94.832459,35.437377],"type":"Point"},"properties":{"id":"458887","nbrOut":1},"type":"Feature"}
 ]}
