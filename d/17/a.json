@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-99.15685,30.683056],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"418049","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1794740379789},"type":"Feature"}
 ]}
