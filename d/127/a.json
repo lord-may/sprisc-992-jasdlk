@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.249001,34.651673],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":191,"customersOutNow":191,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-15T14:50:09.383-06:00","outageName":"RC15377","outagePoint":{"lat":34.651673193445816,"lng":-98.24900053774846},"outageRecID":"2026-11-15-0069","outageStartTime":"2026-11-15T14:46:49-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
