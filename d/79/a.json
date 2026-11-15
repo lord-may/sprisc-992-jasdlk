@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.531398,33.356102],"type":"Point"},"properties":{"alias":"","consumers_affected":"7","estimated_restore_time":null,"feeder":"0","formatted_ert":null,"incident_id":"G441571","lat":"33.35610163239108","lon":"-97.53139833371729","opt_code":null,"outage_comment":"OUTAGE","poly":[{"lat":"33.35179961336903","lon":"-97.52988588182534"},{"lat":"33.35458971369887","lon":"-97.53274181990882"},{"lat":"33.359364965723","lon":"-97.52968666705146"},{"lat":"33.358024472764114","lon":"-97.52965592511063"},{"lat":"33.35179961336903","lon":"-97.52988588182534"}],"start_date":"11/15 07:46 am","substation":"0"},"type":"Feature"}
+
 ]}
