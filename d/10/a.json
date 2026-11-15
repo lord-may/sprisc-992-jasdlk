@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.35082,31.19937],"type":"Point"},"properties":{"additionalProperties":[{"property":"AREA_COUNTY_COUNT","value":["Vernon (2)"]},{"property":"feeder","value":"6166"},{"property":"predictedDevice","value":"7339919482"},{"property":"substation","value":"East Leesville"}],"cause":"","etrTime":1794712500000,"id":2249788,"identifier":"INC 8106072880","lastUpdatedTime":1794705312000,"latitude":31.19937,"longitude":-93.35082,"numPeople":2,"startTime":1794705009000,"status":"","title":"Outage"},"type":"Feature"}
+
 ]}
