@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.594693,30.359702],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":21,"customersOutNow":21,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-15T11:25:28.03-06:00","outageName":"262414","outagePoint":{"lat":30.359702109942653,"lng":-95.59469316552604},"outageRecID":"2026-11-15-0189","outageStartTime":"2026-11-15T11:25:26-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
