@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-99.838713,32.608529],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-14T22:57:24.427-06:00","outageName":"XFMR696664","outagePoint":{"lat":32.608529304771324,"lng":-99.83871317810028},"outageRecID":"2026-11-14-0056","outageStartTime":"2026-11-14T22:57:00-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["CR 509"],"verified":false},"type":"Feature"}
 ]}
