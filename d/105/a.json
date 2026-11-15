@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.77619,32.213857],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-15T07:12:37.867-06:00","outageName":"XFMR501638","outagePoint":{"lat":32.213857036766754,"lng":-99.77619003909643},"outageRecID":"2026-11-15-0063","outageStartTime":"2026-11-15T07:12:00-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["GOLDEN RIDGE","INDIAN RIDGE RD","RIDGE RD","RIDGE ROAD"],"verified":false},"type":"Feature"}
+
 ]}
