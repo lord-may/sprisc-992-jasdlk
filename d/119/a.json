@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.662427,35.741317],"type":"Point"},"properties":{"cause":"300 Material or equipment fault/failure","code":"300","crewAssigned":false,"customersOutInitially":6,"customersOutNow":6,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-15T15:09:52.47-06:00","outageName":"OH27735","outagePoint":{"lat":35.741317330864135,"lng":-90.66242712339752},"outageRecID":"2026-11-15-0134","outageStartTime":"2026-11-15T13:44:31-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
