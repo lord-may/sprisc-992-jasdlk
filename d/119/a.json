@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-90.675258,35.526406],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":false,"customersOutInitially":736,"customersOutNow":736,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-15T17:22:33.417-06:00","outageName":"I0824055RVE","outagePoint":{"lat":35.526405906285504,"lng":-90.67525758671917},"outageRecID":"2026-11-15-0135","outageStartTime":"2026-11-15T17:17:24-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
