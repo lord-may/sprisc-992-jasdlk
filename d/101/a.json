@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.256216,34.800624],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-15T00:27:40-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-14T20:27:58.797-06:00","outageName":"","outagePoint":{"lat":34.80062401658532,"lng":-92.2562156820161},"outageRecID":"2026-11-14-0113","outageStartTime":"2026-11-14T20:27:40-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["MCCAIN BLVD"],"verified":false},"type":"Feature"}
 ]}
