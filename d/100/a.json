@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.497069,30.324873],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-14T22:37:21.463-06:00","outageName":"T85754","outagePoint":{"lat":30.324872833317986,"lng":-93.49706936666983},"outageRecID":"2026-11-14-0481","outageStartTime":"2026-11-14T22:36:34-06:00","outageWorkStatus":"","streetsAffected":["EDGERLY RD MH"],"verified":false},"type":"Feature"}
+
 ]}
