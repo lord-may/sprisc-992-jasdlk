@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.443152,30.920665],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":7,"customersOutNow":7,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-16T01:12:48.713-06:00","outageName":"D26329","outagePoint":{"lat":30.920664806971182,"lng":-93.44315237213647},"outageRecID":"2026-11-16-0515","outageStartTime":"2026-11-16T01:10:38-06:00","outageWorkStatus":"","streetsAffected":["HARVEY CROSSING RD BARN","HWY 464","HWY 464 MH","HWY 464 NEW MH","HWY 464 TRAILER"],"verified":false},"type":"Feature"}
 ]}
