@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.928399,30.879731],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-15T21:57:32.037-06:00","outageName":"D66408","outagePoint":{"lat":30.879731262584926,"lng":-92.92839943557537},"outageRecID":"2026-11-15-0512","outageStartTime":"2026-11-15T21:55:22-06:00","outageWorkStatus":"","streetsAffected":["A HILL RD HOUSE","A HILL RD HSE","A HILL RD TRA","SIMMONS MILLS RD"],"verified":false},"type":"Feature"}
 ]}
