@@ -2,9 +2,6 @@
 {"geometry":{"coordinates":[-104.693804,32.756955],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794855600000,"id":"302449","nbrOut":1,"planned":false,"timeOff":1794614465000},"type":"Feature"},
 {"geometry":{"coordinates":[-104.930106,33.095275],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794855600000,"id":"302460","nbrOut":1,"planned":false,"timeOff":1794640198000},"type":"Feature"},
 {"geometry":{"coordinates":[-104.025027,32.864505],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794855600000,"id":"302462","nbrOut":1,"planned":false,"timeOff":1794647522000},"type":"Feature"},
-{"geometry":{"coordinates":[-103.886075,32.637535],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794855600000,"id":"302466","nbrOut":1,"planned":false,"timeOff":1794735523000},"type":"Feature"},
-{"geometry":{"coordinates":[-103.898355,32.643904],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794855600000,"id":"302467","nbrOut":1,"planned":false,"timeOff":1794739323000},"type":"Feature"},
-{"geometry":{"coordinates":[-103.892642,32.641325],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794855600000,"id":"302468","nbrOut":1,"planned":false,"timeOff":1794739471000},"type":"Feature"},
-{"geometry":{"coordinates":[-103.898948,32.647792],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794855600000,"id":"302470","nbrOut":1,"planned":false,"timeOff":1794750667000},"type":"Feature"},
-{"geometry":{"coordinates":[-103.88568,32.639676],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794855600000,"id":"302471","nbrOut":1,"planned":false,"timeOff":1794750752000},"type":"Feature"}
+{"geometry":{"coordinates":[-103.887216,32.632292],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1794855600000,"id":"302466","nbrOut":16,"planned":false,"timeOff":1794735523000},"type":"Feature"},
+{"geometry":{"coordinates":[-104.510755,33.496627],"type":"Point"},"properties":{"crewAssigned":false,"id":"302502","nbrOut":1,"planned":false,"timeOff":1794849242000},"type":"Feature"}
 ]}
