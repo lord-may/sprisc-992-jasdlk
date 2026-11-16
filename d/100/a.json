@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.118073,30.825975],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-16T07:07:01.66-06:00","outageName":"T82999","outagePoint":{"lat":30.825975289629213,"lng":-93.11807299665837},"outageRecID":"2026-11-16-0519","outageStartTime":"2026-11-16T06:58:55-06:00","outageWorkStatus":"","streetsAffected":["RUTHERFORD RD","RUTHERFORD RD MH"],"verified":false},"type":"Feature"}
 ]}
