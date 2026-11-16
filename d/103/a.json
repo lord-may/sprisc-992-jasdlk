@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.959241,29.874243],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-16T11:25:36.53-06:00","outageName":"","outagePoint":{"lat":29.874243349782184,"lng":-97.95924075018107},"outageRecID":"2026-11-16-0074","outageStartTime":"2026-11-16T11:17:08-06:00","outageWorkStatus":"","streetsAffected":["BROWN ST"],"verified":true},"type":"Feature"}
+
 ]}
