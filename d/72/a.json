@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.990748,33.711693],"type":"Point"},"properties":{"cause":"400 Decay/age of material/equipment","code":"400","crewAssigned":true,"customersOutInitially":9,"customersOutNow":9,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-16T13:10:47.993-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-16T09:14:22.593-06:00","outageName":"","outagePoint":{"lat":33.711693206080184,"lng":-91.99074797388168},"outageRecID":"2026-11-16-0230","outageStartTime":"2026-11-16T09:10:41-06:00","outageWorkStatus":"Repair in Progress","streetsAffected":["HARMONY CHURCH RD."],"verified":true},"type":"Feature"}
+
 ]}
