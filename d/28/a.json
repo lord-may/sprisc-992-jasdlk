@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.572414,32.301131],"type":"Point"},"properties":{"cause":"Change Cause Code","id":"730646","nbrOut":1},"type":"Feature"}
+{"geometry":{"coordinates":[-94.572414,32.301131],"type":"Point"},"properties":{"cause":"Pole Chg Out","id":"730646","nbrOut":1},"type":"Feature"}
 ]}
