@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-101.577936,35.017684],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-16T09:44:42.993-06:00","outageName":"745 86 1","outagePoint":{"lat":35.01768424253317,"lng":-101.57793620470886},"outageRecID":"2026-11-16-0109","outageStartTime":"2026-11-16T09:44:16-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
