@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.168429,34.187282],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-15T19:33:33.403-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-15T15:42:28.03-06:00","outageName":"","outagePoint":{"lat":34.18728154494178,"lng":-92.1684292357529},"outageRecID":"2026-11-15-0226","outageStartTime":"2026-11-15T15:32:09-06:00","outageWorkStatus":"Crew in Route","streetsAffected":["LEE SPRINGS RD."],"verified":false},"type":"Feature"}
+
 ]}
