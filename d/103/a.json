@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.948301,29.901111],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-16T23:25:20.9-06:00","outageName":"","outagePoint":{"lat":29.90111110189103,"lng":-97.94830144381831},"outageRecID":"2026-11-16-0077","outageStartTime":"2026-11-16T23:24:30-06:00","outageWorkStatus":"","streetsAffected":["ELM HILL CRT"],"verified":false},"type":"Feature"}
 ]}
