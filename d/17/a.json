@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.447234,30.647419],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418156","nbrOut":2,"planned":true,"timeOff":1794922819000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.650406,30.968439],"type":"Point"},"properties":{"cause":"Lightning","id":"418143","nbrOut":1,"planned":true,"timeOff":1794923545000},"type":"Feature"},
+{"geometry":{"coordinates":[-98.447234,30.647419],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418156","nbrOut":2,"planned":true,"timeOff":1794922819000},"type":"Feature"},
+{"geometry":{"coordinates":[-98.867655,30.202857],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418157","nbrOut":1,"planned":true,"timeOff":1794923823000},"type":"Feature"}
 ]}
