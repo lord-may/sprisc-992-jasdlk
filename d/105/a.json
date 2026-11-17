@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.790468,32.35541],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T10:05:52.657-06:00","outageName":"XFMR448663","outagePoint":{"lat":32.35541041680022,"lng":-99.79046842329967},"outageRecID":"2026-11-17-0091","outageStartTime":"2026-11-17T10:05:00-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["LANGFORD","WHITE ROCK"],"verified":false},"type":"Feature"}
+
 ]}
