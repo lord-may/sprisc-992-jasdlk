@@ -1,4 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-98.782566,30.814046],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","comment":"If you are experiencing an outage please call 1-800-900-2832 and ask to speak with a dispatcher.  We need to confirm details or your outage prior to dispatching a crew.","id":"417771","nbrOut":1,"planned":true,"timeOff":1794926329000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.873584,30.158361],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418158","nbrOut":1,"planned":true,"timeOff":1794924379000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.873584,30.158361],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418158","nbrOut":1,"planned":true,"timeOff":1794924379000},"type":"Feature"},
+{"geometry":{"coordinates":[-98.448411,30.668639],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418171","nbrOut":1,"planned":true,"timeOff":1794933390000},"type":"Feature"},
+{"geometry":{"geometries":[{"coordinates":[[[-99.290968,30.107574],[-99.288578,30.108996],[-99.292055,30.113294],[-99.31878,30.139011],[-99.320406,30.109812],[-99.290968,30.107574]]],"type":"Polygon"},{"coordinates":[-99.308575,30.118811],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"418173","lifeCycleStatus":"Crew Assigned","nbrOut":28,"planned":false,"timeOff":1794932865000},"type":"Feature"}
 ]}
