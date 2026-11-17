@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.207997,29.472124],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":45,"customersOutNow":45,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-17T15:37:35-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T13:40:48.457-06:00","outageName":"RCL70573225001","outagePoint":{"lat":29.47212418695385,"lng":-97.20799692160469},"outageRecID":"2026-11-17-0883","outageStartTime":"2026-11-17T13:37:35-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
