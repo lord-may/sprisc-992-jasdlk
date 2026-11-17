@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.268011,34.768119],"type":"Point"},"properties":{"cause":"Customer-caused","code":"700","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-17T14:12:33-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T10:22:04.653-06:00","outageName":"","outagePoint":{"lat":34.76811877718596,"lng":-92.26801050589205},"outageRecID":"2026-11-17-0127","outageStartTime":"2026-11-17T10:12:33-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["W 15TH ST #A"],"verified":true},"type":"Feature"}
+
 ]}
