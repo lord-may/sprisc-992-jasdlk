@@ -1,6 +1,8 @@
 {"type":"FeatureCollection","features":[
+{"geometry":{"coordinates":[-98.782566,30.814046],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","comment":"If you are experiencing an outage please call 1-800-900-2832 and ask to speak with a dispatcher.  We need to confirm details or your outage prior to dispatching a crew.","id":"417771","nbrOut":1,"planned":true,"timeOff":1794926329000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.650406,30.968439],"type":"Point"},"properties":{"cause":"Lightning","id":"418143","nbrOut":1,"planned":true,"timeOff":1794923545000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.447234,30.647419],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418156","nbrOut":2,"planned":true,"timeOff":1794922819000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.867655,30.202857],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418157","nbrOut":1,"planned":true,"timeOff":1794923823000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.873584,30.158361],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418158","nbrOut":1,"planned":true,"timeOff":1794924379000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.873584,30.158361],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418158","nbrOut":1,"planned":true,"timeOff":1794924379000},"type":"Feature"},
+{"geometry":{"coordinates":[-99.576992,30.678034],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"418159","nbrOut":1,"planned":false,"timeOff":1794926329000},"type":"Feature"}
 ]}
