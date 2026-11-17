@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.044667,34.357768],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T10:46:17-06:00","outageName":"34-28-3-24-P","outagePoint":{"lat":34.35776753332046,"lng":-98.04466700001782},"outageRecID":"2026-11-17-0077","outageStartTime":"2026-11-17T10:44:08-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
