@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.029374,34.111257],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-17T06:50:08.923-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T02:50:08.947-06:00","outageName":"","outagePoint":{"lat":34.11125735094424,"lng":-92.0293735853129},"outageRecID":"2026-11-17-0234","outageStartTime":"2026-11-17T02:49:40-06:00","outageWorkStatus":"","streetsAffected":["HAPPY OAKS LN","MIDDLE WARREN RD."],"verified":false},"type":"Feature"}
 ]}
