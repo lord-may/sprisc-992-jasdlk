@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-97.70895,30.6662],[-97.70882,30.66628],[-97.70892,30.66652],[-97.70899,30.66651],[-97.70895,30.6662]]],"type":"Polygon"},{"coordinates":[-97.70892,30.66636],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":{"EN-US":"Scheduled outage","es-US":"Apagón programado","orig":"PLAN- Planned Interruptions"},"cluster":false,"comments":null,"crew_icon":true,"crew_status":{"EN-US":"On-site","es-US":"En sitio","orig":"On-Site"},"cust_a":{"val":4},"etr":"2026-11-18T01:00:00Z","etr_confidence":null,"inc_id":"J.26.11.1875","n_out":1,"start_time":"2026-11-17T19:51:33.937Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
