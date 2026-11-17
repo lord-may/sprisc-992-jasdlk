@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.671747,30.468323],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T13:39:59-06:00","outageName":"182415","outagePoint":{"lat":30.46832289941493,"lng":-95.6717473783101},"outageRecID":"2026-11-17-0222","outageStartTime":"2026-11-17T13:22:09-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
