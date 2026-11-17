@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.141901,33.711978],"type":"Point"},"properties":{"cause":"CONTRACTOR - EMERGENCY/UNPLANNED Const/Maint","crewAssigned":false,"id":"780943","nbrOut":3,"planned":false,"timeOff":1794947734829},"type":"Feature"}
+{"geometry":{"coordinates":[-93.141901,33.711978],"type":"Point"},"properties":{"cause":"CONTRACTOR - EMERGENCY/UNPLANNED Const/Maint","crewAssigned":true,"id":"780943","nbrOut":3,"planned":false,"timeOff":1794947734829},"type":"Feature"}
 ]}

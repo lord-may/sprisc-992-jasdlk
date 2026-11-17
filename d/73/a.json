@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.457035,35.060397],"type":"Point"},"properties":{"cause":"Scheduled","code":"135","crewAssigned":true,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-17T15:00:00-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T14:36:31.38-06:00","outageName":"XFMR2264 - D204","outagePoint":{"lat":35.06039671722707,"lng":-92.45703514323006},"outageRecID":"2026-11-17-0118","outageStartTime":"2026-11-17T14:33:26-06:00","outageWorkStatus":"Repair in Progress","streetsAffected":["S DONAGHEY AVE APT 45","S DONAGHEY AVE APT 46","S DONAGHEY AVE APT 47","S DONAGHEY AVE APT 48"],"verified":true},"type":"Feature"}
+
 ]}
