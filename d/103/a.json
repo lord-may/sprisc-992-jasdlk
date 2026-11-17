@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.941121,29.854309],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T09:15:05.553-06:00","outageName":"","outagePoint":{"lat":29.854309253522196,"lng":-97.94112128162061},"outageRecID":"2026-11-17-0081","outageStartTime":"2026-11-17T08:55:58-06:00","outageWorkStatus":"","streetsAffected":["MOCKINGBIRD DR"],"verified":true},"type":"Feature"}
+
 ]}
