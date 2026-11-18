@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-105.682513,35.6419],"type":"Point"},"properties":{"incident":{"affected_count":1,"etr":"","incident_category":"Power Outage","incident_department":"Power","polygon_coords":[],"sk_id":"incident-power-poweroutage-323821ef-2b69-4bcc-a339-23310dc558f1","start_time":1794973768,"status":"New","title":"Resident Reported Power Outage"},"map":{"center":{"lat":35.64189981,"lng":-105.682513},"radius":200,"type":"circle"}},"type":"Feature"}
 ]}
