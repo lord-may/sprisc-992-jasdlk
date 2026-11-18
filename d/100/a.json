@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.966904,30.522413],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-18T16:34:19.53-06:00","outageName":"T89001","outagePoint":{"lat":30.522413407027855,"lng":-92.966904136415},"outageRecID":"2026-11-18-0598","outageStartTime":"2026-11-18T16:33:08-06:00","outageWorkStatus":"","streetsAffected":["WALKER RD SHOP"],"verified":false},"type":"Feature"}
 ]}

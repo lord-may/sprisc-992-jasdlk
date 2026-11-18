@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-96.281953,35.367333],[-96.27005,35.376533],[-96.276644,35.380056],[-96.283139,35.381602],[-96.281953,35.367333]]],"type":"Polygon"},{"coordinates":[-96.278261,35.375435],"type":"Point"}],"type":"GeometryCollection"},"properties":{"crewAssigned":true,"id":"377126","nbrOut":13,"planned":false,"timeOff":1795041213553},"type":"Feature"}
 ]}
