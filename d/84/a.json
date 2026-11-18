@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-90.03724,29.96347],"type":"Point"},"properties":{"cause":"Other - Scheduled Interruption/Customer Notified","description":"Reliability maintenance and upgrades are underway in your area. We apologize for the inconvenience as we work to improve our electrical service to you.","etrTime":1795032000000,"id":402596,"identifier":"2322348251","lastUpdatedTime":1795008736000,"latitude":29.96347,"longitude":-90.03724,"numPeople":7,"startTime":1795008512000,"status":"First Responder has arrived","title":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-90.06583,29.96943],"type":"Point"},"properties":{"cause":"Investigating","description":"An outage has been reported in your area. Additional information will be provided when available. We apologize for this inconvenience.","etrTime":1795021200000,"id":402613,"identifier":"2322348375","lastUpdatedTime":1795009216000,"latitude":29.96943,"longitude":-90.06583,"numPeople":1,"startTime":1795008761000,"status":"Outage Reported","title":"Outage"},"type":"Feature"}
 ]}
