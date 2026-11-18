@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.202709,34.764125],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-17T23:01:11-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T19:07:45.917-06:00","outageName":"","outagePoint":{"lat":34.7641254810321,"lng":-92.20270857158204},"outageRecID":"2026-11-17-0130","outageStartTime":"2026-11-17T19:01:11-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["PARKDALE ST"],"verified":false},"type":"Feature"}
 ]}
