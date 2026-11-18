@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.042313,34.099374],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-18T15:51:22-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-18T11:51:22.027-06:00","outageName":"","outagePoint":{"lat":34.09937425727227,"lng":-92.04231265208169},"outageRecID":"2026-11-18-0245","outageStartTime":"2026-11-18T11:51:17-06:00","outageWorkStatus":"","streetsAffected":["CONIFER TRAIL"],"verified":false},"type":"Feature"}
+
 ]}
