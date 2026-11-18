@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.114963,35.465784],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-18T02:10:20.347-08:00","outageName":"2026-11-18-0576","outagePoint":{"lat":35.46578414994974,"lng":-92.11496332096662},"outageRecID":"2026-11-18-0576","outageStartTime":"2026-11-18T02:05:00-08:00","outageWorkStatus":"","streetsAffected":["OAK LN"],"verified":false},"type":"Feature"}
+
 ]}
