@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-99.093409,36.122766],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"","AssignedTo":"","CaseNumber":"261118-X0001","CaseStatus":"Calls Bundle","Cause":"","CutomersAffected":1,"ElementName":"","EndTime":"/Date(-62135575200000)/","OutageTime":"11/18/2026 8:22:00 AM","PoleNumber":"78236","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-99.0934085652437,"Y":36.12276635549799,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
