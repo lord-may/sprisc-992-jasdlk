@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.852082,34.599211],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-17T17:30:23.923-06:00","outageName":"18-16-8-23-Q","outagePoint":{"lat":34.59921063582719,"lng":-97.85208247274605},"outageRecID":"2026-11-17-0079","outageStartTime":"2026-11-17T17:30:11-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
