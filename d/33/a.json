@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.764564,35.914681],"type":"Point"},"properties":{"crewAssigned":false,"id":"380861","nbrOut":41,"planned":false,"timeOff":1795009030254},"type":"Feature"},
-{"geometry":{"coordinates":[-92.600127,35.975066],"type":"Point"},"properties":{"comment":"PER GH: STRUCTURE FIRE AT 415am","crewAssigned":false,"id":"380862","nbrOut":1,"planned":false,"timeOff":1795010812000},"type":"Feature"}
+
 ]}
