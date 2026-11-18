@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.056824,33.660935],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":13,"customersOutNow":13,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-18T20:43:12.153-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-18T16:47:05.74-06:00","outageName":"","outagePoint":{"lat":33.660935429153085,"lng":-92.05682394417562},"outageRecID":"2026-11-18-0246","outageStartTime":"2026-11-18T16:43:09-06:00","outageWorkStatus":"","streetsAffected":["A BRADLEY 21 RD.","BRADLEY 21","BRADLEY 21 RD","BRADLEY 21 RD."],"verified":false},"type":"Feature"}
+
 ]}
