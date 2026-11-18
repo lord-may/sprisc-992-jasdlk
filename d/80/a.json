@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[[[-98.099899,36.59134],[-98.10849,36.591477],[-98.104529,36.998671],[-98.347144,36.999062],[-98.54022,36.998376],[-98.528838,36.464019],[-98.101852,36.468451],[-98.099899,36.59134]]],"type":"Polygon"},"properties":{"coops":{"Alfalfa Electric Cooperative, Inc.":2},"county":"Alfalfa County (OK)","id":"40003","out":2},"type":"Feature"}
 ]}
