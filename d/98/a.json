@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.88894,33.168133],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-18T19:42:35-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-18T16:43:01.33-06:00","outageName":"FDR705","outagePoint":{"lat":33.16813285763699,"lng":-95.88894024576622},"outageRecID":"2026-11-18-3206","outageStartTime":"2026-11-18T16:42:35-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
