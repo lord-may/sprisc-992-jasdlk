@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.498914,35.660305],"type":"Point"},"properties":{"comment":"CREW ARRIVED ONSITE","crewAssigned":true,"id":"380865","nbrOut":9,"planned":false,"timeOff":1795016186923},"type":"Feature"}
+{"geometry":{"coordinates":[-92.498914,35.660305],"type":"Point"},"properties":{"comment":"POWER RESTORED - SQUIRREL","crewAssigned":true,"id":"380865","nbrOut":9,"planned":false,"timeOff":1795016186923},"type":"Feature"}
 ]}
