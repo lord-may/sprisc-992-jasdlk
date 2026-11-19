@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.701655,32.385397],"type":"Point"},"properties":{"cause":"Change Cause Code","id":"730917","nbrOut":2},"type":"Feature"},
-{"geometry":{"coordinates":[-94.358202,32.197967],"type":"Point"},"properties":{"cause":"Change Cause Code","id":"730919","nbrOut":1},"type":"Feature"}
+
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.668576,30.630583],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-19T14:58:15-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T12:58:54.59-06:00","outageName":"T6888","outagePoint":{"lat":30.630582606550817,"lng":-97.66857594859971},"outageRecID":"2026-11-19-0107","outageStartTime":"2026-11-19T12:58:15-06:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
