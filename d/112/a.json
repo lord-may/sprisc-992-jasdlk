@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.734707,34.571305],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"TonyL","CaseNumber":"261119-P0002","CaseStatus":"Predicted","Cause":"","CutomersAffected":26,"ElementName":"FUS-53745","EndTime":"/Date(-62135571600000)/","OutageTime":"11/19/2026 9:52:00 AM","PoleNumber":"53745","RestorationTime":null,"StartTime":"/Date(-62135571600000)/","X":-106.73470716666989,"Y":34.571304633819686,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}

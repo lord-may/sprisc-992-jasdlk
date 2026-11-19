@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.482239,35.109482],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T12:49:46.097-06:00","outageName":"31967 - T202","outagePoint":{"lat":35.109482300565105,"lng":-92.48223911438036},"outageRecID":"2026-11-19-0139","outageStartTime":"2026-11-19T12:48:24-06:00","outageWorkStatus":"","streetsAffected":["IRBY DR APT 1912"],"verified":true},"type":"Feature"}
+
 ]}
