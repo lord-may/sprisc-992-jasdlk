@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.211947,30.340601],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-18T21:35:46.417-06:00","outageName":"T42751","outagePoint":{"lat":30.340601174556312,"lng":-93.21194708851598},"outageRecID":"2026-11-18-0600","outageStartTime":"2026-11-18T21:35:02-06:00","outageWorkStatus":"","streetsAffected":["JONQUIL LN","JONQUIL LN HOUSE"],"verified":false},"type":"Feature"}
 ]}
