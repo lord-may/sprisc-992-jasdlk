@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.400439,33.600484],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"CaseNumber":"261119-P0002","CaseStatus":"Predicted","Cause":"","CutomersAffected":3,"ElementName":"FUS-1922264901","EndTime":"/Date(-62135575200000)/","OutageTime":"11/19/2026 2:47:00 PM","PoleNumber":"1922264901","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-92.40043863392856,"Y":33.60048378176747,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
