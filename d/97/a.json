@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.140945,29.363043],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":18,"customersOutNow":18,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-19T14:25:31.463-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T12:28:05.797-06:00","outageName":"SEC62580882001","outagePoint":{"lat":29.36304343311469,"lng":-98.14094489044652},"outageRecID":"2026-11-19-0997","outageStartTime":"2026-11-19T12:21:34-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}

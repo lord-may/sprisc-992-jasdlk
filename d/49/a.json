@@ -5,5 +5,11 @@
 {"geometry":{"coordinates":[-99.638005,32.919833],"type":"Point"},"properties":{"crewAssigned":false,"id":"183901","nbrOut":1,"planned":false,"timeOff":1795111532067},"type":"Feature"},
 {"geometry":{"coordinates":[-99.640485,32.898558],"type":"Point"},"properties":{"crewAssigned":false,"id":"183902","nbrOut":1,"planned":false,"timeOff":1795111700500},"type":"Feature"},
 {"geometry":{"coordinates":[-99.603842,33.050975],"type":"Point"},"properties":{"crewAssigned":false,"id":"183903","nbrOut":1,"planned":false,"timeOff":1795111749320},"type":"Feature"},
-{"geometry":{"coordinates":[-99.568458,32.869205],"type":"Point"},"properties":{"crewAssigned":false,"id":"183906","nbrOut":1,"planned":false,"timeOff":1795111859900},"type":"Feature"}
+{"geometry":{"coordinates":[-99.568458,32.869205],"type":"Point"},"properties":{"crewAssigned":false,"id":"183906","nbrOut":1,"planned":false,"timeOff":1795111859900},"type":"Feature"},
+{"geometry":{"coordinates":[-99.607633,33.043739],"type":"Point"},"properties":{"crewAssigned":false,"id":"183907","nbrOut":1,"planned":false,"timeOff":1795111946973},"type":"Feature"},
+{"geometry":{"coordinates":[-99.63372,32.880492],"type":"Point"},"properties":{"crewAssigned":false,"id":"183909","nbrOut":1,"planned":false,"timeOff":1795111923657},"type":"Feature"},
+{"geometry":{"coordinates":[-99.683981,32.961456],"type":"Point"},"properties":{"crewAssigned":false,"id":"183911","nbrOut":1,"planned":false,"timeOff":1795112051884},"type":"Feature"},
+{"geometry":{"coordinates":[-99.608145,33.042639],"type":"Point"},"properties":{"crewAssigned":false,"id":"183912","nbrOut":1,"planned":false,"timeOff":1795112036827},"type":"Feature"},
+{"geometry":{"coordinates":[-99.628285,32.823463],"type":"Point"},"properties":{"crewAssigned":false,"id":"183914","nbrOut":1,"planned":false,"timeOff":1795112288457},"type":"Feature"},
+{"geometry":{"coordinates":[-99.625105,33.011255],"type":"Point"},"properties":{"crewAssigned":false,"id":"183916","nbrOut":1,"planned":false,"timeOff":1795112363323},"type":"Feature"}
 ]}
