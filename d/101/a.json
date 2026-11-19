@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.283239,34.800792],"type":"Point"},"properties":{"cause":"Maintenance","code":"110","crewAssigned":true,"customersOutInitially":8,"customersOutNow":8,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-19T13:24:27.83-06:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-19T09:27:06.087-06:00","outageName":"","outagePoint":{"lat":34.80079161176841,"lng":-92.28323929799814},"outageRecID":"2026-11-19-0150","outageStartTime":"2026-11-19T09:17:12-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["AUGUSTA CIR #A","AUGUSTA CIR #B","AUGUSTA CIR #C","AUGUSTA CIR #D","AUGUSTA CIR #E","AUGUSTA CIR #F","AUGUSTA CIR #G","AUGUSTA CIR #H"],"verified":true},"type":"Feature"}
+
 ]}
