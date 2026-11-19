@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.269712,34.065093],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":21,"customersOutNow":21,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-19T19:30:50.757-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T15:39:27.337-06:00","outageName":"","outagePoint":{"lat":34.06509342163879,"lng":-92.26971175685884},"outageRecID":"2026-11-19-0255","outageStartTime":"2026-11-19T15:30:47-06:00","outageWorkStatus":"","streetsAffected":["BLACK CEMETERY RD.","FORESTRY RD 9246","GRANT 25","GRANT 25 RD","GRANT 25 RD.","HIGHWAY 35 N","HIGHWAY 35 N.","HIGHWAY 35 S","MOORES CHURCH RD","ST. HWY 35"],"verified":false},"type":"Feature"}
 ]}
