@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.24766,30.736278],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"418222","nbrOut":1,"planned":true,"timeOff":1795120329000},"type":"Feature"}
+{"geometry":{"coordinates":[-99.24766,30.736278],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"418222","nbrOut":1,"planned":true,"timeOff":1795120329000},"type":"Feature"},
+{"geometry":{"coordinates":[-99.244507,30.0839],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"418223","nbrOut":1,"planned":false,"timeOff":1795127160899},"type":"Feature"}
 ]}
