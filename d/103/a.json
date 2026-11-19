@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.937774,29.895003],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T11:07:58.87-06:00","outageName":"","outagePoint":{"lat":29.895002828940033,"lng":-97.93777448775937},"outageRecID":"2026-11-19-0088","outageStartTime":"2026-11-19T11:01:46-06:00","outageWorkStatus":"","streetsAffected":["PEQUES ST 1902"],"verified":false},"type":"Feature"}
 ]}
