@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.404151,35.085475],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":8,"customersOutNow":8,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T08:42:02.253-06:00","outageName":"FUS84299 - M101","outagePoint":{"lat":35.085475188850054,"lng":-92.40415104643395},"outageRecID":"2026-11-19-0135","outageStartTime":"2026-11-19T08:37:52-06:00","outageWorkStatus":"","streetsAffected":["HUMMINGBIRD LN","MILAM DR"],"verified":true},"type":"Feature"}
 ]}
