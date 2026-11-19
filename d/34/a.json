@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-105.740557,32.95982],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"488452","nbrOut":1,"planned":false,"timeOff":1795129725311},"type":"Feature"},
-{"geometry":{"coordinates":[-105.741842,32.959798],"type":"Point"},"properties":{"cause":"Cause unknown              ","id":"488453","nbrOut":1,"planned":false,"timeOff":1795129945000},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-105.740665,32.959677],[-105.740557,32.95982],[-105.740701,32.959956],[-105.742067,32.960461],[-105.742336,32.96034],[-105.741941,32.95973],[-105.740665,32.959677]]],"type":"Polygon"},{"coordinates":[-105.741519,32.960001],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"OCEC Maintenance (scheduled)","estimateTime":1795129200000,"id":"488434","nbrOut":9,"planned":true,"timeOff":1795100400000},"type":"Feature"}
 ]}

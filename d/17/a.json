@@ -1,4 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-99.24766,30.736278],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"418222","nbrOut":1,"planned":true,"timeOff":1795120329000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.713594,30.420558],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"418224","nbrOut":1,"planned":false,"timeOff":1795129860000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.713594,30.420558],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"418224","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1795129860000},"type":"Feature"},
+{"geometry":{"coordinates":[-98.733581,30.411533],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"418225","nbrOut":1,"planned":false,"timeOff":1795129740000},"type":"Feature"}
 ]}
