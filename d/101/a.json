@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.236559,34.827964],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-19T17:18:44-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-19T13:24:58.187-06:00","outageName":"","outagePoint":{"lat":34.82796397816,"lng":-92.23655922741467},"outageRecID":"2026-11-19-0153","outageStartTime":"2026-11-19T13:18:44-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["HOLLYRIDGE CV"],"verified":false},"type":"Feature"}
+
 ]}
