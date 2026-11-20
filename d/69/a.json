@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.293441,34.593055],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-20T18:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T15:00:43.483-08:00","outageName":"2026-11-20-0655","outagePoint":{"lat":34.59305464710528,"lng":-92.29344124379578},"outageRecID":"2026-11-20-0655","outageStartTime":"2026-11-20T14:53:53-08:00","outageWorkStatus":"","streetsAffected":["IRONTON RD"],"verified":true},"type":"Feature"}
+
 ]}
