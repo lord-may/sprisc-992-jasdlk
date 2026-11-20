@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.27344,34.808055],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-20T17:42:52-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T13:49:55.137-06:00","outageName":"","outagePoint":{"lat":34.80805545755322,"lng":-92.27343960293177},"outageRecID":"2026-11-20-0170","outageStartTime":"2026-11-20T13:42:52-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["W 58TH ST"],"verified":false},"type":"Feature"}
+
 ]}
