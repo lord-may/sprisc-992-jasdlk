@@ -70,5 +70,11 @@
 {"geometry":{"coordinates":[-97.564011,30.812179],"type":"Point"},"properties":{"crewAssigned":false,"id":"389899","nbrOut":1,"planned":false,"timeOff":1795136289382},"type":"Feature"},
 {"geometry":{"coordinates":[-97.536675,30.887041],"type":"Point"},"properties":{"crewAssigned":false,"id":"389900","nbrOut":1,"planned":false,"timeOff":1795136298585},"type":"Feature"},
 {"geometry":{"coordinates":[-97.548686,30.874991],"type":"Point"},"properties":{"crewAssigned":false,"id":"389901","nbrOut":1,"planned":false,"timeOff":1795136971321},"type":"Feature"},
-{"geometry":{"coordinates":[-97.56667,30.812395],"type":"Point"},"properties":{"crewAssigned":false,"id":"389902","nbrOut":4,"planned":false,"timeOff":1795135327617},"type":"Feature"}
+{"geometry":{"coordinates":[-97.56667,30.812395],"type":"Point"},"properties":{"crewAssigned":false,"id":"389902","nbrOut":4,"planned":false,"timeOff":1795135327617},"type":"Feature"},
+{"geometry":{"coordinates":[-97.571584,30.807234],"type":"Point"},"properties":{"crewAssigned":false,"id":"389904","nbrOut":1,"planned":false,"timeOff":1795137118411},"type":"Feature"},
+{"geometry":{"coordinates":[-97.561873,30.80941],"type":"Point"},"properties":{"crewAssigned":false,"id":"389905","nbrOut":1,"planned":false,"timeOff":1795137132480},"type":"Feature"},
+{"geometry":{"coordinates":[-97.549674,30.874737],"type":"Point"},"properties":{"crewAssigned":false,"id":"389906","nbrOut":1,"planned":false,"timeOff":1795137144430},"type":"Feature"},
+{"geometry":{"coordinates":[-97.549656,30.880527],"type":"Point"},"properties":{"crewAssigned":false,"id":"389907","nbrOut":1,"planned":false,"timeOff":1795137253127},"type":"Feature"},
+{"geometry":{"coordinates":[-97.563786,30.810521],"type":"Point"},"properties":{"crewAssigned":false,"id":"389908","nbrOut":1,"planned":false,"timeOff":1795137273050},"type":"Feature"},
+{"geometry":{"coordinates":[-97.565655,30.813136],"type":"Point"},"properties":{"crewAssigned":false,"id":"389909","nbrOut":1,"planned":false,"timeOff":1795137387867},"type":"Feature"}
 ]}
