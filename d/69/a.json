@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.507889,34.684397],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-20T10:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T07:26:37.143-08:00","outageName":"2026-11-20-0646","outagePoint":{"lat":34.68439689312289,"lng":-92.50788913167109},"outageRecID":"2026-11-20-0646","outageStartTime":"2026-11-20T07:18:22-08:00","outageWorkStatus":"","streetsAffected":["GREEN MOUNTAIN RD"],"verified":true},"type":"Feature"}
+
 ]}
