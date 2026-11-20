@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.79071,30.842824],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":12,"customersOutNow":12,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T07:10:34.453-06:00","outageName":"D75303","outagePoint":{"lat":30.842823892571886,"lng":-92.7907104732282},"outageRecID":"2026-11-20-0633","outageStartTime":"2026-11-20T07:00:21-06:00","outageWorkStatus":"","streetsAffected":["BAY CITY RD","BAY CITY RD - ELIZABETH","BAY CITY RD ELIZ","BAY CITY RD HSE","BAY CITY RD TRA"],"verified":false},"type":"Feature"}
+
 ]}
