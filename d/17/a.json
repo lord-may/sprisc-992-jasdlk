@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.404421,30.599453],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"418354","nbrOut":1,"planned":true,"timeOff":1795211875969},"type":"Feature"}
+{"geometry":{"coordinates":[-98.404421,30.599453],"type":"Point"},"properties":{"cause":"Fire","id":"418354","nbrOut":1,"planned":true,"timeOff":1795211875969},"type":"Feature"}
 ]}
