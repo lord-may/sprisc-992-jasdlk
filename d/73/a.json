@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.39944,35.109318],"type":"Point"},"properties":{"cause":"Scheduled","code":"135","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T09:14:01.717-06:00","outageName":"66995 - M101","outagePoint":{"lat":35.10931800527367,"lng":-92.39944025292291},"outageRecID":"2026-11-20-0143","outageStartTime":"2026-11-20T09:12:11-06:00","outageWorkStatus":"","streetsAffected":["MILLER'S CREEK DR"],"verified":true},"type":"Feature"}
+
 ]}
