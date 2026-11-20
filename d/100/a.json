@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.841913,30.919567],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T11:53:03.803-06:00","outageName":"D76328","outagePoint":{"lat":30.919567436210794,"lng":-92.84191268673092},"outageRecID":"2026-11-20-0643","outageStartTime":"2026-11-20T11:51:01-06:00","outageWorkStatus":"","streetsAffected":["COKER RD","COKER RD HSE","M WEST RD"],"verified":false},"type":"Feature"}
 ]}
