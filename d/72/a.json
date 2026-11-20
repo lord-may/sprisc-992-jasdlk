@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.108939,33.832407],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":8,"customersOutNow":8,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-20T17:51:42.217-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T14:02:40.69-06:00","outageName":"","outagePoint":{"lat":33.83240707640694,"lng":-92.10893901491843},"outageRecID":"2026-11-20-0262","outageStartTime":"2026-11-20T13:51:39-06:00","outageWorkStatus":"Crew in Route","streetsAffected":["HERRINGTON RD","LEE RD","LEE RD.","TIMBER LANE DR"],"verified":false},"type":"Feature"}
+
 ]}

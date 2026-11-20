@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.237783,32.908503],"type":"Point"},"properties":{"cause":"100 Construction","code":"100","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-20T16:42:09.947-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T14:39:01.587-06:00","outageName":"FDR3701","outagePoint":{"lat":32.9085026366251,"lng":-96.23778346031305},"outageRecID":"2026-11-20-3299","outageStartTime":"2026-11-20T13:39:24-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
