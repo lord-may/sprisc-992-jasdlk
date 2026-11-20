@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.501065,33.950801],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"BURKHALTER, LEITH","CaseNumber":"261120-P0001","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T-242306228086","EndTime":"/Date(-62135575200000)/","OutageTime":"11/20/2026 2:11:00 AM","PoleNumber":"242306228086","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-96.50106463703078,"Y":33.950800836317214,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
