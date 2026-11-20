@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.110986,30.406864],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T10:50:48.757-06:00","outageName":"T39753","outagePoint":{"lat":30.406863916192226,"lng":-93.11098579527224},"outageRecID":"2026-11-20-0642","outageStartTime":"2026-11-20T10:50:02-06:00","outageWorkStatus":"","streetsAffected":["DUKE RD"],"verified":false},"type":"Feature"}
+
 ]}

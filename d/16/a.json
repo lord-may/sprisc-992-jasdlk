@@ -1,5 +1,6 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-94.765516,30.176154],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1795190400000,"id":"625170","nbrOut":2,"planned":false,"timeOff":1795182729179},"type":"Feature"},
 {"geometry":{"coordinates":[-94.555831,30.950405],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1795193100000,"id":"625173","nbrOut":1,"planned":false,"timeOff":1795185823015},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-95.164215,30.83361],[-95.164063,30.833787],[-95.164763,30.833957],[-95.164215,30.83361]]],"type":"Polygon"},{"coordinates":[-95.16435,30.833779],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Vehicle hit pole. Crew on site","estimateTime":1795198500000,"id":"625188","nbrOut":3,"planned":false,"timeOff":1795190893221},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-95.164215,30.83361],[-95.164063,30.833787],[-95.164763,30.833957],[-95.164215,30.83361]]],"type":"Polygon"},{"coordinates":[-95.16435,30.833779],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Vehicle hit pole. Crew on site","estimateTime":1795198500000,"id":"625188","nbrOut":3,"planned":false,"timeOff":1795190893221},"type":"Feature"},
+{"geometry":{"coordinates":[-95.143428,30.84268],"type":"Point"},"properties":{"estimateTime":1795203000000,"id":"625189","nbrOut":1,"planned":false,"timeOff":1795195700274},"type":"Feature"}
 ]}
