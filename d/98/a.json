@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.468526,32.971058],"type":"Point"},"properties":{"cause":"110 Maintenance","code":"110","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-20T12:38:10.673-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-20T09:39:37.103-06:00","outageName":"FDR903","outagePoint":{"lat":32.971057741524724,"lng":-95.4685263234961},"outageRecID":"2026-11-20-3268","outageStartTime":"2026-11-20T09:36:10-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
