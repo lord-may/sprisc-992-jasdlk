@@ -4,5 +4,5 @@
 {"geometry":{"coordinates":[-99.248118,30.406117],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"418240","nbrOut":1,"planned":true,"timeOff":1795180181014},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-98.815463,30.181194],[-98.814475,30.181225],[-98.809669,30.184215],[-98.815768,30.18364],[-98.815463,30.181194]]],"type":"Polygon"},{"coordinates":[-98.813567,30.182887],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"418242","lifeCycleStatus":"Crew Enroute","nbrOut":7,"planned":false,"timeOff":1795183548000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.420087,30.6825],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418243","nbrOut":1,"planned":true,"timeOff":1795183584000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.237734,30.217949],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"418244","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1795183961472},"type":"Feature"}
+{"geometry":{"coordinates":[-99.237734,30.217949],"type":"Point"},"properties":{"cause":"Fire","id":"418244","lifeCycleStatus":"Issue Identified","nbrOut":1,"planned":false,"timeOff":1795183961472},"type":"Feature"}
 ]}
