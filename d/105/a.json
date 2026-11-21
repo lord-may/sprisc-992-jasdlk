@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.775892,32.327185],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-21T06:50:43.73-06:00","outageName":"XFMR5870443590","outagePoint":{"lat":32.32718516649443,"lng":-99.77589150014524},"outageRecID":"2026-11-21-0098","outageStartTime":"2026-11-21T06:18:00-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["CR 337"],"verified":true},"type":"Feature"}
+
 ]}
