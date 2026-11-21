@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.396538,30.62269],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":11,"customersOutNow":11,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-21T10:37:34-06:00","outageName":"LS11472","outagePoint":{"lat":30.622690446925844,"lng":-96.39653766631145},"outageRecID":"2026-11-21-1670","outageStartTime":"2026-11-21T10:28:33-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-96.39352,30.624864],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":44,"customersOutNow":44,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-21T10:32:42.237-06:00","outageName":"RS17561","outagePoint":{"lat":30.62486420927702,"lng":-96.39352031635627},"outageRecID":"2026-11-21-1671","outageStartTime":"2026-11-21T10:29:02-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
