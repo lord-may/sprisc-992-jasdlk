@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.908515,29.895016],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-21T13:56:07.763-06:00","outageName":"","outagePoint":{"lat":29.895016295954225,"lng":-97.90851521146686},"outageRecID":"2026-11-21-0096","outageStartTime":"2026-11-21T13:50:56-06:00","outageWorkStatus":"","streetsAffected":["N IH 35 237"],"verified":false},"type":"Feature"}
+
 ]}
