@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.464662,35.631369],"type":"Point"},"properties":{"consumers_affected":"1","estimated_restore_time":null,"feeder":"3822","formatted_ert":null,"incident_id":"C256958","lat":"35.631369349552536","lon":"-97.46466167344178","opt_code":null,"start_date":"11/20 07:29 pm","substation":"3"},"type":"Feature"}
 ]}
