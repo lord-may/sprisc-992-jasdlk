@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.404421,30.599453],"type":"Point"},"properties":{"cause":"Fire","id":"418354","nbrOut":1,"planned":true,"timeOff":1795211875969},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-98.871275,30.295031],[-98.871275,30.295504],[-98.877339,30.296373],[-98.873189,30.295179],[-98.871275,30.295031]]],"type":"Polygon"},{"coordinates":[-98.87353,30.295597],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.\n","id":"418357","lifeCycleStatus":"Crew Enroute","nbrOut":19,"planned":false,"timeOff":1795245540000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.404421,30.599453],"type":"Point"},"properties":{"cause":"Fire","id":"418354","nbrOut":1,"planned":true,"timeOff":1795211875969},"type":"Feature"}
 ]}
