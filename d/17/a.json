@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.404421,30.599453],"type":"Point"},"properties":{"cause":"Fire","id":"418354","nbrOut":1,"planned":true,"timeOff":1795211875969},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-99.182901,30.612489],[-99.165887,30.656708],[-99.15685,30.683056],[-99.160003,30.688997],[-99.179415,30.683527],[-99.209796,30.626976],[-99.210416,30.617096],[-99.182901,30.612489]]],"type":"Polygon"},{"coordinates":[-99.183269,30.648517],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause to be determined","comment":"We have an outage in your area in order to make emergency repairs due to power line across simionsville road.  Crews are on site and are working to restore power as quickly and safely as possible.  We estimate that repairs will take at least 2 hours.","id":"418396","lifeCycleStatus":"Crew On-Site","nbrOut":54,"planned":false,"timeOff":1795270905996},"type":"Feature"}
+{"geometry":{"coordinates":[-98.404421,30.599453],"type":"Point"},"properties":{"cause":"Fire","id":"418354","nbrOut":1,"planned":true,"timeOff":1795211875969},"type":"Feature"}
 ]}
