@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.280045,30.701945],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":7,"customersOutNow":7,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-21T16:32:39.807-06:00","outageName":"LS8117","outagePoint":{"lat":30.70194513405553,"lng":-96.28004508752852},"outageRecID":"2026-11-21-1694","outageStartTime":"2026-11-21T16:27:47-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
