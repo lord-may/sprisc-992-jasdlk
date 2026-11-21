@@ -1,3 +1,5 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.404421,30.599453],"type":"Point"},"properties":{"cause":"Fire","id":"418354","nbrOut":1,"planned":true,"timeOff":1795211875969},"type":"Feature"}
+{"geometry":{"coordinates":[-98.404421,30.599453],"type":"Point"},"properties":{"cause":"Fire","id":"418354","nbrOut":1,"planned":true,"timeOff":1795211875969},"type":"Feature"},
+{"geometry":{"coordinates":[-99.195693,30.642805],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"418389","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1795270905996},"type":"Feature"},
+{"geometry":{"coordinates":[-99.198828,30.103074],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"418390","nbrOut":1,"planned":false,"timeOff":1795270980000},"type":"Feature"}
 ]}
