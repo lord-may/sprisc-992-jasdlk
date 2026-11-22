@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.269151,34.761149],"type":"Point"},"properties":{"cause":"Maintenance, other","code":"490","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-22T13:57:39-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-22T10:05:33.58-06:00","outageName":"","outagePoint":{"lat":34.76114900898759,"lng":-92.26915087887582},"outageRecID":"2026-11-22-0183","outageStartTime":"2026-11-22T09:57:39-06:00","outageWorkStatus":"Repair in Progress","statusMessage":null,"streetsAffected":["W 8TH ST"],"verified":true},"type":"Feature"}
 ]}
