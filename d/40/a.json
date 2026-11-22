@@ -8,6 +8,5 @@
 {"geometry":{"coordinates":[-104.053728,32.959956],"type":"Point"},"properties":{"crewAssigned":false,"id":"302604","nbrOut":1,"planned":false,"timeOff":1795332292000},"type":"Feature"},
 {"geometry":{"coordinates":[-104.032959,32.965368],"type":"Point"},"properties":{"crewAssigned":false,"id":"302605","nbrOut":1,"planned":false,"timeOff":1795332447000},"type":"Feature"},
 {"geometry":{"coordinates":[-104.293542,32.749641],"type":"Point"},"properties":{"crewAssigned":false,"id":"302606","nbrOut":1,"planned":false,"timeOff":1795338070000},"type":"Feature"},
-{"geometry":{"coordinates":[-104.73969,32.769751],"type":"Point"},"properties":{"crewAssigned":false,"id":"302619","nbrOut":67,"planned":false,"timeOff":1795342877000},"type":"Feature"},
 {"geometry":{"coordinates":[-104.054141,32.956881],"type":"Point"},"properties":{"crewAssigned":false,"id":"302620","nbrOut":1,"planned":false,"timeOff":1795356537000},"type":"Feature"}
 ]}
