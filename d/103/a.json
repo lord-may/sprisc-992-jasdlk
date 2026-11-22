@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.941774,29.861349],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":4,"customersOutNow":4,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-21T20:00:14.25-06:00","outageName":"","outagePoint":{"lat":29.8613488048821,"lng":-97.94177391496854},"outageRecID":"2026-11-21-0097","outageStartTime":"2026-11-21T19:54:03-06:00","outageWorkStatus":"","streetsAffected":["BROADWAY ST","MAGNOLIA DR"],"verified":false},"type":"Feature"}
+
 ]}
