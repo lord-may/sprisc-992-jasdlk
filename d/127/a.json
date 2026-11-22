@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.255026,34.392594],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-22T04:39:05.127-06:00","outageName":"32-40-2-18-E","outagePoint":{"lat":34.39259440145028,"lng":-98.25502554784761},"outageRecID":"2026-11-22-0105","outageStartTime":"2026-11-22T04:37:00-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
