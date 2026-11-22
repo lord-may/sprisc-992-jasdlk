@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-107.981253,36.71083],"type":"Point"},"properties":{"cause":"420 Tree growth","code":"420","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-21T15:51:52.12-08:00","outageName":"99116","outagePoint":{"lat":36.71082967730546,"lng":-107.98125262799933},"outageRecID":"2026-11-21-0182","outageStartTime":"2026-11-21T12:30:48-08:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
