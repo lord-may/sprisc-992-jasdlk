@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.091558,35.611652],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":25,"customersOutNow":25,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-22T11:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-22T06:53:41.587-08:00","outageName":"2026-11-22-0678","outagePoint":{"lat":35.61165179177628,"lng":-92.09155768797558},"outageRecID":"2026-11-22-0678","outageStartTime":"2026-11-22T06:46:41-08:00","outageWorkStatus":"","streetsAffected":["CANYON RD","ROXIE LN"],"verified":true},"type":"Feature"}
+
 ]}
