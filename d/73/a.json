@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.451339,35.094181],"type":"Point"},"properties":{"cause":"Unknown","code":"999","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-22T09:00:00-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-22T06:52:44.573-06:00","outageName":"49780 - T104","outagePoint":{"lat":35.09418078825909,"lng":-92.45133946016288},"outageRecID":"2026-11-22-0153","outageStartTime":"2026-11-22T06:47:55-06:00","outageWorkStatus":"","streetsAffected":["WEEMS ST"],"verified":true},"type":"Feature"}
+
 ]}
