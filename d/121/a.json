@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.005186,31.068902],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":57,"customersOutNow":57,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-22T14:12:11.66-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-22T11:08:36.993-06:00","outageName":"5-300P5","outagePoint":{"lat":31.068901887788382,"lng":-95.00518570044133},"outageRecID":"2026-11-22-0172","outageStartTime":"2026-11-22T10:12:04-06:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
