@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-95.162805,32.723179],[-95.162805,32.723867],[-95.163299,32.723882],[-95.163802,32.723897],[-95.163281,32.723194],[-95.162805,32.723179]]],"type":"Polygon"},{"coordinates":[-95.163191,32.72358],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"A service crew has been dispatched and will be on the way to locate the cause of the outage in your area. Thank you for your patience.","crewAssigned":true,"id":"651006","nbrOut":5,"planned":false,"timeOff":1795346309441},"type":"Feature"}
 ]}
