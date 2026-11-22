@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-96.820305,30.064162],[-96.819631,30.064427],[-96.813891,30.078832],[-96.801844,30.112921],[-96.804494,30.133068],[-96.835154,30.11958],[-96.829854,30.066759],[-96.827832,30.064746],[-96.820305,30.064162]]],"type":"Polygon"},{"coordinates":[-96.819415,30.100976],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Fayette Electric is aware of outage in the Ledbetter area.","crewAssigned":true,"id":"228561","nbrOut":74,"planned":false,"timeOff":1795369425714},"type":"Feature"}
 ]}

@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.983447,32.377212],"type":"Point"},"properties":{"comment":"A service crew has been dispatched and will be on the way to locate the cause of the outage in your area. Thank you for your patience.","crewAssigned":true,"id":"651014","nbrOut":2,"planned":false,"timeOff":1795366099140},"type":"Feature"}
+
 ]}
