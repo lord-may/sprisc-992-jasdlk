@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.430826,34.240413],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":40,"customersOutNow":40,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-22T19:25:34.743-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-22T15:26:44.32-06:00","outageName":"","outagePoint":{"lat":34.24041321534745,"lng":-92.43082633208144},"outageRecID":"2026-11-22-0285","outageStartTime":"2026-11-22T15:25:24-06:00","outageWorkStatus":"","streetsAffected":["GRANT 10","GRANT 167083","GRANT 7","GRANT 702","GRANT 8","GRANT 8 RD.","GRANT 803","GRANT 805","GRANT 9 RD.","HIGHWAY 46 S"],"verified":false},"type":"Feature"}
 ]}
