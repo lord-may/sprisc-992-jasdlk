@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.148852,30.41511],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-22T04:55:03.003-06:00","outageName":"T89079","outagePoint":{"lat":30.415109709162454,"lng":-93.14885169197458},"outageRecID":"2026-11-22-0660","outageStartTime":"2026-11-22T04:54:12-06:00","outageWorkStatus":"","streetsAffected":["BOB LONG RD"],"verified":false},"type":"Feature"}
 ]}
