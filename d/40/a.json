@@ -7,5 +7,5 @@
 {"geometry":{"coordinates":[-103.914848,32.62397],"type":"Point"},"properties":{"crewAssigned":true,"id":"302625","nbrOut":2,"planned":false,"timeOff":1795450534575},"type":"Feature"},
 {"geometry":{"coordinates":[-104.12191,32.701131],"type":"Point"},"properties":{"crewAssigned":true,"id":"302626","nbrOut":2,"planned":false,"timeOff":1795451264930},"type":"Feature"},
 {"geometry":{"coordinates":[-104.412353,32.886384],"type":"Point"},"properties":{"crewAssigned":true,"id":"302627","nbrOut":1,"planned":true,"timeOff":1795454273000},"type":"Feature"},
-{"geometry":{"coordinates":[-103.84787,32.724819],"type":"Point"},"properties":{"crewAssigned":false,"id":"302629","nbrOut":1,"planned":false,"timeOff":1795456335976},"type":"Feature"}
+{"geometry":{"coordinates":[-103.84787,32.724819],"type":"Point"},"properties":{"crewAssigned":true,"id":"302629","nbrOut":1,"planned":false,"timeOff":1795456335976},"type":"Feature"}
 ]}

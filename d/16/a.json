@@ -1,7 +1,7 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.875955,30.559276],"type":"Point"},"properties":{"comment":"Crew Assigned","estimateTime":1795454100000,"id":"625266","nbrOut":1,"planned":false,"timeOff":1795446540000},"type":"Feature"},
+{"geometry":{"coordinates":[-94.875955,30.559276],"type":"Point"},"properties":{"comment":"Crew Assigned","estimateTime":1795460400000,"id":"625266","nbrOut":1,"planned":false,"timeOff":1795446540000},"type":"Feature"},
 {"geometry":{"coordinates":[-95.372598,30.491172],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1795460400000,"id":"625284","nbrOut":1,"planned":false,"timeOff":1795452617000},"type":"Feature"},
 {"geometry":{"coordinates":[-94.76928,30.189239],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1795462200000,"id":"625286","nbrOut":2,"planned":false,"timeOff":1795454578747},"type":"Feature"},
-{"geometry":{"geometries":[{"coordinates":[[[-95.072731,30.614932],[-95.073027,30.615473],[-95.073243,30.615357],[-95.073234,30.615032],[-95.072731,30.614932]]],"type":"Polygon"},{"coordinates":[-95.073036,30.615179],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Construction crew on site.","estimateTime":1795462200000,"id":"625287","nbrOut":4,"planned":false,"timeOff":1795454641349},"type":"Feature"},
-{"geometry":{"coordinates":[-94.933124,30.172442],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1795463100000,"id":"625288","nbrOut":2,"planned":false,"timeOff":1795455681304},"type":"Feature"}
+{"geometry":{"coordinates":[-94.933124,30.172442],"type":"Point"},"properties":{"comment":"Construction crew on site.","estimateTime":1795463100000,"id":"625288","nbrOut":2,"planned":false,"timeOff":1795455681304},"type":"Feature"},
+{"geometry":{"coordinates":[-94.910325,30.723723],"type":"Point"},"properties":{"estimateTime":1795464900000,"id":"625289","nbrOut":1,"planned":false,"timeOff":1795457552063},"type":"Feature"}
 ]}
