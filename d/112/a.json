@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-108.512,34.334763],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"JamesL","CaseNumber":"261122-P0001","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T-14830","EndTime":"/Date(-62135571600000)/","OutageTime":"11/22/2026 5:51:00 PM","PoleNumber":"14830","RestorationTime":null,"StartTime":"/Date(-62135571600000)/","X":-108.51199994944035,"Y":34.33476344711016,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
 ]}
