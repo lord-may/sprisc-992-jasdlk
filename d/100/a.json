@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.274363,30.335101],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T14:21:20.053-06:00","outageName":"T10424","outagePoint":{"lat":30.335100903317702,"lng":-93.27436335155973},"outageRecID":"2026-11-23-0691","outageStartTime":"2026-11-23T14:20:46-06:00","outageWorkStatus":"","streetsAffected":["N PARK LANE","N PARK LN HOUSE","N PARK LN TRA"],"verified":false},"type":"Feature"}
 ]}
