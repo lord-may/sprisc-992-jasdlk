@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.235402,34.663159],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":44,"customersOutNow":44,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T01:47:54.473-06:00","outageName":"RC14391","outagePoint":{"lat":34.66315887042262,"lng":-98.23540154317428},"outageRecID":"2026-11-23-0107","outageStartTime":"2026-11-23T01:41:42-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
