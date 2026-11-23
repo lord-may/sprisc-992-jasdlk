@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.10529,29.92602],"type":"Point"},"properties":{"cause":"Other - Scheduled Interruption/Customer Notified","description":"Reliability maintenance and upgrades are underway in your area. We apologize for the inconvenience as we work to improve our electrical service to you.","etrTime":1795437000000,"id":408688,"identifier":"2327370672","lastUpdatedTime":1795425376000,"latitude":29.92602,"longitude":-90.10529,"numPeople":17,"startTime":1795425272000,"status":"First Responder has arrived","title":"Outage"},"type":"Feature"}
+
 ]}
