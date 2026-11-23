@@ -1,8 +1,6 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.913316,29.971337],"type":"Point"},"properties":{"crewAssigned":true,"id":"442519","nbrOut":2,"planned":false,"timeOff":1795444526356},"type":"Feature"},
-{"geometry":{"coordinates":[-98.944937,29.699566],"type":"Point"},"properties":{"comment":"We are aware of the outage at your location. A crew has been dispatched. Sorry for this inconvenience.","crewAssigned":false,"id":"442520","nbrOut":19,"planned":true,"timeOff":1795446308262},"type":"Feature"},
-{"geometry":{"coordinates":[-98.760782,29.886727],"type":"Point"},"properties":{"comment":"We are aware of the outage at your location. A crew has been dispatched. Sorry for this inconvenience.","crewAssigned":false,"id":"442603","nbrOut":726,"planned":false,"timeOff":1795446504447},"type":"Feature"},
-{"geometry":{"coordinates":[-98.760773,29.886759],"type":"Point"},"properties":{"comment":"We are aware of the outage at your location. A crew has been dispatched. Sorry for this inconvenience.","crewAssigned":false,"id":"442642","nbrOut":740,"planned":false,"timeOff":1795446476846},"type":"Feature"},
-{"geometry":{"coordinates":[-98.907064,29.966893],"type":"Point"},"properties":{"crewAssigned":false,"id":"442644","nbrOut":1,"planned":false,"timeOff":1795447801515},"type":"Feature"},
-{"geometry":{"coordinates":[-99.279137,29.840843],"type":"Point"},"properties":{"crewAssigned":true,"id":"442645","nbrOut":1,"planned":false,"timeOff":1795451416329},"type":"Feature"}
+{"geometry":{"coordinates":[-98.944937,29.699566],"type":"Point"},"properties":{"comment":"We are aware of the outage at your location. A crew has been dispatched. Sorry for this inconvenience.","crewAssigned":true,"id":"442520","nbrOut":19,"planned":true,"timeOff":1795446308262},"type":"Feature"},
+{"geometry":{"coordinates":[-99.279137,29.840843],"type":"Point"},"properties":{"crewAssigned":true,"id":"442645","nbrOut":1,"planned":false,"timeOff":1795451416329},"type":"Feature"},
+{"geometry":{"coordinates":[-98.797173,29.871726],"type":"Point"},"properties":{"crewAssigned":false,"id":"442647","nbrOut":1,"planned":false,"timeOff":1795453640498},"type":"Feature"},
+{"geometry":{"coordinates":[-98.765525,29.908953],"type":"Point"},"properties":{"crewAssigned":false,"id":"442649","nbrOut":1,"planned":false,"timeOff":1795453708556},"type":"Feature"}
 ]}
