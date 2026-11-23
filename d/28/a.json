@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-94.468273,32.03191],[-94.471983,32.033471],[-94.472108,32.032717],[-94.470015,32.032138],[-94.468273,32.03191]]],"type":"Polygon"},{"coordinates":[-94.470689,32.032633],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"RCEC Personnel","id":"731167","nbrOut":4},"type":"Feature"}
+{"geometry":{"coordinates":[-94.753551,32.387976],"type":"Point"},"properties":{"cause":"RCEC Personnel","id":"731168","nbrOut":1},"type":"Feature"}
 ]}
