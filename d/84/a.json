@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-89.79243,30.07913],"type":"Point"},"properties":{"cause":"Equipment Failure - Equipment Failure - Transformer","description":"A utility pole has broken. Our crews are on site making repairs.","etrTime":1795411800000,"id":408270,"identifier":"2326369370","lastUpdatedTime":1795400896000,"latitude":30.07913,"longitude":-89.79243,"numPeople":1,"startTime":1795399009000,"status":"First Responder has arrived","title":"Outage"},"type":"Feature"}
+
 ]}
