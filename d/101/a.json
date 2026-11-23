@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.275636,34.794435],"type":"Point"},"properties":{"cause":"Cause unknown","code":"999","crewAssigned":true,"customersOutInitially":38,"customersOutNow":38,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-23T11:35:34-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T07:39:18.403-06:00","outageName":"","outagePoint":{"lat":34.79443473242877,"lng":-92.27563586407732},"outageRecID":"2026-11-23-0187","outageStartTime":"2026-11-23T07:29:27-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["ALLEN ST","PIKE AVE","SCHAER ST","SCHAER ST #A","SCHAER ST #B","W 43RD ST","W 44TH ST","W 44TH ST #A","W 44TH ST #B"],"verified":true},"type":"Feature"}
 ]}
