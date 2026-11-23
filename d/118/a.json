@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.678273,30.662],"type":"Point"},"properties":{"cause":"Scheduled","code":"31","crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-23T11:04:16-06:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-23T09:05:51.353-06:00","outageName":"T16897T","outagePoint":{"lat":30.661999674790636,"lng":-97.6782727367042},"outageRecID":"2026-11-23-0109","outageStartTime":"2026-11-23T09:04:16-06:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
