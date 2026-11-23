@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.393653,33.094003],"type":"Point"},"properties":{"cause":"100 Construction","code":"100","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-23T18:30:05.387-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T15:35:11.803-06:00","outageName":"FDR904","outagePoint":{"lat":33.09400330174433,"lng":-95.39365329847732},"outageRecID":"2026-11-23-3382","outageStartTime":"2026-11-23T15:28:13-06:00","outageWorkStatus":"Dispatcher Reviewing","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
