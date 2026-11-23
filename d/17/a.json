@@ -3,5 +3,6 @@
 {"geometry":{"coordinates":[-98.782566,30.814046],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","comment":"If you are experiencing an outage please call 1-800-900-2832 and ask to speak with a dispatcher.  We need to confirm details or your outage prior to dispatching a crew.","id":"417771","nbrOut":1,"planned":true,"timeOff":1795444729000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.404421,30.599453],"type":"Point"},"properties":{"cause":"Fire","id":"418354","nbrOut":1,"planned":true,"timeOff":1795211875000},"type":"Feature"},
 {"geometry":{"coordinates":[-99.260776,30.093803],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418408","nbrOut":1,"planned":true,"timeOff":1795442995000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.205529,30.665919],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418409","nbrOut":1,"planned":true,"timeOff":1795444774000},"type":"Feature"}
+{"geometry":{"coordinates":[-99.205529,30.665919],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418409","nbrOut":1,"planned":true,"timeOff":1795444774000},"type":"Feature"},
+{"geometry":{"coordinates":[-98.796032,30.588287],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"418410","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1795445571000},"type":"Feature"}
 ]}
