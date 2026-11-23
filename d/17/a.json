@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.404421,30.599453],"type":"Point"},"properties":{"cause":"Fire","id":"418354","nbrOut":1,"planned":true,"timeOff":1795211875000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.404421,30.599453],"type":"Point"},"properties":{"cause":"Fire","id":"418354","nbrOut":1,"planned":true,"timeOff":1795211875000},"type":"Feature"},
+{"geometry":{"coordinates":[-98.875776,30.132952],"type":"Point"},"properties":{"cause":"AMI Self-report","id":"418407","nbrOut":1,"planned":true,"timeOff":1795439544556},"type":"Feature"}
 ]}
