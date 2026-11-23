@@ -1,5 +1,8 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-99.036808,26.834244],"type":"Point"},"properties":{"crewAssigned":true,"id":"876118","nbrOut":2,"planned":false,"timeOff":1795420594000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.86761,26.59966],"type":"Point"},"properties":{"crewAssigned":false,"id":"876121","nbrOut":1,"planned":false,"timeOff":1795424350000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.994784,26.424212],"type":"Point"},"properties":{"comment":"Currently (478) meters are without power. At this time, the cause of the outage and restoration time are unknown. We appreciate your patience as crews work to restore power as quickly and safely as possible. Outage updates will be posted on our outage map as they become available.","crewAssigned":true,"id":"876150","nbrOut":478,"planned":false,"timeOff":1795427196000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.994784,26.424212],"type":"Point"},"properties":{"comment":"Currently (478) meters are without power. At this time, the cause of the outage and restoration time are unknown. We appreciate your patience as crews work to restore power as quickly and safely as possible. Outage updates will be posted on our outage map as they become available.","crewAssigned":true,"id":"876150","nbrOut":479,"planned":false,"timeOff":1795427196000},"type":"Feature"},
+{"geometry":{"coordinates":[-99.051558,29.380157],"type":"Point"},"properties":{"crewAssigned":true,"id":"876153","nbrOut":1,"planned":false,"timeOff":1795432297000},"type":"Feature"},
+{"geometry":{"coordinates":[-99.52851,29.41399],"type":"Point"},"properties":{"crewAssigned":false,"id":"876154","nbrOut":1,"planned":false,"timeOff":1795442400000},"type":"Feature"},
+{"geometry":{"coordinates":[-99.355934,28.505582],"type":"Point"},"properties":{"crewAssigned":false,"id":"876155","nbrOut":1,"planned":false,"timeOff":1795442400000},"type":"Feature"}
 ]}
