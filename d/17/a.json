@@ -4,5 +4,5 @@
 {"geometry":{"coordinates":[-99.260776,30.093803],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418408","nbrOut":1,"planned":true,"timeOff":1795442995000},"type":"Feature"},
 {"geometry":{"coordinates":[-99.205529,30.665919],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418409","nbrOut":1,"planned":true,"timeOff":1795444774000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.796212,30.588434],"type":"Point"},"properties":{"cause":"Pre-arranged / Scheduled","id":"418410","nbrOut":1,"planned":true,"timeOff":1795445571000},"type":"Feature"},
-{"geometry":{"coordinates":[-99.125085,30.135119],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"418411","lifeCycleStatus":"Crew Assigned","nbrOut":1,"planned":false,"timeOff":1795449376000},"type":"Feature"}
+{"geometry":{"coordinates":[-99.125085,30.135119],"type":"Point"},"properties":{"cause":"Cause to be determined","id":"418411","lifeCycleStatus":"Crew Enroute","nbrOut":1,"planned":false,"timeOff":1795449376000},"type":"Feature"}
 ]}
