@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-99.594102,32.272738],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":8,"customersOutNow":8,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T11:20:02.217-06:00","outageName":"F20809","outagePoint":{"lat":32.2727379431837,"lng":-99.59410224957219},"outageRecID":"2026-11-23-0102","outageStartTime":"2026-11-23T11:12:39-06:00","outageWorkStatus":"Crew in Route","statusMessage":null,"streetsAffected":["FM 1178/2 WATER WELLS","PR 2242","SH 36W","ST HWY 36 W","ST HWY 36 W/CABIN","TOWER"],"verified":false},"type":"Feature"}
 ]}
