@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.439033,35.07575],"type":"Point"},"properties":{"cause":"Scheduled","code":"135","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T12:25:34.647-06:00","outageName":"10190 - S201","outagePoint":{"lat":35.07574951521464,"lng":-92.43903268856981},"outageRecID":"2026-11-23-0161","outageStartTime":"2026-11-23T12:23:33-06:00","outageWorkStatus":"","streetsAffected":["FAIRMONT DR LOT 55"],"verified":true},"type":"Feature"}
 ]}
