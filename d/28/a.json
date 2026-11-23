@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-94.60664,32.335043],[-94.605724,32.336166],[-94.606981,32.335172],[-94.60664,32.335043]]],"type":"Polygon"},{"coordinates":[-94.606451,32.33546],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Pole Chg Out","id":"731177","nbrOut":3},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-94.60664,32.335043],[-94.605724,32.336166],[-94.606981,32.335172],[-94.60664,32.335043]]],"type":"Polygon"},{"coordinates":[-94.606451,32.33546],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Pole Chg Out","id":"731177","nbrOut":3},"type":"Feature"},
+{"geometry":{"coordinates":[-94.501034,32.029153],"type":"Point"},"properties":{"cause":"RCEC Personnel","id":"731178","nbrOut":1},"type":"Feature"}
 ]}

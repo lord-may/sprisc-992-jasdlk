@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-94.642195,32.44169],[-94.639042,32.442539],[-94.638081,32.446155],[-94.637228,32.45692],[-94.638422,32.459406],[-94.638755,32.459853],[-94.639635,32.459701],[-94.640147,32.458966],[-94.644414,32.452773],[-94.644549,32.442994],[-94.642195,32.44169]]],"type":"Polygon"},{"coordinates":[-94.640875,32.450128],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Crews are working to repair a broken crossarm. Power will be restored as soon as repairs are complete. Thank you for your patience.","crewAssigned":true,"id":"651032","nbrOut":55,"planned":false,"timeOff":1795454832406},"type":"Feature"}
+
 ]}
