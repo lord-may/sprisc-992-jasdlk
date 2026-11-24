@@ -205,5 +205,5 @@
 {"geometry":{"coordinates":[-105.166049,31.949671],"type":"Point"},"properties":{"id":"703300","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-104.891533,30.879394],"type":"Point"},"properties":{"id":"703301","nbrOut":1},"type":"Feature"},
 {"geometry":{"coordinates":[-104.752294,30.859878],"type":"Point"},"properties":{"id":"703302","nbrOut":1},"type":"Feature"},
-{"geometry":{"coordinates":[-101.966349,30.572618],"type":"Point"},"properties":{"id":"703305","nbrOut":1},"type":"Feature"}
+{"geometry":{"coordinates":[-101.972277,30.56831],"type":"Point"},"properties":{"id":"703308","nbrOut":10},"type":"Feature"}
 ]}
