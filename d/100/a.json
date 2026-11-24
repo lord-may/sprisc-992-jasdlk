@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.415661,30.294428],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-24T16:04:32.813-06:00","outageName":"T40004","outagePoint":{"lat":30.294427627637738,"lng":-93.41566052575773},"outageRecID":"2026-11-24-0733","outageStartTime":"2026-11-24T15:58:05-06:00","outageWorkStatus":"","streetsAffected":["ST ANTHONY LN MH","ST JUDE LN HSE"],"verified":false},"type":"Feature"}
 ]}
