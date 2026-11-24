@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.925086,35.131009],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-23T18:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T16:02:27.997-08:00","outageName":"2026-11-23-0735","outagePoint":{"lat":35.13100912580083,"lng":-91.92508565993192},"outageRecID":"2026-11-23-0735","outageStartTime":"2026-11-23T15:28:21-08:00","outageWorkStatus":"","streetsAffected":["LOGAN"],"verified":true},"type":"Feature"}
+
 ]}
