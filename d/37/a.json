@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-106.204375,35.168065],"type":"Point"},"properties":{"crewAssigned":false,"estimateTime":1795550400000,"id":"371932","nbrOut":1,"planned":false,"timeOff":1795542814368},"type":"Feature"}
+{"geometry":{"coordinates":[-106.204375,35.168065],"type":"Point"},"properties":{"crewAssigned":true,"estimateTime":1795550400000,"id":"371932","lifeCycleStatus":"A crew is in the area.","nbrOut":1,"planned":false,"timeOff":1795542814368},"type":"Feature"}
 ]}
