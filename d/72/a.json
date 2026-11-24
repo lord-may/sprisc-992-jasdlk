@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.40699,34.148296],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":53,"customersOutNow":53,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-24T12:34:12.587-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-24T08:41:54.23-06:00","outageName":"","outagePoint":{"lat":34.148296272608306,"lng":-92.40699011449587},"outageRecID":"2026-11-24-0338","outageStartTime":"2026-11-24T08:34:10-06:00","outageWorkStatus":"","streetsAffected":["CEDAR LAKE DR","GRANT 13","GRANT 13 RD.","GRANT 167096","HIGHWAY 167 S","ISLAND TRAIL","ISLAND TRAILS","US HWY 167","US HWY 167 S."],"verified":false},"type":"Feature"}
 ]}
