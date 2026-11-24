@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-105.108548,35.18889],"type":"Point"},"properties":{"incident":{"affected_count":1,"etr":"","incident_category":"Power Outage","incident_department":"Power","polygon_coords":[],"sk_id":"incident-power-poweroutage-0bb0a8c1-d8fa-46ad-b58d-88266502ebb9","start_time":1795482786,"status":"In Discovery","title":"Resident Reported Power Outage"},"map":{"center":{"lat":35.18888984,"lng":-105.108548},"radius":200,"type":"circle"}},"type":"Feature"},
-{"geometry":{"coordinates":[-105.320362,35.803522],"type":"Point"},"properties":{"incident":{"affected_count":1,"etr":"","incident_category":"Power Outage","incident_department":"Power","polygon_coords":[],"sk_id":"incident-power-poweroutage-cd443b32-71f0-4133-893c-7c1e72b90c81","start_time":1795501565,"status":"In Discovery","title":"Resident Reported Power Outage"},"map":{"center":{"lat":35.80352182,"lng":-105.320362},"radius":200,"type":"circle"}},"type":"Feature"}
+
 ]}
