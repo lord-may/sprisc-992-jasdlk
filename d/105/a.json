@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-99.631425,32.490285],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T19:22:32.663-06:00","outageName":"XFMR817401","outagePoint":{"lat":32.49028526570284,"lng":-99.63142520480578},"outageRecID":"2026-11-23-0103","outageStartTime":"2026-11-23T19:17:00-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":["MORE TRAILERS"],"verified":false},"type":"Feature"}
 ]}
