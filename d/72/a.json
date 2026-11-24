@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.346001,34.171493],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":75,"customersOutNow":75,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-23T20:22:27.397-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-23T16:28:13.7-06:00","outageName":"","outagePoint":{"lat":34.17149349575871,"lng":-92.3460010005825},"outageRecID":"2026-11-23-0335","outageStartTime":"2026-11-23T16:22:18-06:00","outageWorkStatus":"","streetsAffected":["GRANT 14","GRANT 14 RD.","GRANT 142","GRANT 16","GRANT 16 RD.","HIGHWAY 35 S"],"verified":false},"type":"Feature"}
+
 ]}
