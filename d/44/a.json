@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-96.815031,29.891361],[-96.815759,29.892335],[-96.817169,29.893745],[-96.816864,29.89334],[-96.816047,29.892366],[-96.815031,29.891361]]],"type":"Polygon"},{"coordinates":[-96.816064,29.892514],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Fayette Electric crews are taking a clearance east of La Grange on the south side of St Hwy 71 to safely change out a pole. Power will be out from 9:00am to 12:00pm. We apologize for the inconvenience and appreciate your cooperation in this matter. For questions, please call our office at 979-968-3181.","crewAssigned":true,"id":"228563","nbrOut":5,"planned":false,"timeOff":1795532640000},"type":"Feature"}
+
 ]}
