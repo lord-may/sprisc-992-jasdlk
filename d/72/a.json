@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.459769,34.413241],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-24T14:41:43.81-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-24T10:42:43.433-06:00","outageName":"","outagePoint":{"lat":34.41324109587733,"lng":-92.45976894490005},"outageRecID":"2026-11-24-0340","outageStartTime":"2026-11-24T10:41:39-06:00","outageWorkStatus":"","streetsAffected":["GRANT 542 RD."],"verified":false},"type":"Feature"}
 ]}

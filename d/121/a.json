@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.922239,31.377285],"type":"Point"},"properties":{"cause":"2. Pre Arranged","code":"100","crewAssigned":false,"customersOutInitially":38,"customersOutNow":38,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-24T14:10:41.287-06:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-24T10:13:37.167-06:00","outageName":"23B-39P5P1","outagePoint":{"lat":31.377285075361314,"lng":-95.9222385958203},"outageRecID":"2026-11-24-0180","outageStartTime":"2026-11-24T10:10:11-06:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
