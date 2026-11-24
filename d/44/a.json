@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.97459,29.616772],"type":"Point"},"properties":{"crewAssigned":true,"id":"228608","nbrOut":1,"planned":false,"timeOff":1795555090545},"type":"Feature"}
+{"geometry":{"coordinates":[-96.97459,29.616772],"type":"Point"},"properties":{"comment":"Fayette Electric is aware of a power outage between the Saint John and Moravia areas off FM 957.","crewAssigned":true,"id":"228608","nbrOut":1,"planned":false,"timeOff":1795555090545},"type":"Feature"}
 ]}
