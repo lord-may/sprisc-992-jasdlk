@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-105.707203,33.741221],[-105.703879,33.746181],[-105.68903,33.774635],[-105.691527,33.777711],[-105.721576,33.776681],[-105.743405,33.748937],[-105.726589,33.744679],[-105.707203,33.741221]]],"type":"Polygon"},{"coordinates":[-105.714596,33.760252],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"Crews have been dispatched from Corona. Thank you for your patience.","crewAssigned":true,"estimateTime":1795548600000,"id":"371931","lifeCycleStatus":"A crew is in the area.","nbrOut":47,"planned":false,"timeOff":1795533489925},"type":"Feature"}
+
 ]}
