@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.286208,30.517906],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-24T17:50:33.06-06:00","outageName":"T41190","outagePoint":{"lat":30.51790562343295,"lng":-93.28620804229944},"outageRecID":"2026-11-24-0735","outageStartTime":"2026-11-24T17:46:16-06:00","outageWorkStatus":"","streetsAffected":["S COOLEY RD"],"verified":false},"type":"Feature"}
+
 ]}
