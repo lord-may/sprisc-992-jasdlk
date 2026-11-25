@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.941373,29.8537],"type":"Point"},"properties":{"cause":"Squirrel","code":"620","crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-25T15:00:35-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-25T13:20:00-06:00","outageName":"","outagePoint":{"lat":29.853700290185145,"lng":-97.94137296176159},"outageRecID":"2026-11-25-0109","outageStartTime":"2026-11-25T12:54:47-06:00","outageWorkStatus":"Repair in Progress","streetsAffected":["MOCKINGBIRD DR"],"verified":true},"type":"Feature"}
+
 ]}

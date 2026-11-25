@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-94.685386,31.863285],[-94.685341,31.863544],[-94.685333,31.86385],[-94.685539,31.863544],[-94.685485,31.863407],[-94.685413,31.863308],[-94.685386,31.863285]]],"type":"Polygon"},{"coordinates":[-94.685413,31.863552],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Change Cause Code","id":"731381","nbrOut":7},"type":"Feature"}
+{"geometry":{"geometries":[{"coordinates":[[[-94.685386,31.863285],[-94.685341,31.863544],[-94.685333,31.86385],[-94.685539,31.863544],[-94.685485,31.863407],[-94.685413,31.863308],[-94.685386,31.863285]]],"type":"Polygon"},{"coordinates":[-94.685413,31.863552],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Change Cause Code","id":"731381","nbrOut":7},"type":"Feature"},
+{"geometry":{"coordinates":[-94.618336,32.29432],"type":"Point"},"properties":{"cause":"Change Cause Code","id":"731382","nbrOut":1},"type":"Feature"}
 ]}
