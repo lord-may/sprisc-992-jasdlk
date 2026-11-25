@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.329324,36.215099],"type":"Point"},"properties":{"AffectedCounties":null,"AffectedRegions":null,"Assigned":"True","AssignedTo":"Truck 64","CaseNumber":"261124-P0001","CaseStatus":"Predicted","Cause":"","CutomersAffected":1,"ElementName":"T-85297","EndTime":"/Date(-62135575200000)/","OutageTime":"11/24/2026 5:01:14 PM","PoleNumber":"85297","RestorationTime":null,"StartTime":"/Date(-62135575200000)/","X":-99.32932441688584,"Y":36.215099352007364,"__type":"OutageWebMap.Web.MobileOutage"},"type":"Feature"}
+
 ]}
