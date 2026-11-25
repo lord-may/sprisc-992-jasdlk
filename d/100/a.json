@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-93.136401,30.742251],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":5,"customersOutNow":5,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-25T07:55:57.897-06:00","outageName":"D44353","outagePoint":{"lat":30.742250700704794,"lng":-93.13640051014193},"outageRecID":"2026-11-25-0740","outageStartTime":"2026-11-25T07:54:38-06:00","outageWorkStatus":"","streetsAffected":["GREENTOWN RD HOUSE","GREENTOWN RD SHED","GREENTOWN RD TEMP-WELL","LUMAS RD"],"verified":false},"type":"Feature"}
 ]}
