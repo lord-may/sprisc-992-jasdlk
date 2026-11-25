@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.829348,33.761399],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":11,"customersOutNow":11,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-25T11:18:18.713-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-25T07:21:45.17-06:00","outageName":"","outagePoint":{"lat":33.76139941549413,"lng":-91.82934767912182},"outageRecID":"2026-11-25-0345","outageStartTime":"2026-11-25T07:18:04-06:00","outageWorkStatus":"Crew in Route","streetsAffected":["A - US HWY 425","B HIGHWAY 425 N","HIGHWAY 425 N","HIGHWAY 425 N.","HWY 425 N","US HWY 425"],"verified":false},"type":"Feature"}
+
 ]}
