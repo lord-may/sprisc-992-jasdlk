@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.682203,30.648177],"type":"Point"},"properties":{"cause":"Scheduled","code":"31","crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-25T10:28:18-06:00","isPlanned":true,"outageEndTime":null,"outageModifiedTime":"2026-11-25T08:30:28.137-06:00","outageName":"T18728T","outagePoint":{"lat":30.64817723865504,"lng":-97.68220263813713},"outageRecID":"2026-11-25-0116","outageStartTime":"2026-11-25T08:28:18-06:00","outageWorkStatus":"Repair in Progress","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
