@@ -1,8 +1,9 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.926472,28.91379],"type":"Point"},"properties":{"comment":"KEC CREW ONSITE","crewAssigned":true,"id":"335218","nbrOut":1,"planned":false,"timeOff":1795610220000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.777123,29.066589],"type":"Point"},"properties":{"comment":"KEC Contractor working on location ","crewAssigned":true,"id":"335219","nbrOut":1,"planned":true,"timeOff":1795613570360},"type":"Feature"},
 {"geometry":{"coordinates":[-98.732288,28.952919],"type":"Point"},"properties":{"comment":"Next available KEC crew to be enroute.","crewAssigned":true,"id":"335220","nbrOut":1,"planned":false,"timeOff":1795614540000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.72317,28.966996],"type":"Point"},"properties":{"comment":"Next available KEC crew to be enroute.","crewAssigned":true,"id":"335221","nbrOut":1,"planned":false,"timeOff":1795614540000},"type":"Feature"},
 {"geometry":{"coordinates":[-98.657332,28.974069],"type":"Point"},"properties":{"comment":"Next available KEC crew to be enroute.","crewAssigned":true,"id":"335222","nbrOut":1,"planned":false,"timeOff":1795615020000},"type":"Feature"},
-{"geometry":{"coordinates":[-98.719514,28.913601],"type":"Point"},"properties":{"comment":"Next available KEC crew to be enroute.","crewAssigned":true,"id":"335243","nbrOut":185,"planned":false,"timeOff":1795616911000},"type":"Feature"}
+{"geometry":{"coordinates":[-98.719514,28.913601],"type":"Point"},"properties":{"comment":"Next available KEC crew to be enroute.","crewAssigned":true,"id":"335243","nbrOut":185,"planned":false,"timeOff":1795616911000},"type":"Feature"},
+{"geometry":{"coordinates":[-98.673583,29.140196],"type":"Point"},"properties":{"comment":"Next available KEC crew to be enroute.","crewAssigned":false,"id":"335244","nbrOut":2,"planned":false,"timeOff":1795619829000},"type":"Feature"},
+{"geometry":{"coordinates":[-98.273285,28.864672],"type":"Point"},"properties":{"comment":"KEC crew working at location.","crewAssigned":false,"id":"335245","nbrOut":1,"planned":false,"timeOff":1795620107000},"type":"Feature"}
 ]}
