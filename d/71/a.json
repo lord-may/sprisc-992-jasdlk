@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.32679,30.672901],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":12,"customersOutNow":12,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T07:24:11.997-06:00","outageName":"XFMR7365","outagePoint":{"lat":30.672901132690967,"lng":-96.32678955062795},"outageRecID":"2026-11-26-1788","outageStartTime":"2026-11-26T07:19:29-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}

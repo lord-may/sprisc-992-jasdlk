@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-90.08458,29.96945],"type":"Point"},"properties":{"cause":"Investigating","description":"An outage has been reported in your area. Additional information will be provided when available. We apologize for this inconvenience.","etrTime":1795712400000,"id":412825,"identifier":"2330384270","lastUpdatedTime":1795701616000,"latitude":29.96945,"longitude":-90.08458,"numPeople":1,"startTime":1795701360000,"status":"Outage Reported","title":"Outage"},"type":"Feature"},
+{"geometry":{"coordinates":[-89.92831,30.06143],"type":"Point"},"properties":{"cause":"Investigating","description":"An outage has been reported in your area. Additional information will be provided when available. We apologize for this inconvenience.","etrTime":1795714200000,"id":412829,"identifier":"2330384275","lastUpdatedTime":1795702095000,"latitude":30.06143,"longitude":-89.92831,"numPeople":1,"startTime":1795701558000,"status":"Outage Reported","title":"Outage"},"type":"Feature"}
 ]}
