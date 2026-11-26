@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"geometries":[{"coordinates":[[[-94.970889,32.572439],[-94.9639,32.574847],[-94.966191,32.576717],[-94.969667,32.576876],[-94.970889,32.572439]]],"type":"Polygon"},{"coordinates":[-94.967871,32.574975],"type":"Point"}],"type":"GeometryCollection"},"properties":{"comment":"A service crew has been dispatched and will be on the way to locate the cause of the outage in your area. Thank you for your patience.","crewAssigned":true,"id":"651074","nbrOut":8,"planned":false,"timeOff":1795714094788},"type":"Feature"},
-{"geometry":{"coordinates":[-94.970521,32.575316],"type":"Point"},"properties":{"comment":"Has a limb on the transformer, heard a loud pop","crewAssigned":true,"id":"651075","nbrOut":1,"planned":false,"timeOff":1795714395000},"type":"Feature"}
+
 ]}
