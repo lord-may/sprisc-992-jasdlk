@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.627585,35.00341],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-26T12:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T08:39:56.483-08:00","outageName":"2026-11-26-0815","outagePoint":{"lat":35.00340989773458,"lng":-92.62758497841662},"outageRecID":"2026-11-26-0815","outageStartTime":"2026-11-26T08:15:00-08:00","outageWorkStatus":"","streetsAffected":["N HOLDEN STREET"],"verified":false},"type":"Feature"}
 ]}
