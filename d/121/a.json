@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.963796,31.36796],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-26T00:02:52.02-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-25T20:22:25.507-06:00","outageName":"23B-27","outagePoint":{"lat":31.367960346839524,"lng":-95.96379595585682},"outageRecID":"2026-11-25-0189","outageStartTime":"2026-11-25T20:02:46-06:00","outageWorkStatus":"Crew in Route","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
