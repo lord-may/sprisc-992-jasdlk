@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.299802,34.508642],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-26T17:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T14:21:38.357-08:00","outageName":"2026-11-26-0827","outagePoint":{"lat":34.50864186320578,"lng":-91.29980233848872},"outageRecID":"2026-11-26-0827","outageStartTime":"2026-11-26T13:44:38-08:00","outageWorkStatus":"","streetsAffected":["MARSH LANE","MARSH LN"],"verified":true},"type":"Feature"}
+
 ]}

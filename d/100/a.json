@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-93.22382,30.743005],"type":"Point"},"properties":{"cause":"Dead Out - ROW","code":"42","crewAssigned":true,"customersOutInitially":16,"customersOutNow":16,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T17:16:18.627-06:00","outageName":"D44540","outagePoint":{"lat":30.743004598610707,"lng":-93.2238199274738},"outageRecID":"2026-11-26-0771","outageStartTime":"2026-11-26T16:31:27-06:00","outageWorkStatus":"","streetsAffected":["DIXIE LN BARN","DIXIE LN HSE","FLAT CREEK RANCH RD","LUMAS RD","MARVIN SHIRLEY RD","MARVIN SHIRLEY RD HSE","MARVIN SHIRLEY RD TRA"],"verified":true},"type":"Feature"}
+
 ]}
