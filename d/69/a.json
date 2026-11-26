@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.182499,34.209292],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":27,"customersOutNow":27,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-26T09:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T06:48:14.74-08:00","outageName":"2026-11-26-0814","outagePoint":{"lat":34.20929213639817,"lng":-91.18249864686523},"outageRecID":"2026-11-26-0814","outageStartTime":"2026-11-26T05:21:58-08:00","outageWorkStatus":"","streetsAffected":["BEAR LANE","BITNER","BITNER LANE","BITNER LN","BITNER RD","BITNER ROAD","COLD SPRINGS DEER CAMP","COLE SPRINGS DEER CAMP","ESSEX BAYOU","ESSEX BAYOU HUNTING CLUB","LAGRUE COOK SHACK","TIPSY LANE","TIPSY LN","W HIGHWAY 130"],"verified":true},"type":"Feature"}
+
 ]}
