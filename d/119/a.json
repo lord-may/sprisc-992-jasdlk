@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-90.598612,35.678584],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T17:02:59.74-06:00","outageName":"15987","outagePoint":{"lat":35.678584216986565,"lng":-90.59861242296171},"outageRecID":"2026-11-26-0211","outageStartTime":"2026-11-26T16:58:41-06:00","outageWorkStatus":"Line Patrol","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
