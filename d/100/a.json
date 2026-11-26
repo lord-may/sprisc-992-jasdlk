@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.829164,30.570371],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T11:46:15.383-06:00","outageName":"7335650002","outagePoint":{"lat":30.570370974328966,"lng":-92.82916420785857},"outageRecID":"2026-11-26-0765","outageStartTime":"2026-11-26T11:46:13-06:00","outageWorkStatus":"","streetsAffected":["COLE RD HSE"],"verified":true},"type":"Feature"}
 ]}
