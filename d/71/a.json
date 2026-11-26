@@ -1,3 +1,4 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-96.358384,30.653827],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":47,"customersOutNow":47,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T03:38:10.69-06:00","outageName":"FS4313","outagePoint":{"lat":30.653826855126958,"lng":-96.35838410363624},"outageRecID":"2026-11-26-1784","outageStartTime":"2026-11-26T03:25:28-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"},
+{"geometry":{"coordinates":[-96.357958,30.652006],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":15,"customersOutNow":15,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T03:25:42.46-06:00","outageName":"FS0828","outagePoint":{"lat":30.65200572520596,"lng":-96.35795821145834},"outageRecID":"2026-11-26-1785","outageStartTime":"2026-11-26T03:25:28-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
