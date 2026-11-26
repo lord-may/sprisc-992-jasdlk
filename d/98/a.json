@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.850599,33.083573],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-26T05:18:24.617-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T02:20:27.1-06:00","outageName":"FDR701","outagePoint":{"lat":33.08357349272795,"lng":-95.85059864364746},"outageRecID":"2026-11-26-3475","outageStartTime":"2026-11-26T02:15:24-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
 ]}
