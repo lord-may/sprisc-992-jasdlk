@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-100.01485,32.458794],"type":"Point"},"properties":{"cause":"600 Small animal/bird","code":"600","crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T14:39:34.78-06:00","outageName":"XFMR5805132281","outagePoint":{"lat":32.458793743545456,"lng":-100.01485039067092},"outageRecID":"2026-11-26-0106","outageStartTime":"2026-11-26T14:23:00-06:00","outageWorkStatus":"Repair in Progress","statusMessage":null,"streetsAffected":["OAK"],"verified":true},"type":"Feature"}
 ]}
