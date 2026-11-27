@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-96.392009,30.654175],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-27T12:35:32.33-06:00","outageName":"XFMR33291","outagePoint":{"lat":30.654174852697867,"lng":-96.3920087086118},"outageRecID":"2026-11-27-1805","outageStartTime":"2026-11-27T12:29:26-06:00","outageWorkStatus":"","streetsAffected":null,"verified":true},"type":"Feature"}
+
 ]}
