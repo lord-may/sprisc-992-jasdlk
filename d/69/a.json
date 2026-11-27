@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.390651,34.551771],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":34,"customersOutNow":34,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-27T05:26:55.437-08:00","outageName":"2026-11-27-0832","outagePoint":{"lat":34.55177130134662,"lng":-92.39065057875203},"outageRecID":"2026-11-27-0832","outageStartTime":"2026-11-27T05:24:03-08:00","outageWorkStatus":"","streetsAffected":["BRADBURY LN","DONNA CV","DONNA LANE","DONNA LN","GENTLE PINES CV","SARDIS TANK","WANDA LN"],"verified":false},"type":"Feature"}
 ]}
