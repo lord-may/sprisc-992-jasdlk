@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.33868,34.779598],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-27T03:45:01.95-06:00","outageName":"05-44-5-10-L","outagePoint":{"lat":34.77959830314517,"lng":-98.33868037645136},"outageRecID":"2026-11-27-0118","outageStartTime":"2026-11-27T03:44:54-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
