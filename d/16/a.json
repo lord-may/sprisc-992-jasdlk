@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-94.916541,30.713791],"type":"Point"},"properties":{"comment":"Scheduled Maintenance/ System upgrade","estimateTime":1795806900000,"id":"625498","nbrOut":1,"planned":false,"timeOff":1795798675000},"type":"Feature"}
+
 ]}
