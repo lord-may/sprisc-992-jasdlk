@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-90.576436,35.956919],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":27,"customersOutNow":27,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T18:13:05.59-06:00","outageName":"E0905086RC01","outagePoint":{"lat":35.95691917898878,"lng":-90.57643619074022},"outageRecID":"2026-11-26-0212","outageStartTime":"2026-11-26T18:11:42-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
