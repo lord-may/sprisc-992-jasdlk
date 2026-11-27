@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.092287,34.743209],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":2,"customersOutNow":2,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T23:58:30.143-06:00","outageName":"OCD621","outagePoint":{"lat":34.743208748775764,"lng":-98.09228664666486},"outageRecID":"2026-11-26-0117","outageStartTime":"2026-11-26T23:36:15-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
+
 ]}
