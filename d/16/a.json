@@ -1,7 +1,5 @@
 {"type":"FeatureCollection","features":[
 {"geometry":{"coordinates":[-95.035936,30.715938],"type":"Point"},"properties":{"comment":"Crew Assigned","estimateTime":1795797000000,"id":"625450","nbrOut":1,"planned":false,"timeOff":1795698122000},"type":"Feature"},
 {"geometry":{"coordinates":[-94.757234,30.352761],"type":"Point"},"properties":{"estimateTime":1795795200000,"id":"625487","nbrOut":1,"planned":false,"timeOff":1795787423485},"type":"Feature"},
-{"geometry":{"coordinates":[-94.717366,30.573833],"type":"Point"},"properties":{"comment":"Scheduled Maintenance/ System upgrade","estimateTime":1795795200000,"id":"625488","nbrOut":1,"planned":false,"timeOff":1795787623000},"type":"Feature"},
-{"geometry":{"coordinates":[-94.866711,30.663076],"type":"Point"},"properties":{"comment":"Crew Assigned","estimateTime":1795796100000,"id":"625489","nbrOut":1,"planned":false,"timeOff":1795787798000},"type":"Feature"},
-{"geometry":{"coordinates":[-95.146743,30.468969],"type":"Point"},"properties":{"estimateTime":1795796100000,"id":"625490","nbrOut":1,"planned":false,"timeOff":1795788603895},"type":"Feature"}
+{"geometry":{"coordinates":[-94.866711,30.663076],"type":"Point"},"properties":{"comment":"Crew Assigned","estimateTime":1795796100000,"id":"625489","nbrOut":1,"planned":false,"timeOff":1795787798000},"type":"Feature"}
 ]}
