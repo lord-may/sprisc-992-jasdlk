@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-95.159637,31.772159],"type":"Point"},"properties":{"consumers_affected":"1","estimated_restore_time":null,"feeder":"1","formatted_ert":null,"incident_id":"C573696","lat":"31.77215886200003","lon":"-95.15963749899998","opt_code":null,"start_date":"11/27 10:14 am","substation":"1"},"type":"Feature"},
-{"geometry":{"coordinates":[-95.158071,31.776032],"type":"Point"},"properties":{"consumers_affected":"1","estimated_restore_time":null,"feeder":"1","formatted_ert":null,"incident_id":"C573697","lat":"31.776032060000038","lon":"-95.15807083599998","opt_code":null,"start_date":"11/27 10:15 am","substation":"1"},"type":"Feature"}
+
 ]}
