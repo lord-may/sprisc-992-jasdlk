@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-97.947321,29.848531],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-26T19:36:41.41-06:00","outageName":"","outagePoint":{"lat":29.848530527714036,"lng":-97.947320753763},"outageRecID":"2026-11-26-0111","outageStartTime":"2026-11-26T19:32:25-06:00","outageWorkStatus":"","streetsAffected":["SADLER DR 6312"],"verified":false},"type":"Feature"}
 ]}
