@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"geometries":[{"coordinates":[[[-105.672708,33.43026],[-105.670803,33.431422],[-105.669195,33.435665],[-105.671737,33.435095],[-105.673247,33.433333],[-105.673247,33.431632],[-105.673004,33.430402],[-105.672708,33.43026]]],"type":"Polygon"},{"coordinates":[-105.671531,33.433079],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Public, Other (Accidents)","comment":"Broken pole being replaced, affecting Raven's Wing & Shaunna Lane. ETR 7:30 PM.","estimateTime":1795833000000,"id":"488482","nbrOut":28,"planned":false,"timeOff":1795813200000},"type":"Feature"}
 ]}
