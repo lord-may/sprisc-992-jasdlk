@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.954456,35.021734],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-27T08:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-27T04:28:11.2-08:00","outageName":"2026-11-27-0831","outagePoint":{"lat":35.02173444920523,"lng":-91.95445609376186},"outageRecID":"2026-11-27-0831","outageStartTime":"2026-11-27T04:04:37-08:00","outageWorkStatus":"","streetsAffected":["GERALDINE ST"],"verified":false},"type":"Feature"}
+
 ]}
