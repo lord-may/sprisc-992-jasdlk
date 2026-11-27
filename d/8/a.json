@@ -1,4 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-97.94298,30.38533],"type":"Point"},"properties":{"cause":{"EN-US":"Under Investigation","ES-ES":"Investigación en curso","es-US":"Investigación en curso","orig":"No Selection"},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Pending","ES-ES":"Pendiente","es-US":"Pendiente","orig":"N/A"},"cust_a":{"val":1},"etr":"2026-11-27T22:57:42Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-27T20:42:38Z","title":"Area Outage"},"type":"Feature"},
-{"geometry":{"coordinates":[-97.69541,30.32029],"type":"Point"},"properties":{"cause":{},"cluster":false,"comments":null,"crew_icon":false,"crew_status":{"EN-US":"Pending","ES-ES":"Pendiente","es-US":"Pendiente","orig":"N/A"},"cust_a":{"val":1},"etr":"2026-11-27T23:04:39Z","etr_confidence":null,"inc_id":null,"n_out":1,"start_time":"2026-11-27T20:49:36Z","title":"Area Outage"},"type":"Feature"}
+
 ]}
