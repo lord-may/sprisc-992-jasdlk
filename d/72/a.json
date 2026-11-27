@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.737005,33.478363],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-27T08:27:53.903-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-27T05:02:33.99-06:00","outageName":"","outagePoint":{"lat":33.47836287510355,"lng":-91.73700450869693},"outageRecID":"2026-11-27-0369","outageStartTime":"2026-11-27T04:27:51-06:00","outageWorkStatus":"Repair in Progress","streetsAffected":["PLEASANT GROVE RD."],"verified":false},"type":"Feature"}
+
 ]}
