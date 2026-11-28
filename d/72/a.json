@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-92.039139,34.134127],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":true,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-28T00:02:31.28-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-27T20:08:52.807-06:00","outageName":"","outagePoint":{"lat":34.13412657683286,"lng":-92.03913850174654},"outageRecID":"2026-11-27-0374","outageStartTime":"2026-11-27T20:02:29-06:00","outageWorkStatus":"Crew in Route","streetsAffected":["DIVOKY RD","DIVOKY RD."],"verified":false},"type":"Feature"}
+
 ]}
