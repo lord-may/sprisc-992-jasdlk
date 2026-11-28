@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-98.443569,30.82946],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"418501","lifeCycleStatus":"Crew On-Site","nbrOut":1,"planned":false,"timeOff":1795877220000},"type":"Feature"},
 {"geometry":{"geometries":[{"coordinates":[[[-98.449633,30.744941],[-98.449552,30.745327],[-98.450253,30.745613],[-98.449633,30.744941]]],"type":"Polygon"},{"coordinates":[-98.449813,30.745289],"type":"Point"}],"type":"GeometryCollection"},"properties":{"cause":"Cause to be determined","id":"418502","nbrOut":4,"planned":true,"timeOff":1795878919028},"type":"Feature"},
-{"geometry":{"coordinates":[-98.6972,30.732487],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"Crews have been dispatched and we will restore power as safely and quickly as possible.","id":"418503","nbrOut":1,"planned":false,"timeOff":1795879072961},"type":"Feature"}
+{"geometry":{"coordinates":[-98.6972,30.732487],"type":"Point"},"properties":{"cause":"Cause to be determined","comment":"The crew is enroute to the location.","id":"418503","lifeCycleStatus":"Crew Enroute","nbrOut":1,"planned":false,"timeOff":1795879072961},"type":"Feature"}
 ]}
