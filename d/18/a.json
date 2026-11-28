@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-99.130691,29.768373],"type":"Point"},"properties":{"crewAssigned":false,"id":"442894","nbrOut":1,"planned":false,"timeOff":1795828138317},"type":"Feature"}
+{"geometry":{"coordinates":[-99.130691,29.768373],"type":"Point"},"properties":{"comment":"We are aware of the outage at your location. A crew has been dispatched. Sorry for this inconvenience.","crewAssigned":true,"id":"442894","nbrOut":1,"planned":false,"timeOff":1795828138317},"type":"Feature"}
 ]}
