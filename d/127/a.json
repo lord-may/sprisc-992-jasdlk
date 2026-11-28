@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.313213,34.549145],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":12,"customersOutNow":12,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-28T09:33:48.513-06:00","outageName":"OCD2027","outagePoint":{"lat":34.54914509720398,"lng":-98.31321349055375},"outageRecID":"2026-11-28-0121","outageStartTime":"2026-11-28T09:28:09-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
