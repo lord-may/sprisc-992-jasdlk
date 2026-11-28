@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-98.708267,34.603676],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":null,"isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-28T11:48:10.41-06:00","outageName":"17-65-5-20-J","outagePoint":{"lat":34.60367596241104,"lng":-98.70826658652824},"outageRecID":"2026-11-28-0122","outageStartTime":"2026-11-28T11:47:54-06:00","outageWorkStatus":"","statusMessage":null,"streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
