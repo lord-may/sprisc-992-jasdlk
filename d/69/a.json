@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-{"geometry":{"coordinates":[-91.650223,34.356558],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-28T10:00:01-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-27T20:19:14.697-08:00","outageName":"2026-11-27-0855","outagePoint":{"lat":34.356557714311656,"lng":-91.65022278172577},"outageRecID":"2026-11-27-0855","outageStartTime":"2026-11-27T18:47:26-08:00","outageWorkStatus":"","streetsAffected":["TIPTON LANE"],"verified":true},"type":"Feature"}
+
 ]}
