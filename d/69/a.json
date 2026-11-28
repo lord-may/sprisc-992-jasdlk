@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.57401,34.701794],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":3,"customersOutNow":3,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-28T11:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-28T08:16:42.76-08:00","outageName":"2026-11-28-0862","outagePoint":{"lat":34.70179376233346,"lng":-92.57400973672318},"outageRecID":"2026-11-28-0862","outageStartTime":"2026-11-28T08:11:11-08:00","outageWorkStatus":"","streetsAffected":["AVILLA HEIGHTS DR","S AVILLA HEIGHTS"],"verified":false},"type":"Feature"}
 ]}
