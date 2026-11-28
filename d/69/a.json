@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-92.067612,34.992718],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":7,"customersOutNow":7,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-28T08:00:00-08:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-28T04:53:47.36-08:00","outageName":"2026-11-28-0857","outagePoint":{"lat":34.99271755641719,"lng":-92.0676123135146},"outageRecID":"2026-11-28-0857","outageStartTime":"2026-11-28T04:46:35-08:00","outageWorkStatus":"","streetsAffected":["HIDDEN VALLEY COVE","HIDDEN VALLEY CV","HIGHWAY 5"],"verified":false},"type":"Feature"}
 ]}
