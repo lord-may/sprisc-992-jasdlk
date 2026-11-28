@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-95.603097,31.609791],"type":"Point"},"properties":{"cause":null,"code":null,"crewAssigned":false,"customersOutInitially":1,"customersOutNow":1,"customersRestored":0,"estimatedTimeOfRestoral":"2026-11-28T15:02:18.283-06:00","isPlanned":false,"outageEndTime":null,"outageModifiedTime":"2026-11-28T11:02:18.327-06:00","outageName":"7F-59","outagePoint":{"lat":31.609791390865407,"lng":-95.60309728770568},"outageRecID":"2026-11-28-0199","outageStartTime":"2026-11-28T11:01:26-06:00","outageWorkStatus":"","streetsAffected":null,"verified":false},"type":"Feature"}
 ]}
