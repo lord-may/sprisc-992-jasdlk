@@ -1,3 +1,3 @@
 {"type":"FeatureCollection","features":[
-
+{"geometry":{"coordinates":[-90.12347,29.96238],"type":"Point"},"properties":{"cause":"Investigating","description":"An outage has been reported in your area. Additional information will be provided when available. We apologize for this inconvenience.","etrTime":1795865400000,"id":414498,"identifier":"2332389637","lastUpdatedTime":1795854256000,"latitude":29.96238,"longitude":-90.12347,"numPeople":1,"startTime":1795853883000,"status":"Outage Reported","title":"Outage"},"type":"Feature"}
 ]}
